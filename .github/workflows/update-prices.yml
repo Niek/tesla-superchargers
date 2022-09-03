@@ -31,3 +31,9 @@ jobs:
         with:
           message: "Updated pricing data"
           add: "*.json"
+
+      - name: Manually invoke render workflow
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: Render pages
+          token: ${{ secrets.PAT }}

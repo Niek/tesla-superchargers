@@ -1,6 +1,7 @@
-name: GitHub render pages
+name: Render pages
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
