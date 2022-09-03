@@ -164,7 +164,7 @@ const getPrices = async (token) => {
 
   console.log(`Calling the pricing API ${promises.length} times...`)
 
-  await executeInChunk(promises, 20)
+  await executeInChunk(promises, 10)
 
   console.log(`Updated ${Object.keys(superchargers).length} superchargers`)
 
