@@ -1,0 +1,5227 @@
+{
+  "002f43a2-6d34-47b2-89cc-de1814974258": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.583368,
+      "longitude": 3.089888
+    },
+    "name": "Tesla Supercharger Lille, France - Lesquin",
+    "power": 150,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "006aff28-97d1-424d-ade8-96c909596dd2": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.57734067,
+      "longitude": 4.89953818
+    },
+    "name": "Tesla Supercharger Tournus, France",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "00811ac2-f78f-4c60-a7bb-7428523a6d78": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.671308,
+      "longitude": 5.60267
+    },
+    "name": "Tesla Supercharger Uden, Netherlands",
+    "power": 250,
+    "stalls": 24,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "0146d123-d93c-4b1a-bba1-f019079120ce": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.094988,
+      "longitude": 4.011808
+    },
+    "name": "Tesla Supercharger Lokeren, Belgium",
+    "power": 250,
+    "stalls": 14,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "0158956b-f9db-4b50-9421-5d71d0a2210c": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.16724,
+      "longitude": 1.483119
+    },
+    "name": "Tesla Supercharger Brive-la-Gaillarde, France",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "02504481-d261-49f8-bb27-9bf8c2c0d1fe": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.378453,
+      "longitude": 2.586523
+    },
+    "name": "Tesla Supercharger Montluçon, France - Aire des Vérités",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "02a61721-fe34-46e8-b2a0-78ef4632d026": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.16398,
+      "longitude": -0.424802
+    },
+    "name": "Tesla Supercharger Caen, France",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "032dfa97-6c83-4c54-8da3-bebb69c8147f": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.359721,
+      "longitude": 0.817754
+    },
+    "name": "Tesla Supercharger Bourg-Achard, France",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "03f04c92-36ff-4a83-8ecd-1b67fb6f13ba": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.2717489,
+      "longitude": 5.04348475
+    },
+    "name": "Tesla Supercharger Dijon, France",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "047e7205-8b24-4810-b2ed-51ea77476218": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.89258,
+      "longitude": 8.039121
+    },
+    "name": "Tesla Supercharger Imperia, Italy",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "0534a056-864d-42b0-ae99-ebb1cf3703b3": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.787019,
+      "longitude": 3.335626
+    },
+    "name": "Tesla Supercharger Aire d'Urvillers, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "061c6a51-1826-4c96-896d-8766b1d939ce": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.865293,
+      "longitude": 11.790743
+    },
+    "name": "Tesla Supercharger Weyarn, Germany",
+    "power": 138,
+    "stalls": 18,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "0639f461-d684-4448-a23a-0b29f5be6d14": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.412326,
+      "longitude": 10.970212
+    },
+    "name": "Tesla Supercharger Verona, Italy",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "069acb91-6ba5-4d14-a0f1-15a8f2e5901a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.6305,
+      "longitude": -2.692696
+    },
+    "name": "Tesla Supercharger Charnock Richard, UK",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "07547339-2128-4815-b392-8d83f16819cb": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.728372,
+      "longitude": 11.361923
+    },
+    "name": "Tesla Supercharger Sindelsdorf, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "085f0d49-291e-4125-88a8-7a2d16cb364b": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.687636,
+      "longitude": -0.223596
+    },
+    "name": "Tesla Supercharger South Mimms, UK ",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "087f6739-c1e2-4a5a-86c4-fb1219abc077": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.507374,
+      "longitude": 11.096817
+    },
+    "name": "Tesla Supercharger Wittenburg, Germany ",
+    "power": 250,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "08a75904-e0e3-4b9e-8a6a-17d0a7c99f0e": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.923424,
+      "longitude": 10.208663
+    },
+    "name": "Tesla Supercharger Woringen, Germany",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "08fe21cf-8e88-47a9-a3eb-a4f1472882b8": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.524971,
+      "longitude": 5.976568
+    },
+    "name": "Tesla Supercharger Aire de l'Abis, France",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "09c14507-fac3-4cc7-9474-ec964060edb3": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.588724,
+      "longitude": 4.308133
+    },
+    "name": "Tesla Supercharger Nivelles-Sud, Belgium",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "09d1630e-acac-4908-a5ce-4e4ad31252dc": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.314145,
+      "longitude": -1.281904
+    },
+    "name": "Tesla Supercharger Woodall, UK - Southbound",
+    "power": 125,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "0a5677f1-df21-4c80-be37-7d29b27e4754": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.911281,
+      "longitude": 7.398489
+    },
+    "name": "Tesla Supercharger Nottuln, Germany",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "0a749cf8-9ff3-49a4-b904-b63085339130": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.638215,
+      "longitude": 6.184349
+    },
+    "name": "Tesla Supercharger Nancy, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "0b9f779a-073d-48f1-ac05-7633cfe4e419": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.983494,
+      "longitude": 9.925521
+    },
+    "name": "Tesla Supercharger Soltau, Germany - Soltau-Ost",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "0c76687b-7a83-40b6-9b5f-86a62ea9ee20": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.511492,
+      "longitude": 9.634821
+    },
+    "name": "Tesla Supercharger Adda Nord, Italy",
+    "power": 250,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "0cdf2c58-0327-452d-b51c-f7d21d3f98b3": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.136916,
+      "longitude": 6.1243
+    },
+    "name": "Tesla Supercharger Archamps, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "0e6fd980-f13c-43d6-90af-dfeb9823bc57": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.754865,
+      "longitude": 2.373034
+    },
+    "name": "Tesla Supercharger Thiais, France",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "10b71a1b-9afd-46ac-be06-05c00194e9bd": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.973333,
+      "longitude": 7.730113
+    },
+    "name": "Tesla Supercharger Moncalieri, Italy",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "11b9df33-13b2-4906-ba9d-2b9aa9e57592": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.650769,
+      "longitude": 5.038917
+    },
+    "name": "Tesla Supercharger Hoorn, Netherlands ",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "11c8a26f-71c7-4b97-84f6-1a2f7d5889b2": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.486021,
+      "longitude": 4.797235
+    },
+    "name": "Tesla Supercharger Namur, Belgium",
+    "power": 250,
+    "stalls": 15,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "129eae5f-ed4b-48fd-8e02-5fc405adf5f2": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.710912,
+      "longitude": 8.713781
+    },
+    "name": "Tesla Supercharger Paderborn, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "12d702f4-e745-4b5d-bd93-4115f61e5172": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.310734,
+      "longitude": 7.934924
+    },
+    "name": "Tesla Supercharger Oftringen, Switzerland",
+    "power": 125,
+    "stalls": 14,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "13707a9c-b9a9-441f-a0c4-906d2a63f767": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 56.931838,
+      "longitude": 12.518811
+    },
+    "name": "Tesla Supercharger Falkenberg, Sweden",
+    "power": 150,
+    "stalls": 18,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "13730890-c332-4caa-ae25-8923a061cfbe": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.601984,
+      "longitude": 3.917433
+    },
+    "name": "Tesla Supercharger Montpellier, France",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "13750072-a64a-4a6a-8dc2-ac793dc42c98": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.889864,
+      "longitude": 11.871398
+    },
+    "name": "Tesla Supercharger Hermsdorf, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "1382634e-5028-4c1d-9d79-8e8e938d9723": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 55.786395,
+      "longitude": 9.667926
+    },
+    "name": "Tesla Supercharger Hedensted, Denmark",
+    "power": 150,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "13b10a86-ca01-4bef-887f-14dc2edd9bfa": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.388964,
+      "longitude": 1.059818
+    },
+    "name": "Tesla Supercharger Rouen, France",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "1452f9a2-f959-4b74-bdbd-51892ab02da4": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.381223,
+      "longitude": 8.089445
+    },
+    "name": "Tesla Supercharger Limburg an der Lahn, Germany",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "14f0c810-06f5-460f-a0f0-8c3b4357de3c": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.617858,
+      "longitude": 10.239421
+    },
+    "name": "Tesla Supercharger Braak, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "164a7af6-075c-4374-853c-7359a8a03499": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 56.178072,
+      "longitude": 10.138728
+    },
+    "name": "Tesla Supercharger Århus, Denmark - Service",
+    "power": 125,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "1799f701-0cac-447e-bbe1-1de42a428e95": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.057341,
+      "longitude": 4.959604
+    },
+    "name": "Tesla Supercharger Aire de Châteauvillain, France - Val Marnay",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "19438648-9d3e-4cf2-b40a-cb2d0e4a420d": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 54.442048,
+      "longitude": -1.671239
+    },
+    "name": "Tesla Supercharger Scotch Corner, UK",
+    "power": 130,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "19cac479-6be8-45c6-81bb-3d392ed7e3d5": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.286224,
+      "longitude": 0.545783
+    },
+    "name": "Tesla Supercharger Maidstone, UK",
+    "power": 130,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "1a6e6f57-3788-494d-835f-ac242a3c695e": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.218806,
+      "longitude": 10.127389
+    },
+    "name": "Tesla Supercharger Illertissen, Germany",
+    "power": 250,
+    "stalls": 14,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "1a93bde9-663c-4176-8a1f-c5c1765f08d0": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.50207906,
+      "longitude": 3.98431294
+    },
+    "name": "Tesla Supercharger Avallon, France",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "1bbd8608-ce62-4477-b3a8-a115e1534724": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 54.453346,
+      "longitude": -2.605861
+    },
+    "name": "Tesla Supercharger Penrith, UK - Tebay Southbound",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "1bd4cd7b-09ba-49fd-ac9d-8b929a24bec6": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.871747,
+      "longitude": 0.193401
+    },
+    "name": "Tesla Supercharger Birchanger Green, UK",
+    "power": 130,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "1be03b2e-20ee-452e-b1a0-7156672aa895": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.133641,
+      "longitude": 8.561038
+    },
+    "name": "Tesla Supercharger Eschborn, Germany",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "1c49b89d-d5cd-4403-8ebb-b43c00d26840": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.647598,
+      "longitude": 1.369754
+    },
+    "name": "Tesla Supercharger Blagnac, France",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "1ca2f316-546c-4bc1-a3b3-936d14c48ea2": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.948869,
+      "longitude": 1.86831
+    },
+    "name": "Tesla Supercharger Orléans, France",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "1d1cb632-4408-4575-a04a-4244df817954": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.962947,
+      "longitude": -2.196584
+    },
+    "name": "Tesla Supercharger Trentham, UK",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "1e03b388-e88e-42b1-98d1-a7ea70118e11": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.104375,
+      "longitude": 9.98157
+    },
+    "name": "Tesla Supercharger Bispingen, Germany",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "1e1e3256-23f1-4722-829d-47d500843841": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.720985,
+      "longitude": 8.646664
+    },
+    "name": "Tesla Supercharger Schaffhausen, Switzerland",
+    "power": 125,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "1f6d17f4-4c25-44bf-ba63-2cd9384e0a59": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.648038,
+      "longitude": 5.818803
+    },
+    "name": "Tesla Supercharger Arlon, Belgium",
+    "power": 250,
+    "stalls": 30,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "2022bc0f-fa40-4200-a0c2-2333686bd923": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.64562825,
+      "longitude": 11.52065258
+    },
+    "name": "Tesla Supercharger Reichertshofen, Germany",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "204da239-ea56-42bb-865b-4757947ec07a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.34834,
+      "longitude": 9.282206
+    },
+    "name": "Tesla Supercharger Melegnano, Italy",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "208e6c6d-61e0-4945-b677-249a5538d92b": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.049393,
+      "longitude": 2.344843
+    },
+    "name": "Tesla Supercharger Bourges, France",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "20e3945e-ae3f-409a-b23f-c74bd77d5d1f": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.928282,
+      "longitude": 1.811838
+    },
+    "name": "Tesla Supercharger Eurotunnel, France -  Flexiplus Lounge",
+    "power": 125,
+    "stalls": 2,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "214635cb-9aaa-48b1-b513-53d469627bb0": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.369722,
+      "longitude": 9.802193
+    },
+    "name": "Tesla Supercharger Rade, Germany",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "235b5fe6-172f-4229-a92a-936791131cd4": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.518278,
+      "longitude": 11.562305
+    },
+    "name": "Tesla Supercharger Pfaffenhofen, Germany",
+    "power": 250,
+    "stalls": 24,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "25c50764-47b4-4808-a160-20be1b7a871a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.510637,
+      "longitude": 5.456429
+    },
+    "name": "Tesla Supercharger Aix-en-Provence, France",
+    "power": 130,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "25c6af36-b39e-474f-a202-81eabea89864": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.816508,
+      "longitude": 5.725651
+    },
+    "name": "Tesla Supercharger Maastricht, Netherlands",
+    "power": 250,
+    "stalls": 24,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "25f98654-54b3-4360-b037-7cab0624a3e3": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.072834,
+      "longitude": -1.34179
+    },
+    "name": "Tesla Supercharger Banbury, UK",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "27a84873-7584-4b02-8c3f-f22818a24f0d": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.796377,
+      "longitude": 6.780047
+    },
+    "name": "Tesla Supercharger Erftstadt, Germany",
+    "power": 250,
+    "stalls": 28,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "27b58e6d-ab64-4c25-9aeb-aa683b88dfc7": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.644065,
+      "longitude": -2.054251
+    },
+    "name": "Tesla Supercharger Hilton Park, UK -  Southbound",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "27f72338-50bf-494f-a93e-61cea4e76225": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.552856,
+      "longitude": 8.532806
+    },
+    "name": "Tesla Supercharger Wetzlar, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "282adfb5-77fe-45f7-997b-2100ae12c0e8": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 55.386511,
+      "longitude": 10.426722
+    },
+    "name": "Tesla Supercharger Odense, Denmark",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "29897038-9f93-485d-87d9-2cca2877c157": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.577507,
+      "longitude": 4.729773
+    },
+    "name": "Tesla Supercharger Breda, Netherlands",
+    "power": 150,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "2b144548-615f-4ba3-a0ac-aa25fb4bc2e1": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.039342,
+      "longitude": 9.753848
+    },
+    "name": "Tesla Supercharger Piacenza, Italy",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "2b893e79-1469-496d-abfd-e944ef374e56": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.534597,
+      "longitude": 12.092972
+    },
+    "name": "Tesla Supercharger Langkampfen, Austria",
+    "power": 250,
+    "stalls": 27,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "2b94fda0-67e5-4d2d-bb3a-9df0d9100c04": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.48272,
+      "longitude": 7.750214
+    },
+    "name": "Tesla Supercharger Mogendorf, Germany",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "2bb0a903-4753-4ef1-a08a-e2252a7856af": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.470106,
+      "longitude": 6.05724
+    },
+    "name": "Tesla Supercharger Horst, Netherlands",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "2bda7111-f72c-45f2-aa4e-2c086da01f10": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.036408,
+      "longitude": 1.378367
+    },
+    "name": "Tesla Supercharger Montauban, France",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "2be22c39-f8a2-4ef6-a5d8-f8fd040c60e6": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.782002,
+      "longitude": 7.388186
+    },
+    "name": "Tesla Supercharger Mulhouse, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "2c7d4e3c-79d8-4916-b261-6a2c0fc36793": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.451845,
+      "longitude": 8.704485
+    },
+    "name": "Tesla Supercharger Kemptthal, Switzerland",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "2c7ea549-609d-4fc6-8b6a-dbff1197bb01": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.713158,
+      "longitude": -1.744952
+    },
+    "name": "Tesla Supercharger Hartshead Moor, UK - Westbound",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "2c8740c9-2a70-411b-ae12-a72c0afe1e72": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.754456,
+      "longitude": 2.351036
+    },
+    "name": "Tesla Supercharger Rungis, France",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "2ce0e9ee-880d-4f6b-8a97-7833370909ee": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.644021,
+      "longitude": -2.058587
+    },
+    "name": "Tesla Supercharger Hilton Park, UK - Northbound",
+    "power": 130,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "2e5a4e92-17f8-4d46-a263-d2edc4dacccf": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.510919,
+      "longitude": -0.460473
+    },
+    "name": "Tesla Supercharger London, UK - West Drayton",
+    "power": 130,
+    "stalls": 5,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "2ed713b4-6eaf-402c-b16a-514914a0fc7b": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.417573,
+      "longitude": -2.639644
+    },
+    "name": "Tesla Supercharger Burtonwood, UK",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "2f953d67-111a-4b4d-ac03-33c98bdfb703": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.393734,
+      "longitude": 11.070536
+    },
+    "name": "Tesla Supercharger Dasing, Germany - Bauernmarkt",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "2fbf962c-1dda-4c1b-8f53-9996ce95617e": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.152424,
+      "longitude": 0.789938
+    },
+    "name": "Tesla Supercharger Périgueux, France",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "2fc14103-0a39-4193-b2b0-d43f8257da47": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.954138,
+      "longitude": 8.950789
+    },
+    "name": "Tesla Supercharger Melide, Switzerland",
+    "power": 125,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "31035ded-ba12-4891-91f3-47fd9b974e46": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.495032,
+      "longitude": 7.284958
+    },
+    "name": "Tesla Supercharger Bochum, Germany - Ruhr Park",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "31e8fadf-6df1-433d-97aa-bdd4d140c79f": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 56.657423,
+      "longitude": 12.907257
+    },
+    "name": "Tesla Supercharger Halmstad, Sweden",
+    "power": 250,
+    "stalls": 28,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "32399310-9e6f-482d-87be-f169fb78aca4": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.370996,
+      "longitude": 9.633307
+    },
+    "name": "Tesla Supercharger Lutterberg, Germany",
+    "power": 150,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "3295cdf5-9a18-440f-8908-70f77653f2d2": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.017422,
+      "longitude": 4.837768
+    },
+    "name": "Tesla Supercharger Beaune, France",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "32a9bc09-9961-40b6-ab52-10a18199aeda": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.999043,
+      "longitude": 8.428747
+    },
+    "name": "Tesla Supercharger Karlsruhe, Germany",
+    "power": 250,
+    "stalls": 11,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "32e8c01f-ff19-4be2-8ff4-42c3c1b494d4": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.515263,
+      "longitude": 8.67061
+    },
+    "name": "Tesla Supercharger Quinto, Switzerland",
+    "power": 125,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "33748603-a250-4477-83c0-61c07dffde5e": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.88771,
+      "longitude": 4.453051
+    },
+    "name": "Tesla Supercharger Machelen, Belgium",
+    "power": 70,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "34210ff2-ffac-47b0-b638-474b0f31e9d8": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.252931,
+      "longitude": 3.975959
+    },
+    "name": "Tesla Supercharger Reims, France - Tinqueux",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "348f5515-c3eb-4a1e-b420-44746af257e5": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.784078,
+      "longitude": 2.220945
+    },
+    "name": "Tesla Supercharger Vélizy 2, France",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "34cdf363-0f43-4799-b2a5-7ddfb5c2e88d": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.769148,
+      "longitude": 10.47046
+    },
+    "name": "Tesla Supercharger Geiselwind, Germany",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "34e83730-f1e5-4927-bf06-fabca1d7bda4": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.1384,
+      "longitude": 8.56233
+    },
+    "name": "Tesla Supercharger Bruchsal, Germany",
+    "power": 138,
+    "stalls": 14,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "34e89e9f-9cec-474d-bc30-46fd0494107f": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.265676,
+      "longitude": 5.876448
+    },
+    "name": "Tesla Supercharger Grenoble, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "35056f30-22c2-4cf5-b366-6932c471b2f7": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 42.783861,
+      "longitude": -1.630794
+    },
+    "name": "Tesla Supercharger Pamplona,  Spain",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "356dd27d-25b4-4169-b0b0-9820a091bfd2": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.691108,
+      "longitude": 6.127792
+    },
+    "name": "Tesla Supercharger Laxou, France ",
+    "power": 250,
+    "stalls": 28,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "35a7412e-d366-4f75-b6f7-1abd48a06592": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.959185,
+      "longitude": 10.173699
+    },
+    "name": "Tesla Supercharger Ellwangen, Germany - Hotel Montana",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "36ecb031-74a5-4549-b68d-de283652fb4e": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.643921,
+      "longitude": 10.684882
+    },
+    "name": "Tesla Supercharger Zella-Mehlis, Germany",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "3779efb7-8e04-48db-8527-ed96830a63ae": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.151101,
+      "longitude": 4.43271
+    },
+    "name": "Tesla Supercharger Edegem, Belgium",
+    "power": 150,
+    "stalls": 18,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "3855af36-b318-414c-b23d-1f16552d596b": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 56.783309,
+      "longitude": 9.690891
+    },
+    "name": "Tesla Supercharger Haverslev, Denmark",
+    "power": 150,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "393d34ad-7274-43a0-a75f-db1847303b30": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.785079,
+      "longitude": 9.017713
+    },
+    "name": "Tesla Supercharger Leonberg, Germany",
+    "power": 150,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "398a452c-2935-42ef-baac-4aaa1c258e64": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.067118,
+      "longitude": -1.299816
+    },
+    "name": "Tesla Supercharger Winchester, UK ",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "39e5e047-53b3-47d6-9b19-80496a4a415b": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.175529,
+      "longitude": 7.598728
+    },
+    "name": "Tesla Supercharger Kriegstetten, Switzerland",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "39f0d2a0-b0a4-48cd-95c6-9fb3ef3ae906": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.666466,
+      "longitude": 7.127355
+    },
+    "name": "Tesla Supercharger Cagnes-sur-Mer, France",
+    "power": 125,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "3a099e24-c579-4bc5-902a-9ffe2f0b9041": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.912724,
+      "longitude": 8.622726
+    },
+    "name": "Tesla Supercharger Flüelen, Switzerland",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "3bcda496-e4b0-40ba-a514-ad37052b180b": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.640815,
+      "longitude": 6.270681
+    },
+    "name": "Tesla Supercharger Mënsbech, Luxembourg",
+    "power": 130,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "3c80ef46-7596-4348-8bd9-6267a4c8f3c5": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.625,
+      "longitude": 7.037428
+    },
+    "name": "Tesla Supercharger Bulle, Switzerland",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "3ce22aae-c24c-4a28-b360-3c4900969a00": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.389513,
+      "longitude": 8.129848
+    },
+    "name": "Tesla Supercharger Cavaglià, Italy",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "3d0dbbfc-5e4f-4bc7-a028-6cb1f4a3eb24": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.79377597,
+      "longitude": -0.53318556
+    },
+    "name": "Tesla Supercharger Bègles, France",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "3dd29126-d2a7-44be-829b-5ce20e04ac72": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.918787,
+      "longitude": 11.594051
+    },
+    "name": "Tesla Supercharger Occhiobello, Italy",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "3e2cbcd8-0d86-4955-9aa9-72e8434830d9": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.003965,
+      "longitude": 9.525809
+    },
+    "name": "Tesla Supercharger Maienfeld, Switzerland",
+    "power": 125,
+    "stalls": 14,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "3e77c404-6464-4f91-b97b-29407f4aef75": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.561386,
+      "longitude": 9.055946
+    },
+    "name": "Tesla Supercharger Arese, Italy",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "3e7eb700-48fc-4a90-b18e-ae941daadc5c": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.10912,
+      "longitude": -1.31227
+    },
+    "name": "Tesla Supercharger Mansfield, UK - East Midlands Designer Outlet ",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "3ee3fb7f-7b47-4c01-8c04-4baa2b49e15a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.852568,
+      "longitude": 0.522422
+    },
+    "name": "Tesla Supercharger Braintree, UK",
+    "power": 250,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "405361b5-26e6-4a64-a7dc-c7038f3c5cd1": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.184498,
+      "longitude": 11.532516
+    },
+    "name": "Tesla Supercharger München - OEZ, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4070d462-092d-4655-a2fc-6b1581ce76e4": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.959482,
+      "longitude": 6.021093
+    },
+    "name": "Tesla Supercharger Duiven, Netherlands",
+    "power": 250,
+    "stalls": 24,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "426e99af-07e8-4336-a4dc-d38186447035": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.99296,
+      "longitude": -2.290314
+    },
+    "name": "Tesla Supercharger Keele, UK - Northbound",
+    "power": 130,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "43897d1c-8481-4605-92be-b9fe7d12b203": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.593132,
+      "longitude": 5.898176
+    },
+    "name": "Tesla Supercharger Chambéry, France",
+    "power": 125,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "44166cbe-b13b-4f65-9f7d-a449cb31712d": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.525434,
+      "longitude": 5.974838
+    },
+    "name": "Tesla Supercharger Aire du Granier, France",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "445d873b-6fe0-43d5-b2f1-b7e86e154c57": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.61187586,
+      "longitude": 1.33932151
+    },
+    "name": "Tesla Supercharger Blois, France",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "44c4a824-78c3-47e2-b854-20a616e4005c": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 54.477799,
+      "longitude": 9.544758
+    },
+    "name": "Tesla Supercharger Busdorf, Germany",
+    "power": 250,
+    "stalls": 28,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "45d06f88-9dbe-4299-a2ac-610693950854": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.278996,
+      "longitude": 9.35084
+    },
+    "name": "Tesla Supercharger Lauenau, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "45f2f688-4067-4a2a-a15e-76cbaa56fb5e": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.584722,
+      "longitude": 12.287137
+    },
+    "name": "Tesla Supercharger Mogliano Veneto, Italy",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "46265e21-f4a7-4ff6-924a-3fe7a6941fed": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.135188,
+      "longitude": -0.19124
+    },
+    "name": "Tesla Supercharger London, UK - Gatwick",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4696d722-cd48-4b59-a81f-61be183ac7c9": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.899517,
+      "longitude": 4.982968
+    },
+    "name": "Tesla Supercharger Meerkerk, Netherlands",
+    "power": 250,
+    "stalls": 24,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "46b9313f-f533-445e-8293-04865e45c6dd": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.573233,
+      "longitude": -1.11793
+    },
+    "name": "Tesla Supercharger Aire de la Vendée, France",
+    "power": 250,
+    "stalls": 9,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "47536e18-e9a3-4911-87c7-414681028673": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.980528,
+      "longitude": 4.879874
+    },
+    "name": "Tesla Supercharger Avignon, France - Le Pontet",
+    "power": 250,
+    "stalls": 28,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "47e07cb0-b1f8-406d-8953-f3d53727c897": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.496797,
+      "longitude": 9.84272
+    },
+    "name": "Tesla Supercharger St. Moritz, Switzerland",
+    "power": 125,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4805e972-9ac3-4c82-a156-1779be40e61c": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 54.092966,
+      "longitude": 13.085854
+    },
+    "name": "Tesla Supercharger Süderholz, Germany",
+    "power": 150,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4834f9e6-5617-44d6-8067-3a01b31d3a76": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.271211,
+      "longitude": 8.439433
+    },
+    "name": "Tesla Supercharger Affoltern, Switzerland ",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "496166a8-15d4-4224-bd93-5afb91b87a96": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.88071,
+      "longitude": 0.788574
+    },
+    "name": "Tesla Supercharger Colchester, UK",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "497208f1-da21-4bfd-91f2-1fbef9b6809e": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.925026,
+      "longitude": 1.996508
+    },
+    "name": "Tesla Supercharger Orgeval, France",
+    "power": 125,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "499cdbbf-1186-44f8-ba29-9d76bdf22d5b": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.168184,
+      "longitude": 0.109099
+    },
+    "name": "Tesla Supercharger Trumpington, UK",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4a20a425-68c7-4ec9-be0d-889e04a0a6ea": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.750141,
+      "longitude": 0.511223
+    },
+    "name": "Tesla Supercharger Chelmsford, UK",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4a2ffc3e-a612-4896-a22b-6461d8a7f800": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.921483,
+      "longitude": 4.032789
+    },
+    "name": "Tesla Supercharger Aalst, Belgium",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4a737796-362b-4598-bf84-088f79ebd171": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.511938,
+      "longitude": 5.466433
+    },
+    "name": "Tesla Supercharger Aix-en-Provence, France - Val de l'Arc",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4a7b54ae-4e97-4999-a881-e4db6b7efcf9": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.989354,
+      "longitude": 5.7815065
+    },
+    "name": "Tesla Supercharger Urmond, Netherlands",
+    "power": 150,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4a8dc91b-75e2-4d0c-913e-558046166e72": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.144022,
+      "longitude": 5.416976
+    },
+    "name": "Tesla Supercharger Leusden, Netherlands",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4b6bedab-78e0-4466-b9ee-02f0cfdbb8bb": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.924001,
+      "longitude": 7.825672
+    },
+    "name": "Tesla Supercharger Waldlaubersheim, Germany",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4b7bd724-ca01-4f2b-bce1-3a1a988278c9": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.952704,
+      "longitude": 6.628651
+    },
+    "name": "Tesla Supercharger Sallanches, France",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4bc3d36a-f0f9-4a3c-a785-62fe4daf7b3a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.33102,
+      "longitude": 6.945609
+    },
+    "name": "Tesla Supercharger Nürburgring, Germany",
+    "power": 250,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4c54cc6c-3215-499b-a06a-29a3487791a9": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.592323,
+      "longitude": 5.848511
+    },
+    "name": "Tesla Supercharger Verviers, Belgium",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4d117bac-9ceb-4ef8-9750-4a325f16c216": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.281256,
+      "longitude": 7.777663
+    },
+    "name": "Tesla Supercharger Kappel-Grafenhausen, Germany",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4d4939e0-77f0-4c0f-bd26-cf957976074a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.971073,
+      "longitude": 8.459073
+    },
+    "name": "Tesla Supercharger Beckenried, Switzerland",
+    "power": 125,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4d8a55bd-2882-409e-8405-9b6e002be76e": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.889368,
+      "longitude": -1.032994
+    },
+    "name": "Tesla Supercharger Les Herbiers, France",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4e0439e4-45f9-4ccb-85de-2eb2c554761e": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.727405,
+      "longitude": 5.764609
+    },
+    "name": "Tesla Supercharger Emmeloord, Netherlands",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4e47abf3-96fd-4836-847c-6e8f3ade535e": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.04312,
+      "longitude": 4.841182
+    },
+    "name": "Tesla Supercharger Beaune Nord, France",
+    "power": 250,
+    "stalls": 28,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4eb6244e-eb92-4de4-a175-b0d4e5968cbc": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.593988,
+      "longitude": 8.632471
+    },
+    "name": "Tesla Supercharger Hemsbach, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4f3e7f64-cf45-4bdc-8497-745e4ce568a8": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.729669,
+      "longitude": -1.249257
+    },
+    "name": "Tesla Supercharger Oxford, UK - Redbridge",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4f841d3e-343b-48b7-936c-518135a53e7c": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.524877,
+      "longitude": 7.680341
+    },
+    "name": "Tesla Supercharger Pratteln, Switzerland",
+    "power": 150,
+    "stalls": 18,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "4ff8bd4d-7627-4340-a56c-ab20219cc8af": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.820338,
+      "longitude": 4.760218
+    },
+    "name": "Tesla Supercharger Dardilly, France",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "504763b4-d6b4-492d-8c88-998e3fc5674c": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.826752,
+      "longitude": 2.118612
+    },
+    "name": "Tesla Supercharger Parly 2, France",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "51ce0705-7418-4592-96ac-cc2e764c3b0e": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.355556,
+      "longitude": 9.753977
+    },
+    "name": "Tesla Supercharger Motten, Germany",
+    "power": 150,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "51fec567-610e-4159-a38a-ad3ca1f6fe5a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.805634,
+      "longitude": 3.27446
+    },
+    "name": "Tesla Supercharger Kortrijk, Belgium",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "52a5cf3c-9734-4d73-9ef0-410870a210fa": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 55.434016,
+      "longitude": 13.839907
+    },
+    "name": "Tesla Supercharger Ystad, Sweden",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "531caab9-8c53-4a7e-8bb8-0176acbe8a52": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.879285,
+      "longitude": 11.454002
+    },
+    "name": "Tesla Supercharger Wismar, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "533a0f8a-74d4-4857-8334-5a0c60805810": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.16725,
+      "longitude": -1.328024
+    },
+    "name": "Tesla Supercharger Winchester, UK - Norton Park",
+    "power": 130,
+    "stalls": 2,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "53710af3-42db-4e59-82ac-2c9149546039": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.430272,
+      "longitude": -2.179346
+    },
+    "name": "Tesla Supercharger Manchester, UK - South",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "53ad3052-4a27-4607-beeb-0973b7ed1bf3": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.235476,
+      "longitude": 5.230129
+    },
+    "name": "Tesla Supercharger Eemnes, Netherlands",
+    "power": 250,
+    "stalls": 24,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "53f885a6-5359-4e14-b189-1c10059e2998": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.891749,
+      "longitude": 7.542704
+    },
+    "name": "Tesla Supercharger Rubigen, Switzerland",
+    "power": 150,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "541cb914-dfa6-4645-9cad-528882f4e1cc": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.121199,
+      "longitude": 5.85086
+    },
+    "name": "Tesla Supercharger Toulon, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "54b42170-e93d-4d62-9d09-a8f8d3f5ada3": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.65232671,
+      "longitude": 9.61888431
+    },
+    "name": "Tesla Supercharger Bergamo Dalmine, Italy",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "54edabed-f639-44f9-b256-8baacb183518": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.962295,
+      "longitude": -1.528573
+    },
+    "name": "Tesla Supercharger Harrogate, UK",
+    "power": 250,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "5508178c-7aa0-4979-8a9c-718240b9cae7": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.17715,
+      "longitude": -1.756453
+    },
+    "name": "Tesla Supercharger Amesbury, UK",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "55165052-6465-43c8-94e4-2bd7d594350b": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.992001,
+      "longitude": 4.245283
+    },
+    "name": "Tesla Supercharger Chalons en Champagne, France - Matougues",
+    "power": 125,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "56bddaf8-a19c-4aae-9ded-da73ea7f9954": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.181953,
+      "longitude": 9.006662
+    },
+    "name": "Tesla Supercharger Neuberg, Germany",
+    "power": 130,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "5719e958-beee-472e-b294-13c78811fd67": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.48947,
+      "longitude": 0.286622
+    },
+    "name": "Tesla Supercharger Grays, UK ",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "57a29e36-077b-4116-8dd4-a4b8e18db39e": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.349419,
+      "longitude": 2.607224
+    },
+    "name": "Tesla Supercharger Fontainebleau, France - Ury",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "57a5551b-2d6c-4942-af6d-384fa4b30720": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.544121,
+      "longitude": 11.02872
+    },
+    "name": "Tesla Supercharger Erlangen, Germany",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "57ccd2f5-13b0-44d0-b065-91e9bc2bb8f6": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.459902,
+      "longitude": 7.82134
+    },
+    "name": "Tesla Supercharger Kaiserslautern, Germany",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "582d7cd2-2495-4292-a4e8-939bf72d1f75": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.691358,
+      "longitude": 9.003707
+    },
+    "name": "Tesla Supercharger Böblingen, Germany",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "59028cf5-5e32-48ee-9fcb-875a36f48c15": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 55.489025,
+      "longitude": 12.163113
+    },
+    "name": "Tesla Supercharger Køge, Denmark",
+    "power": 150,
+    "stalls": 26,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "59366132-6357-44c6-853a-e42498ccf80c": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.493819,
+      "longitude": -1.452564
+    },
+    "name": "Tesla Supercharger Bayonne, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "59370bf5-fb2e-4568-8767-8e79267a5311": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.847768,
+      "longitude": -0.991083
+    },
+    "name": "Tesla Supercharger Portsmouth, UK",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "5960944f-9792-4bc4-aa42-bf3aadfad825": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.067403,
+      "longitude": 12.533227
+    },
+    "name": "Tesla Supercharger Herzsprung, Germany",
+    "power": 250,
+    "stalls": 18,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "59925f2b-54f5-4ced-aae8-bbb29bcb2b54": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.645428,
+      "longitude": 8.989921
+    },
+    "name": "Tesla Supercharger Mücke, Germany",
+    "power": 250,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "59c250de-18ea-4e25-9d06-312a434a042f": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.657674,
+      "longitude": 8.169333
+    },
+    "name": "Tesla Supercharger Lohne, Germany",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "5a25189a-163b-4ce1-aeff-50eb9f7e1496": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.551203,
+      "longitude": 10.787291
+    },
+    "name": "Tesla Supercharger Affi, Italy",
+    "power": 250,
+    "stalls": 24,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "5b5179e9-651e-4400-880d-0c19c26a2e05": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.497509,
+      "longitude": 12.170172
+    },
+    "name": "Tesla Supercharger Plauen, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "5d242c5e-40a8-4244-83dd-8bd4bb4b3519": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.47037,
+      "longitude": 8.900802
+    },
+    "name": "Tesla Supercharger Genova North, Italy",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "5eb75cf8-57c3-4abf-ae5f-e79d1aa1af3a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.441793,
+      "longitude": 6.61181
+    },
+    "name": "Tesla Supercharger Moers, Germany",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "5f4f6a77-6e40-4826-8766-85c0e81374bc": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.936118,
+      "longitude": -1.134317
+    },
+    "name": "Tesla Supercharger Nottingham, UK - Service Centre",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "60a80468-42cc-42be-ad53-15baff4b8495": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.499063,
+      "longitude": -0.491233
+    },
+    "name": "Tesla Supercharger Aire des Portes d'Angers, France",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "61b351b1-7fea-40ed-a6e1-6574f4be2eaf": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.698599,
+      "longitude": -1.265539
+    },
+    "name": "Tesla Supercharger Ferrybridge, UK",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "627a903b-05a8-4fb1-b77c-10afba1cbea1": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.785937,
+      "longitude": 3.141488
+    },
+    "name": "Tesla Supercharger Clermont-Ferrand, France",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "627c95bf-c0dd-4e30-8aa1-253c96e48dfc": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.706939,
+      "longitude": 9.306462
+    },
+    "name": "Tesla Supercharger Denkendorf, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "635902fd-1afc-4885-8374-28fafda35807": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.164535,
+      "longitude": 9.677329
+    },
+    "name": "Tesla Supercharger Sondrio, Italy",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "6396804e-25d6-4707-aac6-09b0e13e1189": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.918329,
+      "longitude": -1.4718478
+    },
+    "name": "Tesla Supercharger Derby, UK",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "641c873c-c1d2-4193-a060-5dba4c0fafdc": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 55.51131,
+      "longitude": 9.764768
+    },
+    "name": "Tesla Supercharger Middelfart, Denmark",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "646163a9-99d8-4736-b791-fac0e968087f": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.810258,
+      "longitude": 11.17798
+    },
+    "name": "Tesla Supercharger Firenze, Italy",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "65acf2bb-9eb8-4539-a7a7-6839a8333458": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.902277,
+      "longitude": 7.929573
+    },
+    "name": "Tesla Supercharger Gensingen, Germany",
+    "power": 250,
+    "stalls": 22,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "65bd86f3-2681-4f76-a90f-f2aad94790fa": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.720357,
+      "longitude": 5.333276
+    },
+    "name": "Tesla Supercharger 's-Hertogenbosch, Netherlands",
+    "power": 150,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "66322403-36fd-4450-add9-7beb497ce71d": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.423964,
+      "longitude": 5.99017
+    },
+    "name": "Tesla Supercharger Aire de Cambarette, France",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "668c454b-a822-4f0c-ae14-d9b87573140a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.268129,
+      "longitude": 4.40238
+    },
+    "name": "Tesla Supercharger Antwerp, Belgium",
+    "power": 250,
+    "stalls": 14,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "673979c1-f7c9-442c-9e0a-0e2618e03b6a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.896799,
+      "longitude": 8.614137
+    },
+    "name": "Tesla Supercharger Weiterstadt, Germany",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "690754ab-bd59-4b40-a585-d56abdde0583": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.13916,
+      "longitude": 8.907291
+    },
+    "name": "Tesla Supercharger Monte Ceneri, Switzerland",
+    "power": 125,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "69124b17-cef3-4ce5-8b52-e99a62ef72e4": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.413133,
+      "longitude": 8.616919
+    },
+    "name": "Tesla Supercharger Dietlikon, Switzerland - Erlenweg",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "69161a90-796b-4d8f-a33b-d0e1cf0e6eb6": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.059827,
+      "longitude": 8.345102
+    },
+    "name": "Tesla Supercharger Wiesbaden, Germany",
+    "power": 125,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "6928b6f3-b98f-47fb-b670-ac6316be35d0": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.830877,
+      "longitude": 2.678019
+    },
+    "name": "Tesla Supercharger Marne-la-Vallée, France",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "69ae07bb-a74e-4640-8331-c01e69b9aae5": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.213321,
+      "longitude": 8.814317
+    },
+    "name": "Tesla Supercharger Bad Oeynhausen, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "6a34819c-707b-411d-beae-3f0e434c8dce": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.670356,
+      "longitude": 0.362651
+    },
+    "name": "Tesla Supercharger Poitiers, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "6ab24d64-22f0-410a-8194-551d0a0724da": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.506602,
+      "longitude": -0.222125
+    },
+    "name": "Tesla Supercharger London, UK - Westfield White City",
+    "power": 150,
+    "stalls": 24,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "6bc703c1-2086-46d0-a088-63ad4729240b": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 55.512586,
+      "longitude": 9.462869
+    },
+    "name": "Tesla Supercharger Kolding, Denmark",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "6bfaadbf-92ab-4973-807f-16c999cdbef7": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.956078,
+      "longitude": 9.245435
+    },
+    "name": "Tesla Supercharger Murr, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "6c1c7553-32eb-4249-9999-8fdbb3baad5b": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.562501,
+      "longitude": 7.525532
+    },
+    "name": "Tesla Supercharger Oberhonnefeld, Germany",
+    "power": 250,
+    "stalls": 40,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "6d4b5c8c-758a-4e07-9a60-34003eba588c": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.213255,
+      "longitude": 4.503421
+    },
+    "name": "Tesla Supercharger Sassenheim, Netherlands",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "6db064ae-7087-446b-99ff-4a8ae3ea2d14": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.737211,
+      "longitude": 7.372556
+    },
+    "name": "Tesla Supercharger Aosta, Italy - A5 dir. Mont-Blanc",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "6e74927c-c62d-4756-8b3a-eef71b8fa00b": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.061035,
+      "longitude": 5.205139
+    },
+    "name": "Tesla Supercharger Bunnik, Netherlands",
+    "power": 250,
+    "stalls": 24,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "6e82ee5b-c5a5-4e68-a53f-9ff53d44f95c": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.545559,
+      "longitude": -0.474257
+    },
+    "name": "Tesla Supercharger Uxbridge, UK",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "6ec056a7-cb11-4ca1-ade7-aa990fe2ac9c": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 42.775341,
+      "longitude": 2.908312
+    },
+    "name": "Tesla Supercharger Rivesaltes, France",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "6ff0316c-0edf-421c-9915-574d5834fa55": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.774647,
+      "longitude": 5.522209
+    },
+    "name": "Tesla Supercharger Aire du Jura, France",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "70b25a12-d623-440e-a975-fe094573f184": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.418125,
+      "longitude": 8.396816
+    },
+    "name": "Tesla Supercharger Dietikon, Switzerland",
+    "power": 150,
+    "stalls": 24,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "71262671-a817-4cc4-ba43-7d5f003219d1": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.411054,
+      "longitude": 10.44042
+    },
+    "name": "Tesla Supercharger Jettingen, Germany",
+    "power": 130,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "71ec2627-eadd-41ff-8c0e-00ea3fdacd15": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.67744,
+      "longitude": -2.399171
+    },
+    "name": "Tesla Supercharger Telford, UK",
+    "power": 130,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "72411883-8a79-4382-be61-1c147b79d90f": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.489393,
+      "longitude": -1.486223
+    },
+    "name": "Tesla Supercharger Barnsley, UK",
+    "power": 130,
+    "stalls": 2,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "725a4d0c-b15b-481f-bf81-78960c6d02c3": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.531375,
+      "longitude": 6.157279
+    },
+    "name": "Tesla Supercharger Zwolle, Netherlands",
+    "power": 250,
+    "stalls": 24,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "731916e8-740c-4dec-8558-5bd0ca40ada0": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.518668,
+      "longitude": 6.482533
+    },
+    "name": "Tesla Supercharger La Léchère-les-Bains, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "73cb025e-3bc0-406d-a3ce-81bd66f6f27b": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.128966,
+      "longitude": 7.368816
+    },
+    "name": "Tesla Supercharger Colmar, France",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "73fd2ff2-7645-4e6f-ba92-1e8b1b1e3885": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.31395,
+      "longitude": 9.49343341
+    },
+    "name": "Tesla Supercharger Kassel, Germany - GALERIA",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "7529c2d2-e495-47d6-8058-2f4b520800fd": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.293229,
+      "longitude": 4.130685
+    },
+    "name": "Tesla Supercharger Troyes, France - Saint-Parres-aux-Tertres",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "7681e422-8f96-4580-9a20-cfb298242242": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.167321,
+      "longitude": 1.755505
+    },
+    "name": "Tesla Supercharger Aire de la Baie de Somme, France",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "76a1392b-ca4f-4ae5-bc15-c4a4e4ab7345": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 54.88762,
+      "longitude": -1.557413
+    },
+    "name": "Tesla Supercharger Washington, UK",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "771eae69-628f-43ee-a499-35f7778868c2": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.547767,
+      "longitude": 0.295897
+    },
+    "name": "Tesla Supercharger Poitiers Sud, France",
+    "power": 250,
+    "stalls": 28,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "77439e66-fb4c-42c6-914c-c0f646f76a93": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.129569,
+      "longitude": 6.087824
+    },
+    "name": "Tesla Supercharger Saint-Julien-en-Genevois, France",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "77e637bb-e432-4cf1-b41a-e4d526ee210f": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.994026,
+      "longitude": 9.070627
+    },
+    "name": "Tesla Supercharger Kleinostheim, Germany",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "7921819d-aa5c-4aec-8620-59ce3626c850": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.918953,
+      "longitude": 4.878081
+    },
+    "name": "Tesla Supercharger Valence, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "79910335-8bba-4544-8be4-0fca5db2f25d": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.840015,
+      "longitude": 8.143658
+    },
+    "name": "Tesla Supercharger Wörrstadt, Germany",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "79b926ce-5115-49c6-ac73-5a664e749a09": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.99147,
+      "longitude": 5.51296
+    },
+    "name": "Tesla Supercharger Val-de-Meuse, France",
+    "power": 150,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "7bb9282a-f7bb-4abe-8e44-82e4ae212e59": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.401587,
+      "longitude": 12.181375
+    },
+    "name": "Tesla Supercharger Leipzig-Flughafen, Germany",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "7c33a678-6454-4ecc-8079-b79dea238da7": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.556698,
+      "longitude": 6.561557
+    },
+    "name": "Tesla Supercharger Bussigny, Switzerland",
+    "power": 130,
+    "stalls": 14,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "7c9ecc4d-8fb8-4ee0-9e49-68ce5f3df30d": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.6723,
+      "longitude": 8.6022
+    },
+    "name": "Tesla Supercharger Bensheim, Germany",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "7dca241f-4b89-44fd-9440-2230f1f1a1b7": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.365019,
+      "longitude": 11.207273
+    },
+    "name": "Tesla Supercharger Feucht, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "7ee2bd51-3114-4438-a862-7130620bc01f": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 55.933931,
+      "longitude": -3.406966
+    },
+    "name": "Tesla Supercharger Edinburgh, UK - Newbridge",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "7fcfe5d1-1c33-41a1-be68-5cf665646861": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.31319,
+      "longitude": 10.635044
+    },
+    "name": "Tesla Supercharger Lehre, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "80244f7d-7610-4ddc-a271-991b917ad840": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.947203,
+      "longitude": 10.140477
+    },
+    "name": "Tesla Supercharger Rhüden, Germany",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "81566727-2a91-47db-9928-3893e00ce3d0": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.227107,
+      "longitude": 7.753737
+    },
+    "name": "Tesla Supercharger Herbolzheim, Germany",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "8176a21a-504b-440c-ab65-86e41abb1096": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.111616,
+      "longitude": 11.091649
+    },
+    "name": "Tesla Supercharger Trento, Italy",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "81ed8edc-dee3-45ce-8925-9373c281db12": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.935031,
+      "longitude": 1.812951
+    },
+    "name": "Tesla Supercharger Eurotunnel, France - Terminal",
+    "power": 125,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "82023594-8895-44e2-b69f-46e6c252ae7c": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.3948,
+      "longitude": 10.887553
+    },
+    "name": "Tesla Supercharger Lermoos, Austria",
+    "power": 125,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "8205f5ed-4de2-42b3-8286-e478fbd34123": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.204703,
+      "longitude": 6.016104
+    },
+    "name": "Tesla Supercharger Apeldoorn Oost, Netherlands",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "829cf18c-7a5b-4005-b250-f611283e28ef": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.778588,
+      "longitude": 10.068878
+    },
+    "name": "Tesla Supercharger Dettelbach, Germany",
+    "power": 150,
+    "stalls": 18,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "832c1761-4fd5-4271-92c8-7ae97132b082": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.534041,
+      "longitude": 7.702054
+    },
+    "name": "Tesla Supercharger Strasbourg, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "833cbf22-87d0-4542-a20f-c6e7ddef335b": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 56.466428,
+      "longitude": -3.062962
+    },
+    "name": "Tesla Supercharger Dundee, UK",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "83992160-e3bd-4e91-92b4-d6a50024f369": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.788035,
+      "longitude": -3.331263
+    },
+    "name": "Tesla Supercharger Lorient, France - Caudan",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "83bba67f-0f2c-4b45-ac77-8f74003c7925": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.912272,
+      "longitude": 10.000822
+    },
+    "name": "Tesla Supercharger Gramschatzer Wald, Germany",
+    "power": 250,
+    "stalls": 14,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "84165449-4e8b-4e4b-8838-0c9af87ca8c9": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.202799,
+      "longitude": -0.92682
+    },
+    "name": "Tesla Supercharger Labouheyre, France",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "8492482f-e2df-4877-a540-ed127d815d91": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.993345,
+      "longitude": 5.242127
+    },
+    "name": "Tesla Supercharger Heusden-Zolder, Belgium",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "86c289f4-c155-4c57-8cd0-1eb11538672b": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.483859,
+      "longitude": -1.556867
+    },
+    "name": "Tesla Supercharger Membury, UK - Eastbound",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "878f7040-a096-46f6-afda-e3107b10c14c": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.956416,
+      "longitude": 10.194539
+    },
+    "name": "Tesla Supercharger Forte dei Marmi, Italy",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "881838ed-0f1b-4712-a0c2-053bf18f6a1d": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.750012,
+      "longitude": -0.661725
+    },
+    "name": "Tesla Supercharger Saintes, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "884ebe8b-e56e-4d5d-a7f4-f15dbd0c6fb8": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.56085,
+      "longitude": 5.949646
+    },
+    "name": "Tesla Supercharger Chambéry, France - Barberaz",
+    "power": 150,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "885dcf23-4b9e-434c-a0f7-c128d19229e0": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.816563,
+      "longitude": 4.345189
+    },
+    "name": "Tesla Supercharger Nimes, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "897b79ea-00ad-4dd5-b817-bf7a3817a11a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 42.358932,
+      "longitude": 1.462817
+    },
+    "name": "Tesla Supercharger La Seu d'Urgell, Spain",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "8bec1337-ef98-4204-90b7-eac3e739b455": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.864589,
+      "longitude": 3.313277
+    },
+    "name": "Tesla Supercharger Aire du Caylar, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "8c3a5b48-2c40-4795-975f-ecf35057435a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.346542,
+      "longitude": 4.848655
+    },
+    "name": "Tesla Supercharger Macon, France",
+    "power": 150,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "8c79a84f-d576-418b-9e71-df107c4aefe8": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.57753,
+      "longitude": -0.223753
+    },
+    "name": "Tesla Supercharger London, UK - Brent Cross",
+    "power": 130,
+    "stalls": 2,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "8de77a3d-e7d0-44aa-bde3-7ba3a4ea6f5e": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.216414,
+      "longitude": 6.170791
+    },
+    "name": "Tesla Supercharger Metz, France",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "8e7b46a6-8503-4426-9c38-02a5c6349fdb": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.226199,
+      "longitude": 5.913554
+    },
+    "name": "Tesla Supercharger Sisteron, France",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "8ee81d1d-bd9e-459c-87fd-f55aea37e6b6": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.863496,
+      "longitude": 2.278154
+    },
+    "name": "Tesla Supercharger Amiens, France",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "8f96063b-e194-4130-b9eb-d8efc49d7690": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.832233,
+      "longitude": 6.859269
+    },
+    "name": "Tesla Supercharger Lully, Switzerland",
+    "power": 82,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "9111dc48-addb-4163-aa11-725cf89280d2": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.259741,
+      "longitude": 7.455526
+    },
+    "name": "Tesla Supercharger Leer, Germany - Ems Park",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "9297b69b-f886-4907-8acd-dcb188ad8ae3": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.327128,
+      "longitude": 4.805394
+    },
+    "name": "Tesla Supercharger Salaise-sur-Sanne, France",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "938efe00-14d2-402e-878b-6390bd85ef70": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.306514,
+      "longitude": 11.634577
+    },
+    "name": "Tesla Supercharger Eching, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "94a15590-2710-4c48-ae61-13a80c80b476": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.969472,
+      "longitude": 6.860973
+    },
+    "name": "Tesla Supercharger Wittlich, Germany",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "94b415ed-8ed6-47d5-84b2-27834c84b25e": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.4535,
+      "longitude": 0.246722
+    },
+    "name": "Tesla Supercharger Dartford, UK - Tesla Service Centre",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "955675b5-5546-46cb-8b3e-0c1576632903": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.81373,
+      "longitude": 7.107211
+    },
+    "name": "Tesla Supercharger Troisdorf, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "95bf2ce4-4c04-4faa-8079-42433e346b9d": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.296116,
+      "longitude": -0.857413
+    },
+    "name": "Tesla Supercharger Fleet, UK - Northbound",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "95e6cb06-5980-490e-8cf6-c3a558dc9fea": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.0587584,
+      "longitude": 7.6125538
+    },
+    "name": "Tesla Supercharger Torino Grugliasco, Italy",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "97063185-70a0-445b-b63d-7979393a1ba8": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.943895,
+      "longitude": 13.396918
+    },
+    "name": "Tesla Supercharger Gützkow, Germany",
+    "power": 130,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "9714d493-4573-4789-9ec5-98cf06949f6a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.934838,
+      "longitude": 9.353749
+    },
+    "name": "Tesla Supercharger Weibersbrunn, Germany",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "971f6f51-7146-4823-b792-bcf59a37563a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.052489,
+      "longitude": 0.454862
+    },
+    "name": "Tesla Supercharger Flimwell, UK",
+    "power": 250,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "97416b5b-8471-40de-aea4-9e35b7174929": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.146522,
+      "longitude": 11.790601
+    },
+    "name": "Tesla Supercharger Vaterstetten, Germany",
+    "power": 250,
+    "stalls": 18,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "9759b617-2687-4539-8f8a-79c681fb08fb": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.147204,
+      "longitude": 8.991146
+    },
+    "name": "Tesla Supercharger Dorno EST, Italy",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "97b7d4ce-690d-4f75-924a-f67095a412df": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.170715,
+      "longitude": 11.484837
+    },
+    "name": "Tesla Supercharger Irxleben, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "97ec6967-1779-46c8-b7d7-0fa95210fadb": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.19186,
+      "longitude": 6.93621
+    },
+    "name": "Tesla Supercharger Hilden, Germany",
+    "power": 250,
+    "stalls": 36,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "984f8a5a-2de7-4edb-ab0c-c94048f134f7": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 55.507943,
+      "longitude": -3.695081
+    },
+    "name": "Tesla Supercharger Abington, UK",
+    "power": 130,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "98523950-bedb-43d3-84a7-aab1be8f622f": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.5047,
+      "longitude": -0.016314
+    },
+    "name": "Tesla Supercharger London, UK - Canary Wharf",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "986534e2-d4e6-4540-a237-7256897da6ac": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.570195,
+      "longitude": 7.675267
+    },
+    "name": "Tesla Supercharger Kamen, Germany",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "98a9625f-b5d6-40ed-8664-180fa7ba62bb": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.21917,
+      "longitude": -1.501274
+    },
+    "name": "Tesla Supercharger Warwick, UK - Southbound",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "98e77fd3-5927-45cb-b964-fdfdc4d897ad": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.076382,
+      "longitude": -0.8317
+    },
+    "name": "Tesla Supercharger Liphook, UK",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "99ad2440-640b-4e53-98e4-fbd5ddefdd3a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.407702,
+      "longitude": 10.599293
+    },
+    "name": "Tesla Supercharger Zusmarshausen, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "99ee8008-6511-4916-bc43-09a099c6297f": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.76911003,
+      "longitude": 9.05688133
+    },
+    "name": "Tesla Supercharger Grandate, Italy",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "9a199ac6-6ed6-4efd-8940-f9660d1463ad": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.527996,
+      "longitude": 8.565773
+    },
+    "name": "Tesla Supercharger Viernheim, Germany - Rhein-Neckar-Zentrum",
+    "power": 250,
+    "stalls": 18,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "9ceffde0-4406-4a9d-9966-7e6d80eff0bf": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.041833,
+      "longitude": 0.175342
+    },
+    "name": "Tesla Supercharger Le Mans, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "9dd0778c-cd0b-4304-b3da-1faebaa34501": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.202366,
+      "longitude": -0.291631
+    },
+    "name": "Tesla Supercharger Wyboston, UK",
+    "power": 250,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "9ddea740-4e4d-48dd-9a3b-414b1de064aa": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.496179,
+      "longitude": 5.310394
+    },
+    "name": "Tesla Supercharger Aire du Poulet de Bresse, France",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "9e1e49c5-bda3-4c2f-bb49-a9c589868d5a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.234539,
+      "longitude": 5.901153
+    },
+    "name": "Tesla Supercharger Besançon, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "9e20522c-10e0-4de1-b541-e838d583e0d0": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.435386,
+      "longitude": 12.222794
+    },
+    "name": "Tesla Supercharger Borca di Cadore, Italy",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "9f08196d-8bf8-4c09-a2e5-81861cd4f85f": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.737298,
+      "longitude": 7.372293
+    },
+    "name": "Tesla Supercharger Aosta, Italy - A5 dir. Torino",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "9f6dcfe3-0c39-44ef-a520-866f0a878be0": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.951744,
+      "longitude": 5.353198
+    },
+    "name": "Tesla Supercharger Hasselt, Belgium",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "9f748a26-f176-46bc-b5ea-bcdb0a743903": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.332257,
+      "longitude": -0.358762
+    },
+    "name": "Tesla Supercharger Pau, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "9fdef9c0-14e6-44a1-a7f5-ffb954e49089": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.363227,
+      "longitude": -1.945595
+    },
+    "name": "Tesla Supercharger Hopwood Park, UK",
+    "power": 130,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "a0a971f4-c1aa-4853-9604-62044cc37a82": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.858991,
+      "longitude": 3.253555
+    },
+    "name": "Tesla Supercharger Saint-Quentin, France",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "a1acb249-47e8-4386-8757-4a92feea2044": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.74185,
+      "longitude": 3.144986
+    },
+    "name": "Tesla Supercharger Neuville-en-Ferrain, France",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "a1bfcccf-5a4e-4a2c-8d4e-bb838734cc0b": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.990144,
+      "longitude": 1.671559
+    },
+    "name": "Tesla Supercharger Buchelay, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "a1d0c44c-bae4-43ff-8937-1f502cd62f7c": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.460761,
+      "longitude": 9.939778
+    },
+    "name": "Tesla Supercharger Hamburg, Germany",
+    "power": 150,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "a274fe0b-1243-4b24-9aee-34e178f287a1": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.022778,
+      "longitude": 4.684873
+    },
+    "name": "Tesla Supercharger Gouda, Netherlands",
+    "power": 150,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "a3680ce3-1590-4957-a407-e3fed8344b25": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.44581525,
+      "longitude": 1.53906581
+    },
+    "name": "Tesla Supercharger Chartres, France",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "a48268dd-dbf4-4ea4-95b7-aaae9e3d48f1": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.737069,
+      "longitude": 7.372331
+    },
+    "name": "Tesla Supercharger Aosta, Italy - off highway",
+    "power": 150,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "a4c6c3af-c7d5-48af-ab6b-0d68ac2b84ed": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.732774,
+      "longitude": -1.585622
+    },
+    "name": "Tesla Supercharger Leeds, UK",
+    "power": 130,
+    "stalls": 2,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "a4e8166c-955d-410d-bf44-c8b6b4f0d083": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.115255,
+      "longitude": 7.598117
+    },
+    "name": "Tesla Supercharger Pfalzfeld, Germany",
+    "power": 150,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "a59cc1b5-7c6f-4761-9e8d-0ebb980450f8": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.73526,
+      "longitude": 0.41388
+    },
+    "name": "Tesla Supercharger King's Lynn, UK",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "a5f421f3-2a13-48fb-818a-1db17c2195f0": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.42086357,
+      "longitude": 7.55126133
+    },
+    "name": "Tesla Supercharger Cuneo, Italy",
+    "power": 100,
+    "stalls": 2,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "a7530e55-54be-43c6-80d0-415f8cd41886": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.835747,
+      "longitude": 0.541891
+    },
+    "name": "Tesla Supercharger Chatellerault, France",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "a75ac062-d909-4760-8fcb-bd39d7961168": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.339515,
+      "longitude": -2.569358
+    },
+    "name": "Tesla Supercharger Warrington, UK",
+    "power": 130,
+    "stalls": 2,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "a7dfedef-b15e-4c29-bdaf-6baa1da551ad": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.257984,
+      "longitude": 10.501828
+    },
+    "name": "Tesla Supercharger Herrieden, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "a7e2763e-22a5-48f8-8e8f-2950404f3228": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.708041,
+      "longitude": 4.598293
+    },
+    "name": "Tesla Supercharger Wavre, Belgium",
+    "power": 250,
+    "stalls": 24,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "a803e258-78db-44c0-b123-31f539b950b1": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.47139,
+      "longitude": -1.874152
+    },
+    "name": "Tesla Supercharger Birmingham, UK - St Andrews",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "a82030d3-c68b-485c-9af8-e95534c3a6d7": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.131132,
+      "longitude": 10.271463
+    },
+    "name": "Tesla Supercharger St. Anton, Austria",
+    "power": 125,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "a8349db2-05e9-41dd-9c59-b22fb34f3844": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 55.766399,
+      "longitude": 12.990671
+    },
+    "name": "Tesla Supercharger Löddeköpinge, Sweden",
+    "power": 150,
+    "stalls": 14,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "a98a5627-4604-4bbc-a04b-1b26367785fc": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 42.033344,
+      "longitude": 0.104199
+    },
+    "name": "Tesla Supercharger Barbastro, Spain",
+    "power": 250,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "aa092bb1-13a4-47fc-a04d-78f2662eb493": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.727823,
+      "longitude": 7.186348
+    },
+    "name": "Tesla Supercharger Nice, France",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "aa32eece-7d11-4be8-90b2-169281c3a531": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.686658,
+      "longitude": 10.851307
+    },
+    "name": "Tesla Supercharger Campogalliano, Italy",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "aa58e379-fa27-45d6-b24b-076bc95bbfda": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.481232,
+      "longitude": -1.556154
+    },
+    "name": "Tesla Supercharger Membury, UK - Westbound",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "aab96aee-642a-4afb-aa19-43adb6abbaea": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.105883,
+      "longitude": 6.129539
+    },
+    "name": "Tesla Supercharger Drachten, Netherlands",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "aac5d5d1-f822-4dae-84fe-b83d510967ac": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.23214,
+      "longitude": -3.142146
+    },
+    "name": "Tesla Supercharger Flint Mountain, UK",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "aace642a-139c-4bbc-a4d7-f1b83c00cfea": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.119348,
+      "longitude": 4.245689
+    },
+    "name": "Tesla Supercharger Aire de Reims, France - Champagne-Nord",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "aae42ca3-2299-4d74-a031-33463337de85": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.51068385,
+      "longitude": 9.6361734
+    },
+    "name": "Tesla Supercharger Adda Sud, Italy",
+    "power": 250,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "ac165993-3273-425b-8de9-b5abcd373466": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.211936,
+      "longitude": 9.077322
+    },
+    "name": "Tesla Supercharger Bad Rappenau, Germany",
+    "power": 130,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "ac638248-f500-4509-9b89-76a86e273970": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.982399,
+      "longitude": 10.555616
+    },
+    "name": "Tesla Supercharger Knetzgau, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "acbdc576-0c22-4d5a-b565-bb58a18cd187": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.287203,
+      "longitude": 6.773114
+    },
+    "name": "Tesla Supercharger Hengelo, Netherlands",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "ad583cd9-8ef9-437f-b10a-63e611df9f3a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.769334,
+      "longitude": 1.361378
+    },
+    "name": "Tesla Supercharger Toulouse, France -  Castelnau-d'Estrétefonds",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "aeca9563-873a-4239-86db-bd4181e84c25": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.326987,
+      "longitude": 7.805338
+    },
+    "name": "Tesla Supercharger Egerkingen, Switzerland",
+    "power": 125,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "aed1c678-df7c-4841-9b42-f15a113be965": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 56.433685,
+      "longitude": 10.055412
+    },
+    "name": "Tesla Supercharger Randers, Denmark",
+    "power": 130,
+    "stalls": 14,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "aed353a8-3c67-4464-ae18-1d2567ee4c02": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 56.501482,
+      "longitude": 12.957552
+    },
+    "name": "Tesla Supercharger Mellbystrand, Sweden",
+    "power": 150,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "aef4fac0-577a-47e6-8c76-29a7943fa831": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 55.565096,
+      "longitude": -1.79184
+    },
+    "name": "Tesla Supercharger Adderstone, UK",
+    "power": 250,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "af93ab76-dc39-4dec-bce2-0778ce598199": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.05298386,
+      "longitude": 0.16638841
+    },
+    "name": "Tesla Supercharger Le Mans, France - Saint-Saturnin",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "b183ac6e-e793-4755-92c6-03288c09437e": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.266766,
+      "longitude": 12.922528
+    },
+    "name": "Tesla Supercharger Beelitz, Germany",
+    "power": 150,
+    "stalls": 14,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "b1d94066-de2d-4ab7-9975-46531aaf9941": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.67634,
+      "longitude": 4.795648
+    },
+    "name": "Tesla Supercharger Montélimar, France",
+    "power": 250,
+    "stalls": 28,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "b1eb3276-bbfa-4eeb-9a94-b985d01519d4": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.50845,
+      "longitude": 11.626019
+    },
+    "name": "Tesla Supercharger Vicenza, Italy",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "b39d1010-a4d6-4247-b0a3-97e4c96e744e": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.64136,
+      "longitude": 8.037807
+    },
+    "name": "Tesla Supercharger Achern, Germany",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "b420a224-e84b-406f-9bf0-21ade20bfe09": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.16987,
+      "longitude": 3.19676
+    },
+    "name": "Tesla Supercharger Brugge, Belgium",
+    "power": 250,
+    "stalls": 14,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "b4d43309-3fe4-4dcc-bc8b-eb07b7f29f0d": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.406948,
+      "longitude": 0.742797
+    },
+    "name": "Tesla Supercharger Tours, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "b4de6312-11b3-4c30-bf4e-c563b5bec992": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.69848,
+      "longitude": 4.977541
+    },
+    "name": "Tesla Supercharger Aire de Manissieux, France",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "b5a01817-c948-4c7c-b6f4-a398ea92e217": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.784548,
+      "longitude": 9.01927
+    },
+    "name": "Tesla Supercharger Leonberg, Germany - Glemseck",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "b65ad9c5-beb1-474a-a018-50f25e112e32": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.243081,
+      "longitude": 12.081431
+    },
+    "name": "Tesla Supercharger Forli, Italy",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "b6713eb2-f0d2-4ca4-808a-5a775c2e6457": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 55.38791,
+      "longitude": 11.361842
+    },
+    "name": "Tesla Supercharger Slagelse, Denmark",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "b792f0c7-d76b-4c29-9c4a-ef5289250402": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.167178,
+      "longitude": 4.989068
+    },
+    "name": "Tesla Supercharger Breukelen, Netherlands",
+    "power": 150,
+    "stalls": 28,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "b7e40eba-aa01-41ed-90d2-e12ff5dba01f": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.185729,
+      "longitude": -0.89127
+    },
+    "name": "Tesla Supercharger Northampton, UK - Grange Park ",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "b90ccf0c-61c8-4cc5-be8f-958570dae9c8": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.409547,
+      "longitude": -1.250857
+    },
+    "name": "Tesla Supercharger Rugby, UK",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "b9758008-06af-4925-8301-f00d81f3dc5d": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.087187,
+      "longitude": 9.48516
+    },
+    "name": "Tesla Supercharger Malsfeld, Germany",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "bab86321-bbcb-4063-870b-e9e93e179769": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.52681,
+      "longitude": -0.283526
+    },
+    "name": "Tesla Supercharger London, UK - Park Royal",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "bb38d6f7-a032-4500-b140-91591c95861d": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.480275,
+      "longitude": 3.636485
+    },
+    "name": "Tesla Supercharger Middelburg, Netherlands",
+    "power": 250,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "bbd5d88e-1807-406f-a83c-3478752479a8": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.69444,
+      "longitude": 0.178841
+    },
+    "name": "Tesla Supercharger Angoulême, France",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "bc014b28-c4d6-43df-9379-8234a2111c7a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.48848,
+      "longitude": 9.739919
+    },
+    "name": "Tesla Supercharger Bregenz, Austria",
+    "power": 138,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "bc1d2c02-a184-423d-8f60-031c863bc835": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.028356,
+      "longitude": 8.808618
+    },
+    "name": "Tesla Supercharger Brinkum, Germany",
+    "power": 150,
+    "stalls": 14,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "bc3c7e9d-c1ce-4a64-8e26-2cd968015360": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 55.835905,
+      "longitude": -3.984377
+    },
+    "name": "Tesla Supercharger Eurocentral, UK",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "bca1efe6-fd03-45b4-8d63-77e008addf8a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.445052,
+      "longitude": 10.247026
+    },
+    "name": "Tesla Supercharger Endsee, Germany",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "bcc790b8-0e92-43f9-9d2a-5fd3c7d9bd0f": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.116581,
+      "longitude": 0.766975
+    },
+    "name": "Tesla Supercharger Saint-Gaudens, France",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "bd93dc0f-0f9d-422a-8ba0-6315dd6de4a4": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 55.64006,
+      "longitude": 11.830555
+    },
+    "name": "Tesla Supercharger Kirke Såby, Denmark",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "bdbbb68a-f13b-497f-bd9a-1b4d17a8a021": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.502436,
+      "longitude": -0.0017265
+    },
+    "name": "Tesla Supercharger North Greenwich, UK",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "bdca7b85-fcf0-4efd-8fd2-14542ae4a012": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.478172,
+      "longitude": -0.515604
+    },
+    "name": "Tesla Supercharger Heathrow, UK - Terminal 5",
+    "power": 250,
+    "stalls": 24,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "bf12f73e-558a-4c59-b9cb-9100a5108504": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.048276,
+      "longitude": 4.349078
+    },
+    "name": "Tesla Supercharger Rijswijk, Netherlands",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "bf7d9808-07a0-4352-8fb2-0d1105b8eed2": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.574119,
+      "longitude": 10.981157
+    },
+    "name": "Tesla Supercharger Modena, Italy ",
+    "power": 120,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "bfcaa97c-c889-41b6-821d-50adcc20a26f": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.784556,
+      "longitude": -1.532498
+    },
+    "name": "Tesla Supercharger Leeds, UK - Whitehouse Street",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c05e462e-2442-43a9-904d-58ed18449d68": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.867721,
+      "longitude": 1.27121
+    },
+    "name": "Tesla Supercharger Limoges, France",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c094ab5a-1f8a-4944-b9c1-40addb6f5c8a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.147992,
+      "longitude": 11.464678
+    },
+    "name": "Tesla Supercharger München, Germany - Pasing Arcaden",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c0b19db9-8c2e-455f-b447-62ef16283635": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.940726,
+      "longitude": 6.081793
+    },
+    "name": "Tesla Supercharger Zevenaar, Netherlands",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c1302ea2-691a-4a95-a93c-e8c49fc34229": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.839079,
+      "longitude": 5.09062
+    },
+    "name": "Tesla Supercharger Vuren, Netherlands",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c25be52d-f889-4b22-a5e7-b4ecb5daa0bf": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.406921,
+      "longitude": 5.479291
+    },
+    "name": "Tesla Supercharger Eindhoven, Netherlands",
+    "power": 150,
+    "stalls": 24,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c2d25e64-b653-4c78-bb8c-12014799d775": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.568171,
+      "longitude": -1.543283
+    },
+    "name": "Tesla Supercharger Mont-Saint-Michel, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c38320ba-397c-4876-8017-c6562f8285d6": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.698042,
+      "longitude": 4.975513
+    },
+    "name": "Tesla Supercharger Aire de Saint-Priest, France",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c4852a76-94c4-4bf5-ac22-d768fc0fb359": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.917924,
+      "longitude": 6.83319
+    },
+    "name": "Tesla Supercharger Frechen, Germany",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c48bd44b-f3ce-427d-b642-11f5e7235bec": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.603659,
+      "longitude": 7.011155
+    },
+    "name": "Tesla Supercharger Mougins, France",
+    "power": 130,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c520122e-f3e0-4d40-a41e-025f8b679618": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.174076,
+      "longitude": 11.494478
+    },
+    "name": "Tesla Supercharger Hohenwarsleben, Germany",
+    "power": 120,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c552c3e4-7189-411d-b87c-a511c955034f": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.282708,
+      "longitude": -1.549982
+    },
+    "name": "Tesla Supercharger Nantes, France - La Chapelle-sur-Erdre",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c5dd55fc-a065-47a2-8bf3-ef229e9a5fe0": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.208678,
+      "longitude": 2.606682
+    },
+    "name": "Tesla Supercharger Senlis, France",
+    "power": 150,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c6b98670-5a39-4ac9-9362-b4809a3d896c": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.736834,
+      "longitude": 4.744095
+    },
+    "name": "Tesla Supercharger Charleville-Mézières, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c6bbccb8-270d-4028-a44b-7e9f4f48a479": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.867901,
+      "longitude": 4.557753
+    },
+    "name": "Tesla Supercharger Ridderkerk, Netherlands",
+    "power": 250,
+    "stalls": 24,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c77e6000-c403-4bc7-8b5b-15b4cb1d014b": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.359241,
+      "longitude": 7.264215
+    },
+    "name": "Tesla Supercharger Emsbüren, Germany",
+    "power": 250,
+    "stalls": 24,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c78986ac-c314-4006-a327-2b1ff628a350": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.057681,
+      "longitude": 4.96061
+    },
+    "name": "Tesla Supercharger Aire de Châteauvillain, France - Orges",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c79a8b56-fd1c-479c-90a3-53a6216e710f": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.160832,
+      "longitude": 4.54932
+    },
+    "name": "Tesla Supercharger Leiderdorp, Netherlands",
+    "power": 150,
+    "stalls": 24,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c7e96a14-b18a-4c25-b114-21dd84ac983a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.816873,
+      "longitude": 8.08576
+    },
+    "name": "Tesla Supercharger Wilnsdorf, Germany",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c86af791-f0c3-4ccb-baa8-f6370f38f126": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.226308,
+      "longitude": -0.723457
+    },
+    "name": "Tesla Supercharger Tongham, UK",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c8d5d979-2da3-410f-905a-0970fc594cb0": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.413832,
+      "longitude": 6.451177
+    },
+    "name": "Tesla Supercharger Aire de Vidauban Sud, France",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c8e8d299-b3b7-48d5-8a57-5d86c2982022": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.273751,
+      "longitude": 8.69533
+    },
+    "name": "Tesla Supercharger Rauenberg, Germany",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c8ee7539-1053-44ab-8873-23bb798a22a6": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.62753,
+      "longitude": 1.38372
+    },
+    "name": "Tesla Supercharger Norwich, UK - East",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "c8fff058-c49c-441b-8f3a-6cef5accf4fe": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.796249,
+      "longitude": 5.254964
+    },
+    "name": "Tesla Supercharger Zaltbommel, Netherlands",
+    "power": 150,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "cb044355-423c-43f5-bed2-1200b476f6de": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.69554,
+      "longitude": 7.967128
+    },
+    "name": "Tesla Supercharger Lippetal, Germany",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "cb1c6f2a-0ce8-4168-bd9b-16cfff15dd8a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.420596,
+      "longitude": -0.988024
+    },
+    "name": "Tesla Supercharger Reading, UK",
+    "power": 130,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "cb39db19-eb9e-4cf5-aef6-d30aa4d2e5d3": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.823223,
+      "longitude": 10.50362
+    },
+    "name": "Tesla Supercharger Reinfeld, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "cb8049db-67c3-4c41-bd39-586e1534abc5": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.974771,
+      "longitude": 8.927985
+    },
+    "name": "Tesla Supercharger Lugano, Switzerland - Sud",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "cbfb276a-44f7-45aa-956c-f762bec88bca": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.594675,
+      "longitude": -1.180623
+    },
+    "name": "Tesla Supercharger Leicester, UK",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "cc575d57-9678-4acc-9c2a-b1d30d4b34e8": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.45047,
+      "longitude": 11.304389
+    },
+    "name": "Tesla Supercharger Sangerhausen, Germany",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "cc78922a-69c3-412e-99b8-1ae1ffc16b30": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 54.899885,
+      "longitude": 11.89693
+    },
+    "name": "Tesla Supercharger Nørre Alslev, Denmark",
+    "power": 125,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "cd1487bc-394b-4cb7-a166-bd5a6323eac3": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.310323,
+      "longitude": 7.74971
+    },
+    "name": "Tesla Supercharger Steg-Hohtenn, Switzerland",
+    "power": 125,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "cd7ab58c-ecc9-433b-99e8-cfaf2533491a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.27325,
+      "longitude": 11.475357
+    },
+    "name": "Tesla Supercharger Hall in Tirol, Austria",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "cd85841b-cd98-41ff-91dc-ee90476786c4": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.99408,
+      "longitude": -2.290761
+    },
+    "name": "Tesla Supercharger Keele, UK - Southbound",
+    "power": 130,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "cee0bdaf-69ce-4f06-98bb-9bc1f5183e6a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.532187,
+      "longitude": 10.165037
+    },
+    "name": "Tesla Supercharger Brescia, Italy",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "cf0f4475-0c5b-4c31-a33c-00afba6bbc69": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.711971,
+      "longitude": -1.746966
+    },
+    "name": "Tesla Supercharger Hartshead Moor, UK - Eastbound",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "cfc78149-a810-4b01-9528-33d9952130e2": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.238215,
+      "longitude": 8.162957
+    },
+    "name": "Tesla Supercharger Bissendorf, Germany",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "cfd2ef49-5c25-44ad-af8e-64557cf32ddf": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 54.070027,
+      "longitude": 9.941533
+    },
+    "name": "Tesla Supercharger Neumünster, Germany - Freesen Center",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "cfdc87bb-a89b-4d6e-863c-cedae362c70c": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.30274,
+      "longitude": 0.16072
+    },
+    "name": "Tesla Supercharger Sevenoaks, UK",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "cfe6a2ce-5c26-4f02-9e4d-cae9523721eb": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.233401,
+      "longitude": 6.210263
+    },
+    "name": "Tesla Supercharger Deventer, Netherlands",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "d0099ca4-a54a-444e-927a-9e5aa57699fb": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.456812,
+      "longitude": 10.030017
+    },
+    "name": "Tesla Supercharger Ulm, Germany",
+    "power": 250,
+    "stalls": 38,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "d02d4277-f843-4a86-8c69-0786e8c48ae2": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.54318356,
+      "longitude": 5.1119267
+    },
+    "name": "Tesla Supercharger Tilburg, Netherlands",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "d0755912-ebce-4315-96a8-0196dfc26fb6": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.510794,
+      "longitude": 11.581893
+    },
+    "name": "Tesla Supercharger Schweitenkirchen, Germany",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "d0b8833a-5cf4-4f24-9669-b64c581dc82f": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.24578994,
+      "longitude": 2.0690831
+    },
+    "name": "Tesla Supercharger Vierzon, France",
+    "power": 250,
+    "stalls": 28,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "d0e76f70-cd23-4ad0-92c8-b527b99bb92d": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.587468,
+      "longitude": 4.787528
+    },
+    "name": "Tesla Supercharger Vienne, France - Chasse sur Rhone",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "d170dd35-6cdd-4be7-a0fc-31423204318c": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.48393959,
+      "longitude": 11.26845624
+    },
+    "name": "Tesla Supercharger Bologna, Italy - Casalecchio di Reno",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "d1f44895-7f24-453b-94c3-af6c88261b5a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.3565,
+      "longitude": -0.1169117
+    },
+    "name": "Tesla Supercharger London, UK - Croydon",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "d3016212-e175-42dd-a49c-cb9179ebaeed": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.9929,
+      "longitude": 6.52447
+    },
+    "name": "Tesla Supercharger Assen, Netherlands",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "d4fb4b70-7191-48dd-8a5b-2f8dd7237d8f": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.826442,
+      "longitude": 11.89837
+    },
+    "name": "Tesla Supercharger Irschenberg, Germany",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "d50d4562-e2f2-4789-9338-aeaf591f2571": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.042495,
+      "longitude": 10.620099
+    },
+    "name": "Tesla Supercharger Türkheim, Germany",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "d57b12e9-0f8b-4d3b-8af5-b77a9714d7bf": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.084312,
+      "longitude": -0.748467
+    },
+    "name": "Tesla Supercharger Newport Pagnell, UK - Southbound",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "d5b15e6a-a4c5-4b6e-b0a1-6e5f199180fb": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.870977,
+      "longitude": 3.252918
+    },
+    "name": "Tesla Supercharger Albaret-Sainte-Marie, France - Aire de La Garde",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "d5f1e682-a2f6-406a-81db-a58b4e48c79c": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.479787,
+      "longitude": 10.025082
+    },
+    "name": "Tesla Supercharger Hamburg, Germany - Stillhorn",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "d86457fb-324d-41ac-b5b7-afdd6b91bed3": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.120781,
+      "longitude": 4.242618
+    },
+    "name": "Tesla Supercharger Aire de Reims, France - Champagne-Sud",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "d87ab25e-e74b-44be-8509-51cd97873999": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 43.167686,
+      "longitude": 2.986016
+    },
+    "name": "Tesla Supercharger Narbonne, France",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "d8f3f793-7826-4cd9-a5c0-d1096f612279": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.057533,
+      "longitude": 9.165355
+    },
+    "name": "Tesla Supercharger Posthausen, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "d9bf299d-d671-4f01-a47f-d933acd80520": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.466863,
+      "longitude": -2.353975
+    },
+    "name": "Tesla Supercharger Manchester, UK - Trafford Centre",
+    "power": 250,
+    "stalls": 18,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "d9e26b2c-6bf2-46b0-bbc4-36d0b7f90cd1": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.26542613,
+      "longitude": 8.42518696
+    },
+    "name": "Tesla Supercharger Vado Ligure, Italy",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "d9edba47-d6ff-4db9-ab8d-9418b42781c7": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.54244,
+      "longitude": -0.253972
+    },
+    "name": "Tesla Supercharger Langon, France",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "da1641e1-4f49-49ba-8028-26dd8d216f7d": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.924806,
+      "longitude": 4.372265
+    },
+    "name": "Tesla Supercharger Schiedam, Netherlands",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "db48fae8-3475-4da1-9283-711069929399": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.177652,
+      "longitude": 5.912803
+    },
+    "name": "Tesla Supercharger Apeldoorn, Netherlands ",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "db867752-76a9-40d3-881a-7166160070ee": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.82105248,
+      "longitude": 10.3365449
+    },
+    "name": "Tesla Supercharger Parma, Italy - Parma North",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "db9251c9-fc33-4908-8532-5d062595c193": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.753446,
+      "longitude": -0.652871
+    },
+    "name": "Tesla Supercharger Saintes, France - Saintes Nord",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "db9377e5-03d6-462a-9265-5588c1ed3209": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.096029,
+      "longitude": 1.120985
+    },
+    "name": "Tesla Supercharger Folkestone, UK – France Bound Only",
+    "power": 130,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "dc3ab0e0-17b9-4a6a-b598-32688228d782": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.95618,
+      "longitude": -1.145994
+    },
+    "name": "Tesla Supercharger Nottingham, UK - Victoria Centre",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "de2adf92-c05a-446c-889b-793c23635343": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.845951,
+      "longitude": 9.93615
+    },
+    "name": "Tesla Supercharger Kaltenkirchen, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "de301bcd-0681-4f1a-a616-f55d3c5ba6d3": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.188622,
+      "longitude": 9.186174
+    },
+    "name": "Tesla Supercharger Gelnhausen, Germany",
+    "power": 250,
+    "stalls": 11,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "debb71c1-16ab-469b-b462-f591bcd9b8fb": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.147765,
+      "longitude": 8.990621
+    },
+    "name": "Tesla Supercharger Dorno Ovest, Italy",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "df499908-5dd0-43f7-baee-29225bb3a024": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.880344,
+      "longitude": 10.040342
+    },
+    "name": "Tesla Supercharger Aichstetten, Germany",
+    "power": 130,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "e000976b-55cc-44cf-be91-cd0b73332e5e": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.924425,
+      "longitude": 1.80414
+    },
+    "name": "Tesla Supercharger Calais, France",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "e0353686-849b-4666-ae93-76bee201fca6": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.336704,
+      "longitude": 3.455931
+    },
+    "name": "Tesla Supercharger Valenciennes, France",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "e24fb5f0-e4b8-479d-a66b-699ea6df0020": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.202872,
+      "longitude": 11.776552
+    },
+    "name": "Tesla Supercharger Münchberg-Nord, Germany",
+    "power": 250,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "e2e529a7-e397-449f-864b-e4757e77a16a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.8342,
+      "longitude": -0.681109
+    },
+    "name": "Tesla Supercharger Bordeaux, France - Merignac",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "e529ef85-a386-4464-b908-9e170edfde30": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.85183,
+      "longitude": 3.542802
+    },
+    "name": "Tesla Supercharger Auxerre, France -  Appoigny",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "e6003186-986a-435b-831b-9b5c0e8877bd": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.57803,
+      "longitude": 0.18525
+    },
+    "name": "Tesla Supercharger Romford, UK",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "e651acc2-c508-413c-8424-2c198d1c2e8c": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.08208,
+      "longitude": -1.684395
+    },
+    "name": "Tesla Supercharger Rennes, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "e753ad2a-7d7d-48f7-ad7f-b1b145871cd5": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.934251,
+      "longitude": 11.289795
+    },
+    "name": "Tesla Supercharger Weimar, Germany",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "e7bd6dd5-fd02-4dd1-b61c-13590e4aef7d": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.724169,
+      "longitude": 6.883522
+    },
+    "name": "Tesla Supercharger Emmen, Netherlands",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "e866d260-4669-4eee-b33e-e29e2ba26a40": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.507382,
+      "longitude": 8.63748
+    },
+    "name": "Tesla Supercharger Hirschberg, Germany",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "e90399d0-a3d4-40e4-8b7a-8154c48e07f0": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 56.386037,
+      "longitude": -3.47947
+    },
+    "name": "Tesla Supercharger Perth, UK",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "e9638a10-8742-48cb-aaba-92ab309fd8c9": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.329339,
+      "longitude": 4.784994
+    },
+    "name": "Tesla Supercharger Badhoevedorp, Netherlands",
+    "power": 150,
+    "stalls": 32,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "e9c598ae-3c40-41d8-95eb-edd2b8971062": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.290043,
+      "longitude": 12.137328
+    },
+    "name": "Tesla Supercharger Nempitz, Germany",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "ea495084-4661-4861-87c7-a5872c90c46e": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.298316,
+      "longitude": -0.37511
+    },
+    "name": "Tesla Supercharger Niort, France",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "ea734178-fae4-4a78-9ccf-5a83295df704": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.737393,
+      "longitude": -1.09483
+    },
+    "name": "Tesla Supercharger Oxford, UK",
+    "power": 150,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "eb5b5088-24a4-47e4-85aa-afd4989e71ba": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.995355,
+      "longitude": 11.502001
+    },
+    "name": "Tesla Supercharger Brennero, Italy",
+    "power": 150,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "ebd3eec4-79ea-40ac-afa2-bd676053f868": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.493409,
+      "longitude": -2.722584
+    },
+    "name": "Tesla Supercharger Saint-Brieuc, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "ec5477dd-f927-4e04-8de0-aa555e609593": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.079621,
+      "longitude": 6.10359
+    },
+    "name": "Tesla Supercharger Metz Sud, France",
+    "power": 250,
+    "stalls": 28,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "eca0ab49-63d4-436a-b030-fd155403333e": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.272037,
+      "longitude": 8.437791
+    },
+    "name": "Tesla Supercharger Obfelden, Switzerland",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "ecabfd01-4333-478b-8aeb-adec237c29bd": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.626573,
+      "longitude": 4.869871
+    },
+    "name": "Tesla Supercharger Oosterhout, Netherlands",
+    "power": 150,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "ecb9706b-9aa3-476d-8422-48c17356216a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.165186,
+      "longitude": 9.507766
+    },
+    "name": "Tesla Supercharger Schaan, Liechtenstein",
+    "power": 125,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "ed8fe01c-6544-46d1-84c2-4e6f6e8344c4": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 55.0078,
+      "longitude": -3.083018
+    },
+    "name": "Tesla Supercharger Gretna Green, UK",
+    "power": 150,
+    "stalls": 4,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "ee45a08b-7197-4646-88a6-01162d22e197": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.863047,
+      "longitude": 1.716028
+    },
+    "name": "Tesla Supercharger Châteauroux, France",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "ee81983d-0602-4e5f-aa10-9b78e69c7749": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.948601,
+      "longitude": -0.678092
+    },
+    "name": "Tesla Supercharger Grantham, UK",
+    "power": 150,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "efd2c307-f828-48b7-9039-1d725e66f354": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 56.122406,
+      "longitude": 9.173014
+    },
+    "name": "Tesla Supercharger Ikast, Denmark",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "f091a82b-18ce-4c25-937f-87e24b35b159": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.112164,
+      "longitude": 4.851759
+    },
+    "name": "Tesla Supercharger Orange, France",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "f22f104a-c913-49d2-9509-a3770f16ad66": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.483878,
+      "longitude": 5.700335
+    },
+    "name": "Tesla Supercharger Remouchamps, Belgium",
+    "power": 150,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "f3b07ca5-0f9f-450e-aed9-211874c9fed5": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.122721,
+      "longitude": 10.229286
+    },
+    "name": "Tesla Supercharger Burgdorf, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "f4243c3c-1a74-4dce-b774-82691dfe568d": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.264861,
+      "longitude": 11.428453
+    },
+    "name": "Tesla Supercharger Innsbruck, Austria",
+    "power": 125,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "f4fa4f17-8250-408a-9b95-b75230735142": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.039651,
+      "longitude": 11.661214
+    },
+    "name": "Tesla Supercharger Brunnthal, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "f503d154-5483-4008-9a96-b1978ffa83ad": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.547541,
+      "longitude": 4.722741
+    },
+    "name": "Tesla Supercharger Akersloot, Netherlands",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "f693ec19-a609-437d-9327-991a5b55efd0": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 55.068158,
+      "longitude": 9.360839
+    },
+    "name": "Tesla Supercharger Rødekro, Denmark",
+    "power": 150,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "f76c9412-7386-4e9d-9514-20136d4a492a": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 50.878782,
+      "longitude": 4.373321
+    },
+    "name": "Tesla Supercharger Brussels, Belgium - Urban",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "f7f46777-d48c-421f-b6a2-09bfb427a8c7": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 55.945358,
+      "longitude": -3.366676
+    },
+    "name": "Tesla Supercharger Edinburgh, UK ",
+    "power": 130,
+    "stalls": 2,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "f86f056e-ee66-48f0-978f-3e3faab9d724": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.428333,
+      "longitude": -0.898835
+    },
+    "name": "Tesla Supercharger Wokingham, UK",
+    "power": 138,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "f99e4c1a-1794-487f-b10a-d36360789371": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.161215,
+      "longitude": 11.260581
+    },
+    "name": "Tesla Supercharger Hilpoltstein, Germany",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "f9b7b3ae-c018-4727-89ef-0ccec1fde8bd": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 48.343506,
+      "longitude": 8.663626
+    },
+    "name": "Tesla Supercharger Sulz-Vöhringen, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "fa1fc01a-d02f-4fc7-b6f6-bf3597f9a906": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.632755,
+      "longitude": 9.909927
+    },
+    "name": "Tesla Supercharger Nörten-Hardenberg, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "fa5c1425-d0f9-43ff-a5ab-1eb0e8973c20": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 44.351611,
+      "longitude": 8.565435
+    },
+    "name": "Tesla Supercharger Varazze, Italy",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "fab9435d-68a6-48cf-a56b-0d879971cba2": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.485683,
+      "longitude": 6.88661
+    },
+    "name": "Tesla Supercharger Oberhausen, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "fbc29fa7-f6e1-43d5-b4bf-6101e25c77cf": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 45.08225363,
+      "longitude": 6.71121995
+    },
+    "name": "Tesla Supercharger Bardonecchia, Italy",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "fbfa5ca0-24a2-4765-ac48-e6a47f337622": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.216065,
+      "longitude": -1.504796
+    },
+    "name": "Tesla Supercharger Warwick, UK - Northbound",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "fc1e4165-9a99-48c8-ba6d-c226ad5fefd1": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.731877,
+      "longitude": 9.972773
+    },
+    "name": "Tesla Supercharger Northeim Nord, Germany",
+    "power": 250,
+    "stalls": 12,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "fc48db2b-4b8a-4124-b91b-5a2499c547c3": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 53.169567,
+      "longitude": 6.852949
+    },
+    "name": "Tesla Supercharger Zuidbroek, Netherlands",
+    "power": 250,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "fd2d1095-ea2f-43e0-831f-38cf434316d5": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.181181,
+      "longitude": 10.06936
+    },
+    "name": "Tesla Supercharger Satteldorf, Germany",
+    "power": 250,
+    "stalls": 10,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "fd49c59d-db73-40f9-91fb-fcac02f65484": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 47.4081557,
+      "longitude": 9.3043631
+    },
+    "name": "Tesla Supercharger St. Gallen, Switzerland",
+    "power": 250,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "fe04e619-f5d8-4e01-8676-65a7c3dfaa49": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.4385,
+      "longitude": 0.266639
+    },
+    "name": "Tesla Supercharger Dartford, UK",
+    "power": 130,
+    "stalls": 17,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "fef1a95c-431c-4d47-96c7-9477570cd5c1": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 51.774411,
+      "longitude": 4.653324
+    },
+    "name": "Tesla Supercharger Dordrecht, Netherlands",
+    "power": 150,
+    "stalls": 16,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "ff00c569-db9c-420f-afc7-0d42da72ad92": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 46.126595,
+      "longitude": 7.060944
+    },
+    "name": "Tesla Supercharger Martigny, Switzerland",
+    "power": 250,
+    "stalls": 20,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "ff9f237f-3df2-41d3-8c28-eb41b82b177d": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 49.770776,
+      "longitude": 9.576252
+    },
+    "name": "Tesla Supercharger Wertheim, Germany",
+    "power": 150,
+    "stalls": 6,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  },
+  "ffb809de-6c7f-4fd9-85b7-3f209a833308": {
+    "access": "ACCESS_TYPE_PUBLIC",
+    "location": {
+      "latitude": 52.38641,
+      "longitude": 0.664606
+    },
+    "name": "Tesla Supercharger Thetford, UK",
+    "power": 150,
+    "stalls": 8,
+    "type": "SITE_TYPE_SUPERCHARGER"
+  }
+}

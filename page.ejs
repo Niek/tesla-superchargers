@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tesla supercharger prices</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+</head>
+
+<body>
+  <section class="section">
+    <div class="container">
+      <h1 class="title">Supercharger + charging rates</h1>
+
+      <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Stalls</th>
+            <th>Power</th>
+            <th>Pricing members</th>
+            <th>Pricing others</th>
+          </tr>
+        </thead>
+        <tbody>
+            <% for (const supercharger of superchargers) { %>
+              <% const priceMember = supercharger.prices.member.rates[0] %>
+              <% const priceUser = supercharger.prices.user.rates[0] %>
+              <tr>
+                  <td><%= supercharger.name %></td>
+                  <td><span class="tag is-<%= supercharger.stalls < 5 ? 'danger' : (supercharger.stalls < 15 ? 'warning' : 'success') %>"><%= supercharger.stalls %></span></td>
+                  <td><span class="tag is-<%= supercharger.power < 150 ? 'danger' : (supercharger.power < 250 ? 'warning' : 'success') %>"><%= supercharger.power %> kW</span></td>
+                  <td class="has-background-<%= priceMember < averagePrices.member[supercharger.prices.member.currency] ? 'success' : 'warning' %>"><strong><%= priceMember %></strong> <%= supercharger.prices.member.currency %> / <%= supercharger.prices.member.metric %></td>
+                  <td class="has-background-<%= priceUser < averagePrices.user[supercharger.prices.user.currency] ? 'success' : 'warning' %>"><strong><%= priceUser %></strong> <%= supercharger.prices.user.currency %> / <%= supercharger.prices.user.metric %></td>
+              </tr>
+            <% } %>
+        </tbody>
+      </table>
+      </ul>
+    </div>
+  </section>
+  <footer class="footer">
+    <div class="content has-text-centered">
+      <p>
+        <strong>tesla-superchargers</strong> by <a href="https://niekvandermaas.nl/">Niek van der Maas</a> — see <a href="https://github.com/Niek/tesla-superchargers">GitHub</a> for source code.
+      </p>
+      <p>Rendered at: <%= rendered %></p>
+    </div>
+  </footer>
+</body>
+
+</html>
