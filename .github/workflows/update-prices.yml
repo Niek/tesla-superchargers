@@ -1,0 +1,33 @@
+name: Update prices
+
+on:
+  workflow_dispatch: # Allow manual trigger
+    inputs:
+      token: # Require the API token as input
+        description: 'API token'
+        required: true
+
+jobs:
+  deploy:
+    name: Build and deploy GH pages
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install npm dependencies
+        run: npm ci
+
+      - name: Update prices
+        run: node tesla-superchargers update-prices ${{ github.event.inputs.token }}
+
+      - name: Commit changes back to repo
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Updated pricing data"
+          add: "*.json"

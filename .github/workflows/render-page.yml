@@ -10,7 +10,7 @@ jobs:
     name: Build and deploy GH pages
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout v5
+      - name: Checkout
         uses: actions/checkout@v3
 
       - name: Setup Node
