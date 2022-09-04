@@ -6,6 +6,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Tesla supercharger prices</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <link href="https://cdn.jsdelivr.net/npm/tabulator-tables@5.3.3/dist/css/tabulator.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/tabulator-tables@5.3.3/dist/css/tabulator_bulma.min.css" rel="stylesheet">
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/tabulator-tables@5.3.3/dist/js/tabulator.min.js"></script>
 </head>
 
 <body>
@@ -13,31 +16,7 @@
     <div class="container">
       <h1 class="title">Supercharger + charging rates</h1>
 
-      <table class="table is-bordered is-striped is-narrow is-hoverable is-fullwidth">
-        <thead>
-          <tr>
-            <th>Name</th>
-            <th>Stalls</th>
-            <th>Power</th>
-            <th>Pricing members</th>
-            <th>Pricing others</th>
-          </tr>
-        </thead>
-        <tbody>
-            <% for (const supercharger of superchargers) { %>
-              <% const priceMember = supercharger.prices.member.rates[0] %>
-              <% const priceUser = supercharger.prices.user.rates[0] %>
-              <tr>
-                  <td><%= supercharger.name %></td>
-                  <td><span class="tag is-<%= supercharger.stalls < 5 ? 'danger' : (supercharger.stalls < 15 ? 'warning' : 'success') %>"><%= supercharger.stalls %></span></td>
-                  <td><span class="tag is-<%= supercharger.power < 150 ? 'danger' : (supercharger.power < 250 ? 'warning' : 'success') %>"><%= supercharger.power %> kW</span></td>
-                  <td class="has-background-<%= priceMember < averagePrices.member[supercharger.prices.member.currency] ? 'success' : 'warning' %>"><strong><%= priceMember %></strong> <%= supercharger.prices.member.currency %> / <%= supercharger.prices.member.metric %></td>
-                  <td class="has-background-<%= priceUser < averagePrices.user[supercharger.prices.user.currency] ? 'success' : 'warning' %>"><strong><%= priceUser %></strong> <%= supercharger.prices.user.currency %> / <%= supercharger.prices.user.metric %></td>
-              </tr>
-            <% } %>
-        </tbody>
-      </table>
-      </ul>
+      <div id="table"></div>
     </div>
   </section>
   <footer class="footer">
@@ -48,6 +27,58 @@
       <p>Rendered at: <%= rendered %></p>
     </div>
   </footer>
+  <script>
+    // Gradient of red to green colors
+    const colorGradient = ['#f14668', '#ee5950', '#e56d3b', '#d77f2b', '#c59023', '#b19f2a', '#9bab3c', '#83b654', '#68bf70', '#48c78e']// ["#9c001f", "#96250c", "#8e3800", "#834700", "#775300", "#695e00", "#5b6600", "#4c6e16", "#3a742d", "#247a42"];
+    const colorGradientReversed = [...colorGradient].reverse() // we need a shallow copy, because reverse() mutates the array
+
+    // The data from the API
+    const averagePrices = <%- JSON.stringify(averagePrices) %>
+
+    // Format the stall number in a tag with a color representing the number of stalls
+    const stallFormatter = (cell) => {
+      const maxStalls = 30
+      const value = cell.getValue()
+      const color = colorGradient[Math.min(Math.floor(value / (maxStalls / colorGradient.length)), colorGradient.length - 1)] || colorGradient[0]
+      return `<span class="tag" style="background-color: ${color}; color: #fff; font-weight: bold;">${value}</span>`
+    }
+
+    // Format the power in a tag with a color representing the kW number
+    const powerFormatter = (cell) => {
+      const minPower = 50
+      const maxPower = 250
+      const value = cell.getValue()
+      const color = colorGradient[Math.min(Math.floor((value - minPower) / ((maxPower - minPower) / colorGradient.length)), colorGradient.length - 1)] || colorGradient[0]
+      return `<span class="tag" style="background-color: ${color}; color: #fff; font-weight: bold;">${value} kW</span>`
+    }
+
+    // Format the price in a row with a background color representing the price (green = cheap, red = expensive)
+    const moneyFormatter = (cell, params) => {
+      const value = cell.getValue()
+      const type = params.type
+      const currency = cell.getRow().getData().prices[type].currency
+      const averagePrice = averagePrices[type][currency]
+      const minPrice = averagePrice * 0.8 // 20% cheaper than average
+      const maxPrice = averagePrice * 1.2 // 20% more expensive than average
+      const color = colorGradientReversed[Math.min(Math.floor((value - minPrice) / ((maxPrice - minPrice) / colorGradient.length)), colorGradient.length - 1)] || colorGradientReversed[0]
+      cell.getElement().style.backgroundColor = color
+      cell.getElement().style.color = '#fff'
+      return `${value} ${currency} / kWh`
+    }
+
+    const table = new Tabulator('#table', {
+      height: '100%',
+      data: <%- JSON.stringify(superchargers) %>,
+      layout: 'fitColumns',
+      columns: [
+        { title: 'Name', field: 'name', headerFilter: true, headerFilterPlaceholder:"Search for a supercharger name / location", widthGrow: 3 },
+        { title: 'Stalls', field: 'stalls', formatter: stallFormatter },
+        { title: 'Power', field: 'power', formatter: powerFormatter },
+        { title: 'Pricing members', field: 'prices.member.rates', formatter: moneyFormatter, formatterParams: { type: 'member' } },
+        { title: 'Pricing others', field: 'prices.user.rates', formatter: moneyFormatter, formatterParams: { type: 'user' } }
+      ]
+    })
+  </script>
 </body>
 
 </html>

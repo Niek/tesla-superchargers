@@ -29,11 +29,11 @@ const apiCall = async (url, json, token) => {
 const renderPage = async (filename) => {
   // Load the JSON file
   const superchargers = Object.entries(JSON.parse(await readFile('superchargers-with-pricing.json')))
-  // Remove the id
+    // Remove the id
     .map(([id, supercharger]) => supercharger)
-  // Filter out the superchargers without prices
+    // Filter out the superchargers without prices
     .filter(charger => charger.prices)
-  // Sort by name
+    // Sort by name
     .sort((a, b) => a.name.localeCompare(b.name))
 
   // Get all prices per currency
