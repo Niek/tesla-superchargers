@@ -2832,22 +2832,6 @@
     },
     "name": "Tesla Supercharger Böblingen, Germany",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.57
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.69
-        ]
-      }
-    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -5906,22 +5890,6 @@
     },
     "name": "Tesla Supercharger Ridderkerk, Netherlands",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.58
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.68
-        ]
-      }
-    },
     "stalls": 24,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
