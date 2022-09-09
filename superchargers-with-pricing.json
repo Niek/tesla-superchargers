@@ -6576,6 +6576,22 @@
     },
     "name": "Tesla Supercharger Manchester, UK - Trafford Centre",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.56
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.62
+        ]
+      }
+    },
     "stalls": 18,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -6636,6 +6652,22 @@
     },
     "name": "Tesla Supercharger Apeldoorn, Netherlands ",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.58
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.68
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
