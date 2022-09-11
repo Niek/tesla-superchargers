@@ -5906,22 +5906,6 @@
     },
     "name": "Tesla Supercharger Ridderkerk, Netherlands",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.58
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.68
-        ]
-      }
-    },
     "stalls": 24,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
