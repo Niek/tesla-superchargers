@@ -1014,22 +1014,6 @@
     },
     "name": "Tesla Supercharger Maastricht, Netherlands",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.58
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.68
-        ]
-      }
-    },
     "stalls": 24,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -2047,22 +2031,6 @@
     },
     "name": "Tesla Supercharger Blois, France",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.51
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.68
-        ]
-      }
-    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -6066,22 +6034,6 @@
     },
     "name": "Tesla Supercharger Ridderkerk, Netherlands",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.58
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.68
-        ]
-      }
-    },
     "stalls": 24,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
