@@ -175,6 +175,22 @@
     },
     "name": "Tesla Supercharger Dijon, France",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.51
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.68
+        ]
+      }
+    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3927,22 +3943,6 @@
     },
     "name": "Tesla Supercharger Apeldoorn Oost, Netherlands",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.58
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.68
-        ]
-      }
-    },
     "stalls": 20,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -5218,22 +5218,6 @@
     },
     "name": "Tesla Supercharger Hengelo, Netherlands",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.58
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.69
-        ]
-      }
-    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -5256,22 +5240,6 @@
     },
     "name": "Tesla Supercharger Egerkingen, Switzerland",
     "power": 125,
-    "prices": {
-      "member": {
-        "currency": "CHF",
-        "metric": "kwh",
-        "rates": [
-          0.54
-        ]
-      },
-      "user": {
-        "currency": "CHF",
-        "metric": "kwh",
-        "rates": [
-          0.71
-        ]
-      }
-    },
     "stalls": 10,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -5865,6 +5833,22 @@
     },
     "name": "Tesla Supercharger Zevenaar, Netherlands",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.58
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.68
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
