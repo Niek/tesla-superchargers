@@ -23,14 +23,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -50,14 +50,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.56
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.84
         ]
       }
     },
@@ -77,14 +77,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.74
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.89
         ]
       }
     },
@@ -115,14 +115,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -153,14 +153,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.79
         ]
       }
     },
@@ -180,14 +180,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -224,6 +224,22 @@
     },
     "name": "Tesla Supercharger Weyarn, Germany",
     "power": 138,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.68
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.8
+        ]
+      }
+    },
     "stalls": 18,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -262,14 +278,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.56
+          0.68
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.8
         ]
       }
     },
@@ -284,6 +300,22 @@
     },
     "name": "Tesla Supercharger South Mimms, UK ",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -317,6 +349,22 @@
     },
     "name": "Tesla Supercharger Aire de l'Abis, France",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.79
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -339,6 +387,22 @@
     },
     "name": "Tesla Supercharger Woodall, UK - Southbound",
     "power": 125,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -350,6 +414,22 @@
     },
     "name": "Tesla Supercharger Nottuln, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.71
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.83
+        ]
+      }
+    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -377,14 +457,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.7
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.71
+          0.82
         ]
       }
     },
@@ -448,14 +528,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.84
         ]
       }
     },
@@ -475,14 +555,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.74
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.89
         ]
       }
     },
@@ -513,14 +593,14 @@
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.64
         ]
       },
       "user": {
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.77
         ]
       }
     },
@@ -540,14 +620,14 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          5.6
+          7.8
         ]
       },
       "user": {
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          7.7
+          9
         ]
       }
     },
@@ -589,14 +669,14 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          4.5
+          5.7
         ]
       },
       "user": {
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          5.45
+          6.6
         ]
       }
     },
@@ -627,14 +707,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.69
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.81
         ]
       }
     },
@@ -649,6 +729,22 @@
     },
     "name": "Tesla Supercharger Braak, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.71
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.83
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -660,6 +756,22 @@
     },
     "name": "Tesla Supercharger Århus, Denmark - Service",
     "power": 125,
+    "prices": {
+      "member": {
+        "currency": "DKK",
+        "metric": "kwh",
+        "rates": [
+          5.7
+        ]
+      },
+      "user": {
+        "currency": "DKK",
+        "metric": "kwh",
+        "rates": [
+          6.6
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -693,6 +805,22 @@
     },
     "name": "Tesla Supercharger Maidstone, UK",
     "power": 130,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 6,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -704,6 +832,22 @@
     },
     "name": "Tesla Supercharger Illertissen, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.68
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.8
+        ]
+      }
+    },
     "stalls": 14,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -727,7 +871,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -742,6 +886,22 @@
     },
     "name": "Tesla Supercharger Penrith, UK - Tebay Southbound",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -753,6 +913,22 @@
     },
     "name": "Tesla Supercharger Birchanger Green, UK",
     "power": 130,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 4,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -780,7 +956,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.67
         ]
       },
       "user": {
@@ -807,7 +983,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
@@ -856,14 +1032,14 @@
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.53
+          0.67
         ]
       },
       "user": {
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.71
+          0.8
         ]
       }
     },
@@ -883,14 +1059,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.74
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.89
         ]
       }
     },
@@ -905,6 +1081,22 @@
     },
     "name": "Tesla Supercharger Reichertshofen, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.69
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.81
+        ]
+      }
+    },
     "stalls": 20,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -943,14 +1135,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -981,14 +1173,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.68
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.8
         ]
       }
     },
@@ -1019,14 +1211,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.71
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.83
         ]
       }
     },
@@ -1046,14 +1238,14 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.67
         ]
       },
       "user": {
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.77
         ]
       }
     },
@@ -1073,14 +1265,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.56
+          0.7
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.82
         ]
       }
     },
@@ -1111,14 +1303,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.7
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.82
         ]
       }
     },
@@ -1138,14 +1330,14 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          4.3
+          5.7
         ]
       },
       "user": {
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          5.45
+          6.6
         ]
       }
     },
@@ -1165,14 +1357,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.71
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.83
         ]
       }
     },
@@ -1203,14 +1395,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.79
         ]
       }
     },
@@ -1241,14 +1433,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.84
         ]
       }
     },
@@ -1268,14 +1460,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -1301,6 +1493,22 @@
     },
     "name": "Tesla Supercharger Kemptthal, Switzerland",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.66
+        ]
+      },
+      "user": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.79
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -1356,6 +1564,22 @@
     },
     "name": "Tesla Supercharger Burtonwood, UK",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -1379,7 +1603,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.81
         ]
       }
     },
@@ -1399,14 +1623,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -1421,6 +1645,22 @@
     },
     "name": "Tesla Supercharger Melide, Switzerland",
     "power": 125,
+    "prices": {
+      "member": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.66
+        ]
+      },
+      "user": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.79
+        ]
+      }
+    },
     "stalls": 10,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -1448,14 +1688,14 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          5.8
+          7.5
         ]
       },
       "user": {
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          7.75
+          8.7
         ]
       }
     },
@@ -1486,14 +1726,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -1508,6 +1748,22 @@
     },
     "name": "Tesla Supercharger Karlsruhe, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.57
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.8
+        ]
+      }
+    },
     "stalls": 11,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -1530,6 +1786,22 @@
     },
     "name": "Tesla Supercharger Machelen, Belgium",
     "power": 70,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.69
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.89
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -1541,6 +1813,22 @@
     },
     "name": "Tesla Supercharger Reims, France - Tinqueux",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.79
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -1557,14 +1845,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -1628,14 +1916,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -1650,6 +1938,22 @@
     },
     "name": "Tesla Supercharger Ellwangen, Germany - Hotel Montana",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.71
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.83
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -1666,7 +1970,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.68
         ]
       },
       "user": {
@@ -1693,14 +1997,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.74
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.89
         ]
       }
     },
@@ -1720,14 +2024,14 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          4.5
+          5.7
         ]
       },
       "user": {
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          5.6
+          6.6
         ]
       }
     },
@@ -1747,14 +2051,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.7
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.71
+          0.82
         ]
       }
     },
@@ -1785,14 +2089,14 @@
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.66
         ]
       },
       "user": {
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.79
         ]
       }
     },
@@ -1818,6 +2122,22 @@
     },
     "name": "Tesla Supercharger Flüelen, Switzerland",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.66
+        ]
+      },
+      "user": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.79
+        ]
+      }
+    },
     "stalls": 6,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -1834,14 +2154,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.45
+          0.46
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.56
+          0.69
         ]
       }
     },
@@ -1861,7 +2181,7 @@
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.53
+          0.64
         ]
       },
       "user": {
@@ -1899,7 +2219,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
@@ -1954,6 +2274,22 @@
     },
     "name": "Tesla Supercharger Mansfield, UK - East Midlands Designer Outlet ",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -1965,6 +2301,22 @@
     },
     "name": "Tesla Supercharger Braintree, UK",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 6,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -1992,14 +2344,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.71
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.83
         ]
       }
     },
@@ -2014,6 +2366,22 @@
     },
     "name": "Tesla Supercharger Keele, UK - Northbound",
     "power": 130,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -2052,14 +2420,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -2079,14 +2447,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.7
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.71
+          0.82
         ]
       }
     },
@@ -2123,6 +2491,22 @@
     },
     "name": "Tesla Supercharger London, UK - Gatwick",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -2139,14 +2523,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.56
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.67
+          0.84
         ]
       }
     },
@@ -2177,14 +2561,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -2199,6 +2583,22 @@
     },
     "name": "Tesla Supercharger St. Moritz, Switzerland",
     "power": 125,
+    "prices": {
+      "member": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.64
+        ]
+      },
+      "user": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 4,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -2226,14 +2626,14 @@
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.64
         ]
       },
       "user": {
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.77
         ]
       }
     },
@@ -2275,14 +2675,14 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.56
+          0.67
         ]
       },
       "user": {
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.6
+          0.77
         ]
       }
     },
@@ -2297,6 +2697,22 @@
     },
     "name": "Tesla Supercharger Chelmsford, UK",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -2308,6 +2724,22 @@
     },
     "name": "Tesla Supercharger Aalst, Belgium",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.74
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.89
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -2335,14 +2767,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.84
         ]
       }
     },
@@ -2362,14 +2794,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.53
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.67
+          0.84
         ]
       }
     },
@@ -2422,14 +2854,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.74
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.89
         ]
       }
     },
@@ -2471,14 +2903,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.79
         ]
       }
     },
@@ -2498,14 +2930,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.84
         ]
       }
     },
@@ -2525,14 +2957,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.79
         ]
       }
     },
@@ -2574,14 +3006,14 @@
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.53
+          0.67
         ]
       },
       "user": {
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.71
+          0.8
         ]
       }
     },
@@ -2596,6 +3028,22 @@
     },
     "name": "Tesla Supercharger Dardilly, France",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.79
+        ]
+      }
+    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -2629,6 +3077,22 @@
     },
     "name": "Tesla Supercharger Kortrijk, Belgium",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.74
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.89
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -2645,14 +3109,14 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          5.7
+          7.7
         ]
       },
       "user": {
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          7.6
+          8.9
         ]
       }
     },
@@ -2672,14 +3136,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.68
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.8
         ]
       }
     },
@@ -2694,6 +3158,22 @@
     },
     "name": "Tesla Supercharger Winchester, UK - Norton Park",
     "power": 130,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 2,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -2705,6 +3185,22 @@
     },
     "name": "Tesla Supercharger Manchester, UK - South",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -2721,14 +3217,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.67
+          0.84
         ]
       }
     },
@@ -2825,14 +3321,14 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.56
+          0.67
         ]
       },
       "user": {
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.77
         ]
       }
     },
@@ -2852,14 +3348,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.79
         ]
       }
     },
@@ -2879,14 +3375,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.68
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.71
+          0.8
         ]
       }
     },
@@ -2901,6 +3397,22 @@
     },
     "name": "Tesla Supercharger Kaiserslautern, Germany",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.69
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.81
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -2917,14 +3429,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.69
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.81
         ]
       }
     },
@@ -2944,14 +3456,14 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          4.25
+          5.7
         ]
       },
       "user": {
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          5.45
+          6.6
         ]
       }
     },
@@ -2988,6 +3500,22 @@
     },
     "name": "Tesla Supercharger Herzsprung, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.7
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.82
+        ]
+      }
+    },
     "stalls": 18,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3037,14 +3565,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.68
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.8
         ]
       }
     },
@@ -3097,14 +3625,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.79
         ]
       }
     },
@@ -3174,6 +3702,22 @@
     },
     "name": "Tesla Supercharger Middelfart, Denmark",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "DKK",
+        "metric": "kwh",
+        "rates": [
+          5.7
+        ]
+      },
+      "user": {
+        "currency": "DKK",
+        "metric": "kwh",
+        "rates": [
+          6.6
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3212,14 +3756,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.84
         ]
       }
     },
@@ -3250,14 +3794,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.74
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.89
         ]
       }
     },
@@ -3272,6 +3816,22 @@
     },
     "name": "Tesla Supercharger Weiterstadt, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.69
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.81
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3294,6 +3854,22 @@
     },
     "name": "Tesla Supercharger Dietlikon, Switzerland - Erlenweg",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.66
+        ]
+      },
+      "user": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.79
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3327,6 +3903,22 @@
     },
     "name": "Tesla Supercharger Bad Oeynhausen, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.71
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.83
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3349,6 +3941,22 @@
     },
     "name": "Tesla Supercharger London, UK - Westfield White City",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.34
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.51
+        ]
+      }
+    },
     "stalls": 24,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3365,14 +3973,14 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          4.4
+          5.7
         ]
       },
       "user": {
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          5.6
+          6.6
         ]
       }
     },
@@ -3387,6 +3995,22 @@
     },
     "name": "Tesla Supercharger Murr, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.55
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.82
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3398,6 +4022,22 @@
     },
     "name": "Tesla Supercharger Oberhonnefeld, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.68
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.8
+        ]
+      }
+    },
     "stalls": 40,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3414,14 +4054,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.84
         ]
       }
     },
@@ -3452,14 +4092,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.71
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.83
         ]
       }
     },
@@ -3479,14 +4119,14 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.29
+          0.34
         ]
       },
       "user": {
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.51
         ]
       }
     },
@@ -3506,14 +4146,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.79
         ]
       }
     },
@@ -3528,6 +4168,22 @@
     },
     "name": "Tesla Supercharger Aire du Jura, France",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.79
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3539,6 +4195,22 @@
     },
     "name": "Tesla Supercharger Dietikon, Switzerland",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.65
+        ]
+      },
+      "user": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.78
+        ]
+      }
+    },
     "stalls": 24,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3561,6 +4233,22 @@
     },
     "name": "Tesla Supercharger Telford, UK",
     "power": 130,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3572,6 +4260,22 @@
     },
     "name": "Tesla Supercharger Barnsley, UK",
     "power": 130,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 2,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3588,14 +4292,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.67
+          0.84
         ]
       }
     },
@@ -3626,14 +4330,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.67
+          0.79
         ]
       }
     },
@@ -3653,14 +4357,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.68
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.8
         ]
       }
     },
@@ -3675,6 +4379,22 @@
     },
     "name": "Tesla Supercharger Troyes, France - Saint-Parres-aux-Tertres",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.79
+        ]
+      }
+    },
     "stalls": 10,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3713,14 +4433,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.67
+          0.79
         ]
       }
     },
@@ -3740,14 +4460,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.79
         ]
       }
     },
@@ -3850,6 +4570,22 @@
     },
     "name": "Tesla Supercharger Edinburgh, UK - Newbridge",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3861,6 +4597,22 @@
     },
     "name": "Tesla Supercharger Lehre, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.7
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.82
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3883,6 +4635,22 @@
     },
     "name": "Tesla Supercharger Herbolzheim, Germany",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.71
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.83
+        ]
+      }
+    },
     "stalls": 10,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3910,14 +4678,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.79
         ]
       }
     },
@@ -3943,6 +4711,22 @@
     },
     "name": "Tesla Supercharger Apeldoorn Oost, Netherlands",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.71
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.83
+        ]
+      }
+    },
     "stalls": 20,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3954,6 +4738,22 @@
     },
     "name": "Tesla Supercharger Dettelbach, Germany",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.7
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.82
+        ]
+      }
+    },
     "stalls": 18,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3976,22 +4776,6 @@
     },
     "name": "Tesla Supercharger Dundee, UK",
     "power": 150,
-    "prices": {
-      "member": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.56
-        ]
-      },
-      "user": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.62
-        ]
-      }
-    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4008,14 +4792,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.67
+          0.79
         ]
       }
     },
@@ -4046,14 +4830,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -4073,14 +4857,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.74
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.89
         ]
       }
     },
@@ -4095,6 +4879,22 @@
     },
     "name": "Tesla Supercharger Membury, UK - Eastbound",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 6,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4122,14 +4922,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -4171,14 +4971,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.46
+          0.56
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.71
         ]
       }
     },
@@ -4231,14 +5031,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.79
         ]
       }
     },
@@ -4253,6 +5053,22 @@
     },
     "name": "Tesla Supercharger Sisteron, France",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.79
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4291,14 +5107,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.71
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.83
         ]
       }
     },
@@ -4318,14 +5134,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.67
+          0.79
         ]
       }
     },
@@ -4340,6 +5156,22 @@
     },
     "name": "Tesla Supercharger Eching, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.68
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.8
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4378,14 +5210,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.68
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.8
         ]
       }
     },
@@ -4400,6 +5232,22 @@
     },
     "name": "Tesla Supercharger Fleet, UK - Northbound",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4422,6 +5270,22 @@
     },
     "name": "Tesla Supercharger Gützkow, Germany",
     "power": 130,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.68
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.8
+        ]
+      }
+    },
     "stalls": 10,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4433,6 +5297,22 @@
     },
     "name": "Tesla Supercharger Weibersbrunn, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.7
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.82
+        ]
+      }
+    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4477,6 +5357,22 @@
     },
     "name": "Tesla Supercharger Irxleben, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.7
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.82
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4493,14 +5389,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.7
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.71
+          0.82
         ]
       }
     },
@@ -4515,6 +5411,22 @@
     },
     "name": "Tesla Supercharger Abington, UK",
     "power": 130,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 6,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4548,6 +5460,22 @@
     },
     "name": "Tesla Supercharger Warwick, UK - Southbound",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4614,6 +5542,22 @@
     },
     "name": "Tesla Supercharger Wyboston, UK",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 10,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4681,7 +5625,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.89
         ]
       }
     },
@@ -4707,6 +5651,22 @@
     },
     "name": "Tesla Supercharger Hopwood Park, UK",
     "power": 130,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4723,14 +5683,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -4750,14 +5710,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.67
+          0.79
         ]
       }
     },
@@ -4777,14 +5737,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.67
+          0.79
         ]
       }
     },
@@ -4815,14 +5775,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.71
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.83
         ]
       }
     },
@@ -4842,14 +5802,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -4924,14 +5884,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -4946,6 +5906,22 @@
     },
     "name": "Tesla Supercharger Warrington, UK",
     "power": 130,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 2,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4957,6 +5933,22 @@
     },
     "name": "Tesla Supercharger Herrieden, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.7
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.82
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4973,14 +5965,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.74
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.89
         ]
       }
     },
@@ -5000,14 +5992,14 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.53
+          0.67
         ]
       },
       "user": {
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.6
+          0.77
         ]
       }
     },
@@ -5027,14 +6019,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.79
         ]
       }
     },
@@ -5049,6 +6041,22 @@
     },
     "name": "Tesla Supercharger Löddeköpinge, Sweden",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "SEK",
+        "metric": "kwh",
+        "rates": [
+          7.7
+        ]
+      },
+      "user": {
+        "currency": "SEK",
+        "metric": "kwh",
+        "rates": [
+          8.9
+        ]
+      }
+    },
     "stalls": 14,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -5065,14 +6073,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.46
+          0.57
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.64
+          0.71
         ]
       }
     },
@@ -5109,6 +6117,22 @@
     },
     "name": "Tesla Supercharger Membury, UK - Westbound",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -5125,14 +6149,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.84
         ]
       }
     },
@@ -5152,14 +6176,14 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.53
+          0.67
         ]
       },
       "user": {
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.77
         ]
       }
     },
@@ -5218,6 +6242,22 @@
     },
     "name": "Tesla Supercharger Hengelo, Netherlands",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.72
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.84
+        ]
+      }
+    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -5240,6 +6280,22 @@
     },
     "name": "Tesla Supercharger Egerkingen, Switzerland",
     "power": 125,
+    "prices": {
+      "member": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.65
+        ]
+      },
+      "user": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.78
+        ]
+      }
+    },
     "stalls": 10,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -5256,14 +6312,14 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          4.35
+          5.7
         ]
       },
       "user": {
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          5.6
+          6.6
         ]
       }
     },
@@ -5283,14 +6339,14 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          5.55
+          7.4
         ]
       },
       "user": {
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          7.75
+          8.6
         ]
       }
     },
@@ -5310,14 +6366,14 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.56
+          0.67
         ]
       },
       "user": {
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.62
+          0.77
         ]
       }
     },
@@ -5337,14 +6393,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.67
+          0.79
         ]
       }
     },
@@ -5375,14 +6431,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.67
+          0.79
         ]
       }
     },
@@ -5419,6 +6475,22 @@
     },
     "name": "Tesla Supercharger Brugge, Belgium",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.74
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.89
+        ]
+      }
+    },
     "stalls": 14,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -5457,14 +6529,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.68
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.8
         ]
       }
     },
@@ -5506,14 +6578,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.84
         ]
       }
     },
@@ -5528,6 +6600,22 @@
     },
     "name": "Tesla Supercharger Northampton, UK - Grange Park ",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 6,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -5539,6 +6627,22 @@
     },
     "name": "Tesla Supercharger Rugby, UK",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -5577,14 +6681,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.84
         ]
       }
     },
@@ -5604,14 +6708,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.79
         ]
       }
     },
@@ -5637,6 +6741,22 @@
     },
     "name": "Tesla Supercharger Brinkum, Germany",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.7
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.82
+        ]
+      }
+    },
     "stalls": 14,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -5671,7 +6791,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.71
+          0.81
         ]
       }
     },
@@ -5691,7 +6811,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.67
         ]
       },
       "user": {
@@ -5718,14 +6838,14 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          4.25
+          5.7
         ]
       },
       "user": {
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          5.45
+          6.6
         ]
       }
     },
@@ -5767,14 +6887,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.84
         ]
       }
     },
@@ -5800,6 +6920,22 @@
     },
     "name": "Tesla Supercharger Leeds, UK - Whitehouse Street",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -5838,14 +6974,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.84
         ]
       }
     },
@@ -5865,14 +7001,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.84
         ]
       }
     },
@@ -5892,14 +7028,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.67
+          0.84
         ]
       }
     },
@@ -5936,6 +7072,22 @@
     },
     "name": "Tesla Supercharger Frechen, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.68
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.8
+        ]
+      }
+    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -5974,14 +7126,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.79
         ]
       }
     },
@@ -6023,14 +7175,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.84
         ]
       }
     },
@@ -6050,14 +7202,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.71
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.83
         ]
       }
     },
@@ -6088,14 +7240,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.84
         ]
       }
     },
@@ -6170,14 +7322,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.84
         ]
       }
     },
@@ -6203,6 +7355,22 @@
     },
     "name": "Tesla Supercharger Reading, UK",
     "power": 130,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 4,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -6225,6 +7393,22 @@
     },
     "name": "Tesla Supercharger Lugano, Switzerland - Sud",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.8
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -6236,6 +7420,22 @@
     },
     "name": "Tesla Supercharger Leicester, UK",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -6274,14 +7474,14 @@
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.64
         ]
       },
       "user": {
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.77
         ]
       }
     },
@@ -6301,14 +7501,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.79
         ]
       }
     },
@@ -6323,6 +7523,22 @@
     },
     "name": "Tesla Supercharger Keele, UK - Southbound",
     "power": 130,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 4,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -6356,6 +7572,22 @@
     },
     "name": "Tesla Supercharger Bissendorf, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.69
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.81
+        ]
+      }
+    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -6367,6 +7599,22 @@
     },
     "name": "Tesla Supercharger Neumünster, Germany - Freesen Center",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.68
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.8
+        ]
+      }
+    },
     "stalls": 20,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -6394,14 +7642,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.84
         ]
       }
     },
@@ -6421,14 +7669,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.7
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.82
         ]
       }
     },
@@ -6448,14 +7696,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.84
         ]
       }
     },
@@ -6486,14 +7734,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.79
         ]
       }
     },
@@ -6546,14 +7794,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.84
         ]
       }
     },
@@ -6573,14 +7821,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.56
+          0.7
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.82
         ]
       }
     },
@@ -6595,6 +7843,22 @@
     },
     "name": "Tesla Supercharger Türkheim, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.69
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.81
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -6606,6 +7870,22 @@
     },
     "name": "Tesla Supercharger Newport Pagnell, UK - Southbound",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -6628,6 +7908,22 @@
     },
     "name": "Tesla Supercharger Hamburg, Germany - Stillhorn",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.71
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.83
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -6666,14 +7962,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.7
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.71
+          0.82
         ]
       }
     },
@@ -6700,7 +7996,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.62
+          0.77
         ]
       }
     },
@@ -6731,14 +8027,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.79
         ]
       }
     },
@@ -6758,14 +8054,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.84
         ]
       }
     },
@@ -6785,14 +8081,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.84
         ]
       }
     },
@@ -6823,14 +8119,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -6850,14 +8146,14 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.56
+          0.67
         ]
       },
       "user": {
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.62
+          0.77
         ]
       }
     },
@@ -6888,14 +8184,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.7
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.82
         ]
       }
     },
@@ -6910,6 +8206,22 @@
     },
     "name": "Tesla Supercharger Gelnhausen, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.68
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.8
+        ]
+      }
+    },
     "stalls": 11,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -6943,6 +8255,22 @@
     },
     "name": "Tesla Supercharger Calais, France",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.79
+        ]
+      }
+    },
     "stalls": 6,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -6959,14 +8287,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -6997,14 +8325,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -7046,7 +8374,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.67
         ]
       },
       "user": {
@@ -7084,14 +8412,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.84
         ]
       }
     },
@@ -7106,6 +8434,22 @@
     },
     "name": "Tesla Supercharger Hirschberg, Germany",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.68
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.8
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -7133,14 +8477,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.84
         ]
       }
     },
@@ -7171,14 +8515,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.69
+          0.79
         ]
       }
     },
@@ -7193,6 +8537,22 @@
     },
     "name": "Tesla Supercharger Oxford, UK",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -7220,14 +8580,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.79
         ]
       }
     },
@@ -7247,14 +8607,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.67
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.67
+          0.79
         ]
       }
     },
@@ -7274,14 +8634,14 @@
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.64
         ]
       },
       "user": {
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.77
         ]
       }
     },
@@ -7301,14 +8661,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.84
         ]
       }
     },
@@ -7334,6 +8694,22 @@
     },
     "name": "Tesla Supercharger Gretna Green, UK",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 4,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -7372,14 +8748,14 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          4.5
+          5.7
         ]
       },
       "user": {
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          5.6
+          6.6
         ]
       }
     },
@@ -7410,14 +8786,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.74
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.71
+          0.89
         ]
       }
     },
@@ -7432,6 +8808,22 @@
     },
     "name": "Tesla Supercharger Burgdorf, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.69
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.81
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -7454,6 +8846,22 @@
     },
     "name": "Tesla Supercharger Brunnthal, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.69
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.81
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -7470,14 +8878,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.67
+          0.84
         ]
       }
     },
@@ -7497,14 +8905,14 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          4.4
+          5.7
         ]
       },
       "user": {
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          5.55
+          6.6
         ]
       }
     },
@@ -7530,6 +8938,22 @@
     },
     "name": "Tesla Supercharger Edinburgh, UK ",
     "power": 130,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 2,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -7546,14 +8970,14 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.67
         ]
       },
       "user": {
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.77
         ]
       }
     },
@@ -7590,6 +9014,22 @@
     },
     "name": "Tesla Supercharger Nörten-Hardenberg, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.68
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.8
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -7624,7 +9064,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.71
+          0.83
         ]
       }
     },
@@ -7650,6 +9090,22 @@
     },
     "name": "Tesla Supercharger Warwick, UK - Northbound",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -7677,14 +9133,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.67
+          0.84
         ]
       }
     },
@@ -7722,7 +9178,7 @@
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.7
+          0.77
         ]
       }
     },
@@ -7737,6 +9193,22 @@
     },
     "name": "Tesla Supercharger Dartford, UK",
     "power": 130,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 17,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -7753,14 +9225,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.72
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.84
         ]
       }
     },
@@ -7802,14 +9274,14 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.56
+          0.67
         ]
       },
       "user": {
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.62
+          0.77
         ]
       }
     },
