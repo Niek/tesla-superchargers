@@ -3104,6 +3104,22 @@
     },
     "name": "Tesla Supercharger Ystad, Sweden",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "SEK",
+        "metric": "kwh",
+        "rates": [
+          7.7
+        ]
+      },
+      "user": {
+        "currency": "SEK",
+        "metric": "kwh",
+        "rates": [
+          8.9
+        ]
+      }
+    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4244,6 +4260,22 @@
     },
     "name": "Tesla Supercharger Barnsley, UK",
     "power": 130,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.77
+        ]
+      }
+    },
     "stalls": 2,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
