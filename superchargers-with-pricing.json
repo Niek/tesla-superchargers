@@ -664,6 +664,22 @@
     },
     "name": "Tesla Supercharger Hedensted, Denmark",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "DKK",
+        "metric": "kwh",
+        "rates": [
+          5.7
+        ]
+      },
+      "user": {
+        "currency": "DKK",
+        "metric": "kwh",
+        "rates": [
+          6.6
+        ]
+      }
+    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -5357,22 +5373,6 @@
     },
     "name": "Tesla Supercharger Irxleben, Germany",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.7
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.82
-        ]
-      }
-    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -5460,22 +5460,6 @@
     },
     "name": "Tesla Supercharger Warwick, UK - Southbound",
     "power": 150,
-    "prices": {
-      "member": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.67
-        ]
-      },
-      "user": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.77
-        ]
-      }
-    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
