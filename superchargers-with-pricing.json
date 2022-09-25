@@ -550,22 +550,6 @@
     },
     "name": "Tesla Supercharger Namur, Belgium",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.74
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.89
-        ]
-      }
-    },
     "stalls": 15,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4841,6 +4825,22 @@
     },
     "name": "Tesla Supercharger Labouheyre, France",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.67
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.79
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
