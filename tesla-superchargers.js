@@ -4,6 +4,7 @@ const { renderFile } = require('ejs')
 
 const domain = 'https://akamai-apigateway-charging-ownership.tesla.com'
 
+// TODO: add proxy here, because Tesla blocks requests from GitHub (MS Azure)
 const apiCall = async (url, json, token) => {
   const { got } = await import('got')
 
@@ -80,6 +81,8 @@ const getSuperchargers = async (token) => {
 
   const start = [45, 0]
   const stop = [55, 10]
+
+  // TODO: use https://www.tesla.com/cua-api/tesla-locations instead as a basis
 
   for (let latitude = start[0]; latitude < stop[0]; latitude += 0.2) {
     for (let longitude = start[1]; longitude < stop[1]; longitude += 0.2) {
