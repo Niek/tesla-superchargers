@@ -4,7 +4,6 @@
     "description": "",
     "main": "updater.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
         "render-page": "mkdir -p public && node tesla-superchargers render-page public/index.html"
     },
     "author": "",
