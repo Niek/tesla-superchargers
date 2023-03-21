@@ -1,10 +1,11 @@
 const { writeFile, readFile } = require('node:fs/promises')
 const { program } = require('commander')
 const { renderFile } = require('ejs')
+const { HttpsProxyAgent } = require('hpagent')
 
 const domain = 'https://akamai-apigateway-charging-ownership.tesla.com'
 
-// TODO: add proxy here, because Tesla blocks requests from GitHub (MS Azure)
+// To use a proxy, set environment variable HTTP_PROXY like this: http://user:password@host:port
 const apiCall = async (url, json, token) => {
   const { got } = await import('got')
 
@@ -18,7 +19,8 @@ const apiCall = async (url, json, token) => {
         methods: ['GET', 'POST'],
         limit: 5
       },
-      json
+      json,
+      ...(process.env.HTTP_PROXY ? { agent: { https: new HttpsProxyAgent({ keepAlive: true, keepAliveMsecs: 1000, maxSockets: 256, maxFreeSockets: 256, scheduling: 'lifo', proxy: process.env.HTTP_PROXY }) } } : {})
     }).json()
   } catch (e) {
     console.error(`Error calling API: ${e.message}`)
@@ -79,29 +81,27 @@ const getSuperchargers = async (token) => {
   const superchargers = {}
   const promises = []
 
-  const start = [45, 0]
-  const stop = [55, 10]
+  const start = [40, -5]
+  const stop = [60, 15]
 
   // TODO: use https://www.tesla.com/cua-api/tesla-locations instead as a basis
 
-  for (let latitude = start[0]; latitude < stop[0]; latitude += 0.2) {
-    for (let longitude = start[1]; longitude < stop[1]; longitude += 0.2) {
+  for (let latitude = start[0]; latitude < stop[0]; latitude += 1) {
+    for (let longitude = start[1]; longitude < stop[1]; longitude += 1) {
       promises.push(async function () {
-        const entries = await apiCall(`${domain}/graphql?deviceLanguage=en&deviceCountry=US&ttpLocale=en_US&vin=&operationName=GetNearbyChargingSites`,
+        const entries = await apiCall(`${domain}/graphql?operationName=GetNearbyChargingSites`,
           {
             query: 'query GetNearbyChargingSites($args: GetNearbyChargingSitesRequestType!) { charging { nearbySites(args: $args) { sitesAndDistances { ...ChargingNearbySitesFragment } } } } fragment ChargingNearbySitesFragment on ChargerSiteAndDistanceType { activeOutages { message } availableStalls { value } centroid { ...EnergySvcCoordinateTypeFields } drivingDistanceMiles { value } entryPoint { ...EnergySvcCoordinateTypeFields } haversineDistanceMiles { value } id { text } localizedSiteName { value } maxPowerKw { value } totalStalls { value } siteType accessType } fragment EnergySvcCoordinateTypeFields on EnergySvcCoordinateType { latitude longitude }',
             variables: {
               args: {
                 userLocation: { latitude, longitude },
-                northwestCorner: { latitude: 90, longitude: -180 },
-                southeastCorner: { latitude: -90, longitude: 180 },
+                northwestCorner: { latitude: latitude + 1, longitude: longitude - 1 },
+                southeastCorner: { latitude: latitude - 1, longitude: longitude + 1 },
                 openToNonTeslasFilter: { value: false },
                 languageCode: 'en',
-                countryCode: 'US',
-                vin: ''
+                countryCode: 'US'
               }
-            },
-            operationName: 'GetNearbyChargingSites'
+            }
           },
           token)
         if (entries.data && entries.data.charging && entries.data.charging.nearbySites && entries.data.charging.nearbySites.sitesAndDistances) {
@@ -135,17 +135,14 @@ const getPrices = async (token) => {
   const promises = []
   for (const id of Object.keys(superchargers)) {
     promises.push(async function () {
-      const prices = await apiCall(`${domain}/graphql?deviceLanguage=en&deviceCountry=NL&ttpLocale=en_US&operationName=GetChargingSitePricing`,
+      const prices = await apiCall(`${domain}/graphql?operationName=GetChargingSitePricing`,
         {
           query: 'query GetChargingSitePricing($siteId: String!, $deviceCountry: String!, $deviceLanguage: String!, $upselling: Boolean) { charging { sitePricing( siteId: $siteId deviceCountry: $deviceCountry deviceLanguage: $deviceLanguage upselling: $upselling ) { userRates { ...ChargingSiteRatesFragment } memberRates { ...ChargingSiteRatesFragment } } } } fragment ChargingSiteRatesFragment on ChargingSiteRatesType { charging { uom rates currencyCode programType priceBookID vehicleMakeType } parking { uom rates currencyCode programType priceBookID vehicleMakeType } }',
           variables: {
             siteId: id,
-            ttpLocale: 'en_US',
             deviceLanguage: 'en',
-            deviceCountry: 'US',
-            vin: ''
-          },
-          operationName: 'GetChargingSitePricingTsla'
+            deviceCountry: 'US'
+          }
         },
         token)
       if (prices.data && prices.data && prices.data.charging && prices.data.charging.sitePricing) {

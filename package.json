@@ -11,7 +11,8 @@
     "dependencies": {
         "commander": "^10.0.0",
         "ejs": "^3.1.8",
-        "got": "^12.3.1"
+        "got": "^12.3.1",
+        "hpagent": "^1.2.0"
     },
     "devDependencies": {
         "standard": "^17.0.0"
