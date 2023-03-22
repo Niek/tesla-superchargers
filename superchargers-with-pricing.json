@@ -4083,22 +4083,6 @@
     },
     "name": "Tesla Supercharger Heede, Germany",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.51
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.64
-        ]
-      }
-    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -9757,6 +9741,22 @@
     },
     "name": "Tesla Supercharger Buchelay, France",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.44
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.58
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -12351,6 +12351,22 @@
     },
     "name": "Tesla Supercharger Lippetal, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.51
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.65
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
