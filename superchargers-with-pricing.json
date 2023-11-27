@@ -16316,22 +16316,6 @@
     },
     "name": "Mougins, France",
     "power": 130,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.29
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.39
-        ]
-      }
-    },
     "stalls": 4,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
