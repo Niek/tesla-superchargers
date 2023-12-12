@@ -19,7 +19,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.49
         ]
       }
     },
@@ -46,7 +46,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.43
         ]
       }
     },
@@ -100,7 +100,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.47
+          0.53
         ]
       }
     },
@@ -127,7 +127,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.53
+          0.5
         ]
       }
     },
@@ -154,7 +154,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -181,7 +181,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -208,7 +208,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -235,7 +235,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -262,7 +262,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.43
         ]
       }
     },
@@ -289,7 +289,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.54
         ]
       }
     },
@@ -343,7 +343,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.42
         ]
       }
     },
@@ -397,7 +397,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -424,7 +424,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.43
         ]
       }
     },
@@ -451,7 +451,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.49
         ]
       }
     },
@@ -478,7 +478,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -505,7 +505,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -532,7 +532,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.53
+          0.58
         ]
       }
     },
@@ -586,7 +586,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.43
         ]
       }
     },
@@ -694,7 +694,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.44
+          0.78
         ]
       }
     },
@@ -721,7 +721,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -748,7 +748,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.61
         ]
       }
     },
@@ -775,7 +775,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.43
         ]
       }
     },
@@ -829,7 +829,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.65
+          4.4
         ]
       }
     },
@@ -856,7 +856,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.54
         ]
       }
     },
@@ -883,7 +883,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.61
         ]
       }
     },
@@ -910,7 +910,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.62
+          0.59
         ]
       }
     },
@@ -937,7 +937,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.59
         ]
       }
     },
@@ -964,7 +964,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.49
         ]
       }
     },
@@ -991,7 +991,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -1018,7 +1018,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.58
         ]
       }
     },
@@ -1099,7 +1099,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -1126,7 +1126,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.3
+          5.4
         ]
       }
     },
@@ -1153,7 +1153,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.42
         ]
       }
     },
@@ -1180,7 +1180,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.38
+          0.41
         ]
       }
     },
@@ -1207,7 +1207,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.45
+          4
         ]
       }
     },
@@ -1234,7 +1234,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -1261,7 +1261,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.66
+          0.63
         ]
       }
     },
@@ -1288,7 +1288,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.45
+          0.51
         ]
       }
     },
@@ -1396,7 +1396,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.5
         ]
       }
     },
@@ -1423,7 +1423,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.49
         ]
       }
     },
@@ -1450,7 +1450,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.59
         ]
       }
     },
@@ -1504,7 +1504,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.47
+          0.54
         ]
       }
     },
@@ -1531,7 +1531,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.75
+          5.5
         ]
       }
     },
@@ -1558,7 +1558,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.36
+          0.41
         ]
       }
     },
@@ -1639,7 +1639,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.47
         ]
       }
     },
@@ -1666,7 +1666,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.53
+          0.62
         ]
       }
     },
@@ -1693,7 +1693,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.58
         ]
       }
     },
@@ -1774,7 +1774,7 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          2.85
+          2.75
         ]
       }
     },
@@ -1801,7 +1801,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.43
         ]
       }
     },
@@ -1855,7 +1855,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.56
         ]
       }
     },
@@ -1882,7 +1882,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.47
         ]
       }
     },
@@ -1909,7 +1909,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.47
         ]
       }
     },
@@ -1936,7 +1936,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.72
+          0.73
         ]
       }
     },
@@ -1963,7 +1963,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.58
         ]
       }
     },
@@ -1990,7 +1990,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.62
         ]
       }
     },
@@ -2017,7 +2017,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.38
+          0.42
         ]
       }
     },
@@ -2044,7 +2044,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -2071,7 +2071,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -2098,7 +2098,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.54
         ]
       }
     },
@@ -2125,7 +2125,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.69
         ]
       }
     },
@@ -2179,7 +2179,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.05
+          5
         ]
       }
     },
@@ -2206,7 +2206,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.38
+          0.39
         ]
       }
     },
@@ -2233,7 +2233,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.66
+          0.63
         ]
       }
     },
@@ -2260,7 +2260,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.47
         ]
       }
     },
@@ -2287,7 +2287,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.46
+          0.53
         ]
       }
     },
@@ -2314,7 +2314,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          4.2
+          5.2
         ]
       }
     },
@@ -2341,7 +2341,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -2395,7 +2395,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.49
         ]
       }
     },
@@ -2449,7 +2449,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.59
         ]
       }
     },
@@ -2476,7 +2476,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.55
         ]
       }
     },
@@ -2503,7 +2503,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.62
         ]
       }
     },
@@ -2530,7 +2530,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.66
+          0.63
         ]
       }
     },
@@ -2557,7 +2557,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.46
         ]
       }
     },
@@ -2584,7 +2584,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.49
         ]
       }
     },
@@ -2611,7 +2611,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.53
+          0.58
         ]
       }
     },
@@ -2638,7 +2638,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.61
         ]
       }
     },
@@ -2665,7 +2665,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -2692,7 +2692,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.36
+          0.41
         ]
       }
     },
@@ -2719,7 +2719,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.62
         ]
       }
     },
@@ -2746,7 +2746,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.55
         ]
       }
     },
@@ -2795,7 +2795,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -2849,7 +2849,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.49
         ]
       }
     },
@@ -2876,7 +2876,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.43
         ]
       }
     },
@@ -2903,7 +2903,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.55
         ]
       }
     },
@@ -2930,7 +2930,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.55
         ]
       }
     },
@@ -2957,7 +2957,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.85
+          5.6
         ]
       }
     },
@@ -2984,7 +2984,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.43
         ]
       }
     },
@@ -3011,7 +3011,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.47
         ]
       }
     },
@@ -3065,7 +3065,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.53
+          0.58
         ]
       }
     },
@@ -3119,7 +3119,7 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          2.9
+          2.75
         ]
       }
     },
@@ -3146,7 +3146,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.63
         ]
       }
     },
@@ -3173,7 +3173,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.62
+          0.63
         ]
       }
     },
@@ -3200,7 +3200,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.66
+          0.63
         ]
       }
     },
@@ -3227,7 +3227,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.45
+          0.46
         ]
       }
     },
@@ -3281,7 +3281,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.43
         ]
       }
     },
@@ -3308,7 +3308,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.53
+          0.55
         ]
       }
     },
@@ -3335,7 +3335,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.66
+          0.63
         ]
       }
     },
@@ -3362,7 +3362,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.63
+          0.59
         ]
       }
     },
@@ -3389,7 +3389,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.58
         ]
       }
     },
@@ -3443,7 +3443,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.43
         ]
       }
     },
@@ -3470,7 +3470,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.45
+          0.47
         ]
       }
     },
@@ -3524,7 +3524,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.59
         ]
       }
     },
@@ -3551,7 +3551,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.42
         ]
       }
     },
@@ -3605,7 +3605,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.54
         ]
       }
     },
@@ -3632,7 +3632,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.43
         ]
       }
     },
@@ -3686,7 +3686,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.78
         ]
       }
     },
@@ -3713,7 +3713,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          4.2
+          5.2
         ]
       }
     },
@@ -3740,7 +3740,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -3767,7 +3767,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.59
         ]
       }
     },
@@ -3794,7 +3794,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.7
+          4.45
         ]
       }
     },
@@ -3821,7 +3821,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.57
         ]
       }
     },
@@ -3848,7 +3848,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.62
         ]
       }
     },
@@ -3875,7 +3875,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -3902,7 +3902,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.43
         ]
       }
     },
@@ -3929,7 +3929,7 @@
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.65
         ]
       }
     },
@@ -3956,7 +3956,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -3983,7 +3983,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.66
+          0.63
         ]
       }
     },
@@ -4037,7 +4037,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -4064,7 +4064,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.6
+          5.4
         ]
       }
     },
@@ -4091,7 +4091,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.61
         ]
       }
     },
@@ -4118,7 +4118,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.43
         ]
       }
     },
@@ -4172,7 +4172,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.63
         ]
       }
     },
@@ -4199,7 +4199,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.63
         ]
       }
     },
@@ -4226,7 +4226,7 @@
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.61
         ]
       }
     },
@@ -4253,7 +4253,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -4280,7 +4280,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.53
         ]
       }
     },
@@ -4307,7 +4307,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.62
         ]
       }
     },
@@ -4334,7 +4334,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.38
+          0.43
         ]
       }
     },
@@ -4388,7 +4388,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.36
+          0.39
         ]
       }
     },
@@ -4415,7 +4415,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.61
         ]
       }
     },
@@ -4442,7 +4442,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -4469,7 +4469,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.38
+          0.42
         ]
       }
     },
@@ -4496,7 +4496,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -4523,7 +4523,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.46
         ]
       }
     },
@@ -4550,7 +4550,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.59
         ]
       }
     },
@@ -4577,7 +4577,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.59
         ]
       }
     },
@@ -4604,7 +4604,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.53
+          0.49
         ]
       }
     },
@@ -4631,7 +4631,7 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          3.15
+          3.4
         ]
       }
     },
@@ -4658,7 +4658,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.59
         ]
       }
     },
@@ -4712,7 +4712,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.53
         ]
       }
     },
@@ -4739,7 +4739,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.59
         ]
       }
     },
@@ -4793,7 +4793,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.43
         ]
       }
     },
@@ -4820,7 +4820,7 @@
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.63
+          0.66
         ]
       }
     },
@@ -4847,7 +4847,7 @@
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.61
         ]
       }
     },
@@ -4874,7 +4874,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          4.4
+          5.45
         ]
       }
     },
@@ -4901,7 +4901,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.55
         ]
       }
     },
@@ -4928,7 +4928,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.53
+          0.54
         ]
       }
     },
@@ -4982,7 +4982,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -5009,7 +5009,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.43
         ]
       }
     },
@@ -5063,7 +5063,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.63
         ]
       }
     },
@@ -5090,7 +5090,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -5144,7 +5144,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.45
+          4
         ]
       }
     },
@@ -5279,7 +5279,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.59
         ]
       }
     },
@@ -5306,7 +5306,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.63
         ]
       }
     },
@@ -5333,7 +5333,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          4.05
+          5.05
         ]
       }
     },
@@ -5360,7 +5360,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.46
+          0.54
         ]
       }
     },
@@ -5425,7 +5425,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -5479,7 +5479,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.55
         ]
       }
     },
@@ -5533,7 +5533,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.66
         ]
       }
     },
@@ -5560,7 +5560,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.38
+          0.42
         ]
       }
     },
@@ -5614,7 +5614,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.43
         ]
       }
     },
@@ -5668,7 +5668,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.55
         ]
       }
     },
@@ -5722,7 +5722,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.62
         ]
       }
     },
@@ -5749,7 +5749,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.6
+          5.4
         ]
       }
     },
@@ -5776,7 +5776,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.1
+          5.05
         ]
       }
     },
@@ -5803,7 +5803,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.61
         ]
       }
     },
@@ -5830,7 +5830,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.63
         ]
       }
     },
@@ -5857,7 +5857,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.41
         ]
       }
     },
@@ -5884,7 +5884,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.43
         ]
       }
     },
@@ -5911,7 +5911,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.54
         ]
       }
     },
@@ -5938,7 +5938,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.55
         ]
       }
     },
@@ -5965,7 +5965,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.49
         ]
       }
     },
@@ -6019,7 +6019,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.62
         ]
       }
     },
@@ -6073,7 +6073,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.55
         ]
       }
     },
@@ -6100,7 +6100,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.46
         ]
       }
     },
@@ -6127,7 +6127,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.55
         ]
       }
     },
@@ -6154,7 +6154,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.05
+          5
         ]
       }
     },
@@ -6181,7 +6181,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.55
         ]
       }
     },
@@ -6208,7 +6208,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.53
         ]
       }
     },
@@ -6235,7 +6235,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.42
         ]
       }
     },
@@ -6289,7 +6289,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.45
+          0.46
         ]
       }
     },
@@ -6343,7 +6343,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.55
         ]
       }
     },
@@ -6370,7 +6370,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -6397,7 +6397,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.43
         ]
       }
     },
@@ -6451,7 +6451,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.45
         ]
       }
     },
@@ -6478,7 +6478,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.47
+          0.54
         ]
       }
     },
@@ -6505,7 +6505,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.51
         ]
       }
     },
@@ -6532,7 +6532,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.63
+          0.62
         ]
       }
     },
@@ -6559,7 +6559,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.66
+          0.63
         ]
       }
     },
@@ -6586,7 +6586,7 @@
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.66
         ]
       }
     },
@@ -6613,7 +6613,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.43
         ]
       }
     },
@@ -6640,7 +6640,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          4.2
+          5.2
         ]
       }
     },
@@ -6694,7 +6694,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.43
         ]
       }
     },
@@ -6721,7 +6721,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -6748,7 +6748,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.62
         ]
       }
     },
@@ -6775,7 +6775,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.55
         ]
       }
     },
@@ -6829,7 +6829,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.43
         ]
       }
     },
@@ -6856,7 +6856,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.53
         ]
       }
     },
@@ -6883,7 +6883,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -6910,7 +6910,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.42
         ]
       }
     },
@@ -6937,7 +6937,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.57
         ]
       }
     },
@@ -6964,7 +6964,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.59
         ]
       }
     },
@@ -6991,7 +6991,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.55
         ]
       }
     },
@@ -7018,7 +7018,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.58
         ]
       }
     },
@@ -7045,7 +7045,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.6
+          5.45
         ]
       }
     },
@@ -7072,7 +7072,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.57
         ]
       }
     },
@@ -7099,7 +7099,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.53
+          0.55
         ]
       }
     },
@@ -7126,7 +7126,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.62
+          0.59
         ]
       }
     },
@@ -7153,7 +7153,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.44
         ]
       }
     },
@@ -7234,7 +7234,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.42
         ]
       }
     },
@@ -7261,7 +7261,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.63
         ]
       }
     },
@@ -7288,7 +7288,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.47
+          0.54
         ]
       }
     },
@@ -7315,7 +7315,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.55
         ]
       }
     },
@@ -7342,7 +7342,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.46
         ]
       }
     },
@@ -7369,7 +7369,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.59
         ]
       }
     },
@@ -7450,7 +7450,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.47
+          0.54
         ]
       }
     },
@@ -7477,7 +7477,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.45
         ]
       }
     },
@@ -7504,7 +7504,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.61
         ]
       }
     },
@@ -7531,7 +7531,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.58
         ]
       }
     },
@@ -7558,7 +7558,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.62
+          0.61
         ]
       }
     },
@@ -7612,7 +7612,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.45
+          0.51
         ]
       }
     },
@@ -7639,7 +7639,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.55
         ]
       }
     },
@@ -7666,7 +7666,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.62
         ]
       }
     },
@@ -7693,7 +7693,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.61
         ]
       }
     },
@@ -7720,7 +7720,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.61
         ]
       }
     },
@@ -7774,7 +7774,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.66
+          0.63
         ]
       }
     },
@@ -7801,7 +7801,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          4.2
+          5.2
         ]
       }
     },
@@ -7828,7 +7828,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.59
         ]
       }
     },
@@ -7855,7 +7855,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.45
+          4
         ]
       }
     },
@@ -7936,7 +7936,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.47
+          0.53
         ]
       }
     },
@@ -7963,7 +7963,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.47
+          0.54
         ]
       }
     },
@@ -7990,7 +7990,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -8017,7 +8017,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.49
         ]
       }
     },
@@ -8044,7 +8044,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.55
         ]
       }
     },
@@ -8071,7 +8071,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          4
+          5
         ]
       }
     },
@@ -8098,7 +8098,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -8152,7 +8152,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.55
         ]
       }
     },
@@ -8179,7 +8179,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.2
+          5.2
         ]
       }
     },
@@ -8206,7 +8206,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.57
         ]
       }
     },
@@ -8233,7 +8233,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -8260,7 +8260,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.66
+          0.63
         ]
       }
     },
@@ -8287,7 +8287,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.55
         ]
       }
     },
@@ -8314,7 +8314,7 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          3.05
+          3.15
         ]
       }
     },
@@ -8341,7 +8341,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.63
         ]
       }
     },
@@ -8368,7 +8368,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.62
         ]
       }
     },
@@ -8395,7 +8395,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.43
         ]
       }
     },
@@ -8422,7 +8422,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.47
         ]
       }
     },
@@ -8449,7 +8449,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.53
         ]
       }
     },
@@ -8476,7 +8476,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.54
         ]
       }
     },
@@ -8530,7 +8530,7 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          2.45
+          2.5
         ]
       }
     },
@@ -8557,7 +8557,7 @@
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.65
         ]
       }
     },
@@ -8584,7 +8584,7 @@
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.67
         ]
       }
     },
@@ -8611,7 +8611,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.62
         ]
       }
     },
@@ -8638,7 +8638,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.42
         ]
       }
     },
@@ -8665,7 +8665,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -8719,7 +8719,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -8746,7 +8746,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.5
         ]
       }
     },
@@ -8773,7 +8773,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -8800,7 +8800,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.63
+          0.62
         ]
       }
     },
@@ -8827,7 +8827,7 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          2.95
+          3.1
         ]
       }
     },
@@ -8854,7 +8854,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.62
+          0.61
         ]
       }
     },
@@ -8881,7 +8881,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.59
         ]
       }
     },
@@ -8908,7 +8908,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.45
         ]
       }
     },
@@ -8935,7 +8935,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.66
+          0.63
         ]
       }
     },
@@ -8962,7 +8962,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -8989,7 +8989,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -9043,7 +9043,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.67
         ]
       }
     },
@@ -9097,7 +9097,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -9124,7 +9124,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.55
         ]
       }
     },
@@ -9151,7 +9151,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.43
         ]
       }
     },
@@ -9178,7 +9178,7 @@
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.63
+          0.62
         ]
       }
     },
@@ -9205,7 +9205,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -9232,7 +9232,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -9286,7 +9286,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.58
         ]
       }
     },
@@ -9313,7 +9313,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.42
         ]
       }
     },
@@ -9367,7 +9367,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.46
         ]
       }
     },
@@ -9394,7 +9394,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.43
         ]
       }
     },
@@ -9421,7 +9421,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.38
+          0.42
         ]
       }
     },
@@ -9448,7 +9448,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.45
         ]
       }
     },
@@ -9475,7 +9475,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.57
         ]
       }
     },
@@ -9502,7 +9502,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -9529,7 +9529,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.43
         ]
       }
     },
@@ -9556,7 +9556,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.59
         ]
       }
     },
@@ -9583,7 +9583,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -9610,7 +9610,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.49
         ]
       }
     },
@@ -9637,7 +9637,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.63
+          0.52
         ]
       }
     },
@@ -9664,7 +9664,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -9691,7 +9691,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.36
+          0.41
         ]
       }
     },
@@ -9718,7 +9718,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -9745,7 +9745,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.62
         ]
       }
     },
@@ -9799,7 +9799,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.45
         ]
       }
     },
@@ -9853,7 +9853,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.49
         ]
       }
     },
@@ -9880,7 +9880,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.49
         ]
       }
     },
@@ -9907,7 +9907,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.75
+          5.5
         ]
       }
     },
@@ -9934,7 +9934,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.55
         ]
       }
     },
@@ -9961,7 +9961,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.59
         ]
       }
     },
@@ -10015,7 +10015,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -10042,7 +10042,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -10069,7 +10069,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.62
         ]
       }
     },
@@ -10096,7 +10096,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.6
+          5.4
         ]
       }
     },
@@ -10123,7 +10123,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.55
         ]
       }
     },
@@ -10150,7 +10150,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.45
+          4
         ]
       }
     },
@@ -10177,7 +10177,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -10204,7 +10204,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.62
+          0.63
         ]
       }
     },
@@ -10231,7 +10231,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.59
         ]
       }
     },
@@ -10258,7 +10258,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.58
         ]
       }
     },
@@ -10285,7 +10285,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.63
+          0.62
         ]
       }
     },
@@ -10312,7 +10312,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -10339,7 +10339,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.63
+          0.62
         ]
       }
     },
@@ -10366,7 +10366,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.47
+          0.54
         ]
       }
     },
@@ -10447,7 +10447,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.63
+          0.59
         ]
       }
     },
@@ -10474,7 +10474,7 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          2.95
+          3.1
         ]
       }
     },
@@ -10501,7 +10501,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.59
         ]
       }
     },
@@ -10528,7 +10528,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.46
         ]
       }
     },
@@ -10555,7 +10555,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.55
         ]
       }
     },
@@ -10582,7 +10582,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.47
         ]
       }
     },
@@ -10609,7 +10609,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.61
         ]
       }
     },
@@ -10636,7 +10636,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -10663,7 +10663,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.8
+          5.55
         ]
       }
     },
@@ -10690,7 +10690,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.5
         ]
       }
     },
@@ -10717,7 +10717,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.53
+          0.55
         ]
       }
     },
@@ -10744,7 +10744,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.66
         ]
       }
     },
@@ -10771,7 +10771,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -10798,7 +10798,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.38
+          0.43
         ]
       }
     },
@@ -10825,7 +10825,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -10852,7 +10852,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.55
         ]
       }
     },
@@ -10879,7 +10879,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.46
+          0.51
         ]
       }
     },
@@ -10906,7 +10906,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          4.25
+          5.3
         ]
       }
     },
@@ -10933,7 +10933,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.45
         ]
       }
     },
@@ -10960,7 +10960,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.43
         ]
       }
     },
@@ -10987,7 +10987,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.47
+          0.53
         ]
       }
     },
@@ -11014,7 +11014,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -11041,7 +11041,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          3.7
+          4.4
         ]
       }
     },
@@ -11068,7 +11068,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.47
         ]
       }
     },
@@ -11095,7 +11095,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -11122,7 +11122,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.45
+          0.49
         ]
       }
     },
@@ -11149,7 +11149,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.63
+          0.62
         ]
       }
     },
@@ -11176,7 +11176,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.66
         ]
       }
     },
@@ -11203,7 +11203,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          4.1
+          5.15
         ]
       }
     },
@@ -11230,7 +11230,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.66
+          0.63
         ]
       }
     },
@@ -11257,7 +11257,7 @@
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.53
         ]
       }
     },
@@ -11284,7 +11284,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.47
         ]
       }
     },
@@ -11311,7 +11311,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.6
+          4.3
         ]
       }
     },
@@ -11365,7 +11365,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.49
         ]
       }
     },
@@ -11392,7 +11392,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.53
         ]
       }
     },
@@ -11419,7 +11419,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.45
         ]
       }
     },
@@ -11500,7 +11500,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.62
         ]
       }
     },
@@ -11527,7 +11527,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.41
         ]
       }
     },
@@ -11554,7 +11554,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -11581,7 +11581,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.45
         ]
       }
     },
@@ -11608,7 +11608,7 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          2.9
+          2.85
         ]
       }
     },
@@ -11635,7 +11635,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -11662,7 +11662,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.43
         ]
       }
     },
@@ -11743,7 +11743,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.55
         ]
       }
     },
@@ -11770,7 +11770,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.63
+          0.62
         ]
       }
     },
@@ -11797,7 +11797,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.55
         ]
       }
     },
@@ -11862,7 +11862,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.45
+          4
         ]
       }
     },
@@ -11916,7 +11916,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.65
         ]
       }
     },
@@ -11943,7 +11943,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.43
         ]
       }
     },
@@ -11970,7 +11970,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.62
+          0.63
         ]
       }
     },
@@ -12024,7 +12024,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.58
         ]
       }
     },
@@ -12051,7 +12051,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.58
         ]
       }
     },
@@ -12078,7 +12078,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.55
         ]
       }
     },
@@ -12105,7 +12105,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.57
         ]
       }
     },
@@ -12132,7 +12132,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -12186,7 +12186,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.57
         ]
       }
     },
@@ -12213,7 +12213,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.49
         ]
       }
     },
@@ -12240,7 +12240,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.59
         ]
       }
     },
@@ -12267,7 +12267,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.55
         ]
       }
     },
@@ -12294,7 +12294,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.62
         ]
       }
     },
@@ -12321,7 +12321,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.58
         ]
       }
     },
@@ -12348,7 +12348,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.55
         ]
       }
     },
@@ -12375,7 +12375,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.05
+          5
         ]
       }
     },
@@ -12402,7 +12402,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -12429,7 +12429,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.62
+          0.63
         ]
       }
     },
@@ -12483,7 +12483,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.49
         ]
       }
     },
@@ -12521,7 +12521,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4
+          4.85
         ]
       }
     },
@@ -12548,7 +12548,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -12575,7 +12575,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          4.05
+          5.05
         ]
       }
     },
@@ -12602,7 +12602,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.55
         ]
       }
     },
@@ -12629,7 +12629,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.55
         ]
       }
     },
@@ -12656,7 +12656,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.45
+          0.5
         ]
       }
     },
@@ -12683,7 +12683,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.55
         ]
       }
     },
@@ -12737,7 +12737,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.45
         ]
       }
     },
@@ -12764,7 +12764,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.66
+          0.63
         ]
       }
     },
@@ -12791,7 +12791,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.3
+          3.85
         ]
       }
     },
@@ -12818,7 +12818,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.2
+          5.2
         ]
       }
     },
@@ -12845,7 +12845,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -12872,7 +12872,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.53
+          0.5
         ]
       }
     },
@@ -12899,7 +12899,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -12926,7 +12926,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.66
+          0.63
         ]
       }
     },
@@ -12953,7 +12953,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.59
         ]
       }
     },
@@ -12980,7 +12980,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.65
+          4.4
         ]
       }
     },
@@ -13007,7 +13007,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.38
+          0.42
         ]
       }
     },
@@ -13034,7 +13034,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.47
         ]
       }
     },
@@ -13061,7 +13061,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.59
         ]
       }
     },
@@ -13088,7 +13088,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -13115,7 +13115,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.6
+          4.3
         ]
       }
     },
@@ -13142,7 +13142,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.58
         ]
       }
     },
@@ -13169,7 +13169,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.38
+          0.41
         ]
       }
     },
@@ -13196,7 +13196,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.43
         ]
       }
     },
@@ -13223,7 +13223,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.63
+          0.62
         ]
       }
     },
@@ -13277,7 +13277,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.43
         ]
       }
     },
@@ -13331,7 +13331,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -13358,7 +13358,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -13385,7 +13385,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.56
         ]
       }
     },
@@ -13412,7 +13412,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.58
         ]
       }
     },
@@ -13439,7 +13439,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.55
         ]
       }
     },
@@ -13466,7 +13466,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.62
+          0.63
         ]
       }
     },
@@ -13493,7 +13493,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.61
         ]
       }
     },
@@ -13520,7 +13520,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.53
+          0.59
         ]
       }
     },
@@ -13547,7 +13547,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.47
         ]
       }
     },
@@ -13574,7 +13574,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.48
+          0.56
         ]
       }
     },
@@ -13601,7 +13601,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.45
         ]
       }
     },
@@ -13628,7 +13628,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.62
         ]
       }
     },
@@ -13655,7 +13655,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.51
         ]
       }
     },
@@ -13682,7 +13682,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.47
+          0.55
         ]
       }
     },
@@ -13709,7 +13709,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.59
         ]
       }
     },
@@ -13736,7 +13736,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.05
+          5
         ]
       }
     },
@@ -13763,7 +13763,7 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          2.7
+          2.85
         ]
       }
     },
@@ -13790,7 +13790,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.75
+          5.5
         ]
       }
     },
@@ -13817,7 +13817,7 @@
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.62
         ]
       }
     },
@@ -13844,7 +13844,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -13871,7 +13871,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.05
+          5
         ]
       }
     },
@@ -13898,7 +13898,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.38
+          0.41
         ]
       }
     },
@@ -13925,7 +13925,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.53
         ]
       }
     },
@@ -13952,7 +13952,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.66
+          0.63
         ]
       }
     },
@@ -13979,7 +13979,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.63
         ]
       }
     },
@@ -14033,7 +14033,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.47
+          0.55
         ]
       }
     },
@@ -14060,7 +14060,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.66
+          0.63
         ]
       }
     },
@@ -14087,7 +14087,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.2
+          5.2
         ]
       }
     },
@@ -14141,7 +14141,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -14195,7 +14195,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.7
+          4.45
         ]
       }
     },
@@ -14222,7 +14222,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.45
+          0.5
         ]
       }
     },
@@ -14249,7 +14249,7 @@
         "currency": "CHF",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.66
         ]
       }
     },
@@ -14276,7 +14276,7 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          3.25
+          3.15
         ]
       }
     },
@@ -14303,7 +14303,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.6
+          5.4
         ]
       }
     },
@@ -14357,7 +14357,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.57
         ]
       }
     },
@@ -14384,7 +14384,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.45
+          4
         ]
       }
     },
@@ -14411,7 +14411,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -14438,7 +14438,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.49
         ]
       }
     },
@@ -14465,7 +14465,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.53
+          0.5
         ]
       }
     },
@@ -14492,7 +14492,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.46
+          0.53
         ]
       }
     },
@@ -14519,7 +14519,7 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          3.25
+          3.1
         ]
       }
     },
@@ -14546,7 +14546,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.58
         ]
       }
     },
@@ -14600,7 +14600,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.47
         ]
       }
     },
@@ -14654,7 +14654,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.1
+          5.05
         ]
       }
     },
@@ -14681,7 +14681,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          4.1
+          5.15
         ]
       }
     },
@@ -14708,7 +14708,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -14735,7 +14735,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.62
         ]
       }
     },
@@ -14762,7 +14762,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.57
         ]
       }
     },
@@ -14789,7 +14789,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.49
         ]
       }
     },
@@ -14816,7 +14816,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.45
+          0.5
         ]
       }
     },
@@ -14843,7 +14843,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.66
+          0.63
         ]
       }
     },
@@ -14870,7 +14870,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.6
+          4.3
         ]
       }
     },
@@ -14897,7 +14897,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.63
         ]
       }
     },
@@ -14978,7 +14978,7 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          3.4
+          3.6
         ]
       }
     },
@@ -15032,7 +15032,7 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          2.7
+          2.85
         ]
       }
     },
@@ -15059,7 +15059,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.62
         ]
       }
     },
@@ -15086,7 +15086,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -15140,7 +15140,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.55
         ]
       }
     },
@@ -15167,7 +15167,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -15221,7 +15221,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.55
         ]
       }
     },
@@ -15248,7 +15248,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.62
         ]
       }
     },
@@ -15302,7 +15302,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.51
         ]
       }
     },
@@ -15329,7 +15329,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -15437,7 +15437,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.25
+          3.8
         ]
       }
     },
@@ -15464,7 +15464,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.43
         ]
       }
     },
@@ -15545,7 +15545,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.55
         ]
       }
     },
@@ -15599,7 +15599,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.61
         ]
       }
     },
@@ -15626,7 +15626,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -15653,7 +15653,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.62
         ]
       }
     },
@@ -15680,7 +15680,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -15707,7 +15707,7 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          2.45
+          2.5
         ]
       }
     },
@@ -15734,7 +15734,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.55
         ]
       }
     },
@@ -15761,7 +15761,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.51
         ]
       }
     },
@@ -15788,7 +15788,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.55
         ]
       }
     },
@@ -15842,7 +15842,7 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          3.1
+          3.25
         ]
       }
     },
@@ -15869,7 +15869,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -15896,7 +15896,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.53
         ]
       }
     },
@@ -15923,7 +15923,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.2
+          3.75
         ]
       }
     },
@@ -15950,7 +15950,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.43
         ]
       }
     },
@@ -15977,7 +15977,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -16004,7 +16004,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -16031,7 +16031,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.25
+          5.3
         ]
       }
     },
@@ -16058,7 +16058,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.62
         ]
       }
     },
@@ -16112,7 +16112,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.05
+          4.95
         ]
       }
     },
@@ -16193,7 +16193,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.45
         ]
       }
     },
@@ -16220,7 +16220,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.46
+          0.51
         ]
       }
     },
@@ -16247,7 +16247,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.55
         ]
       }
     },
@@ -16274,7 +16274,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.15
+          5.15
         ]
       }
     },
@@ -16328,7 +16328,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.41
         ]
       }
     },
@@ -16355,7 +16355,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -16382,7 +16382,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.42
         ]
       }
     },
@@ -16409,7 +16409,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -16436,7 +16436,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.43
         ]
       }
     },
@@ -16463,7 +16463,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.45
         ]
       }
     },
@@ -16517,7 +16517,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.57
         ]
       }
     },
@@ -16544,7 +16544,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.46
+          0.51
         ]
       }
     },
@@ -16598,7 +16598,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.62
         ]
       }
     },
@@ -16625,7 +16625,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -16652,7 +16652,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.55
         ]
       }
     },
@@ -16679,7 +16679,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.46
+          0.51
         ]
       }
     },
@@ -16733,7 +16733,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.55
         ]
       }
     },
@@ -16787,7 +16787,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.44
+          0.57
         ]
       }
     },
@@ -16814,7 +16814,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.43
         ]
       }
     },
@@ -16852,7 +16852,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.61
         ]
       }
     },
@@ -16879,7 +16879,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.61
         ]
       }
     },
@@ -16906,7 +16906,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -16933,7 +16933,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -16960,7 +16960,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.55
         ]
       }
     },
@@ -17014,7 +17014,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          4
+          4.95
         ]
       }
     },
@@ -17068,7 +17068,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.67
         ]
       }
     },
@@ -17095,7 +17095,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -17122,7 +17122,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -17149,7 +17149,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -17176,7 +17176,7 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          2.75
+          3.05
         ]
       }
     },
@@ -17230,7 +17230,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.59
         ]
       }
     },
@@ -17257,7 +17257,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.68
         ]
       }
     },
@@ -17284,7 +17284,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.66
+          0.63
         ]
       }
     },
@@ -17311,7 +17311,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.25
+          3.8
         ]
       }
     },
@@ -17365,7 +17365,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.57
         ]
       }
     },
@@ -17419,7 +17419,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.59
         ]
       }
     },
@@ -17500,7 +17500,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.62
+          0.61
         ]
       }
     },
@@ -17554,7 +17554,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -17608,7 +17608,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.43
         ]
       }
     },
@@ -17635,7 +17635,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.54
         ]
       }
     },
@@ -17662,7 +17662,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.66
+          0.63
         ]
       }
     },
@@ -17689,7 +17689,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.44
         ]
       }
     },
@@ -17743,7 +17743,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.55
         ]
       }
     },
@@ -17797,7 +17797,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.59
         ]
       }
     },
@@ -17824,7 +17824,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -17878,7 +17878,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.61
         ]
       }
     },
@@ -17905,7 +17905,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.46
+          0.51
         ]
       }
     },
@@ -17932,7 +17932,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -17959,7 +17959,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.43
         ]
       }
     },
@@ -17986,7 +17986,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.35
+          0.47
         ]
       }
     },
@@ -18013,7 +18013,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.46
+          0.51
         ]
       }
     },
@@ -18040,7 +18040,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.58
         ]
       }
     },
@@ -18067,7 +18067,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.45
+          0.5
         ]
       }
     },
@@ -18094,7 +18094,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.63
         ]
       }
     },
@@ -18121,7 +18121,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -18229,7 +18229,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.63
         ]
       }
     },
@@ -18256,7 +18256,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.61
         ]
       }
     },
@@ -18283,7 +18283,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.45
         ]
       }
     },
@@ -18310,7 +18310,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.55
         ]
       }
     },
@@ -18337,7 +18337,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.62
         ]
       }
     },
@@ -18364,7 +18364,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.55
         ]
       }
     },
@@ -18391,7 +18391,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.25
+          5.3
         ]
       }
     },
@@ -18418,7 +18418,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.61
         ]
       }
     },
@@ -18445,7 +18445,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.55
         ]
       }
     },
@@ -18472,7 +18472,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -18499,7 +18499,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.54
         ]
       }
     },
@@ -18526,7 +18526,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.63
         ]
       }
     },
@@ -18553,7 +18553,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -18580,7 +18580,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.47
+          0.53
         ]
       }
     },
@@ -18607,7 +18607,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -18661,7 +18661,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.45
+          0.5
         ]
       }
     },
@@ -18688,7 +18688,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.49
         ]
       }
     },
@@ -18715,7 +18715,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.59
         ]
       }
     },
@@ -18742,7 +18742,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.85
+          4.75
         ]
       }
     },
@@ -18769,7 +18769,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.61
         ]
       }
     },
@@ -18796,7 +18796,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.61
         ]
       }
     },
@@ -18823,7 +18823,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.43
         ]
       }
     },
@@ -18850,7 +18850,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.38
+          0.42
         ]
       }
     },
@@ -18877,7 +18877,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.55
         ]
       }
     },
@@ -18904,7 +18904,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.43
         ]
       }
     },
@@ -18958,7 +18958,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.55
         ]
       }
     },
@@ -18985,7 +18985,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -19039,7 +19039,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.47
+          0.53
         ]
       }
     },
@@ -19066,7 +19066,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.59
         ]
       }
     },
@@ -19093,7 +19093,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          4.05
+          5.05
         ]
       }
     },
@@ -19120,7 +19120,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.55
         ]
       }
     },
@@ -19147,7 +19147,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.46
+          0.5
         ]
       }
     },
@@ -19174,7 +19174,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.59
         ]
       }
     },
@@ -19228,7 +19228,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.43
         ]
       }
     },
@@ -19255,7 +19255,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.61
         ]
       }
     },
@@ -19282,7 +19282,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.65
+          4.4
         ]
       }
     },
@@ -19309,7 +19309,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.38
+          0.39
         ]
       }
     },
@@ -19336,7 +19336,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.47
+          0.54
         ]
       }
     },
@@ -19363,7 +19363,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -19390,7 +19390,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.43
         ]
       }
     },
@@ -19417,7 +19417,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.61
         ]
       }
     },
@@ -19444,7 +19444,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.45
         ]
       }
     },
@@ -19471,7 +19471,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.58
         ]
       }
     },
@@ -19498,7 +19498,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.62
         ]
       }
     },
@@ -19525,7 +19525,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -19552,7 +19552,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -19579,7 +19579,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.43
+          0.49
         ]
       }
     },
@@ -19606,7 +19606,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.65
+          5.4
         ]
       }
     },
@@ -19633,7 +19633,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.39
+          0.43
         ]
       }
     },
@@ -19714,7 +19714,7 @@
         "currency": "SEK",
         "metric": "kwh",
         "rates": [
-          4.4
+          5.45
         ]
       }
     },
@@ -19752,7 +19752,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -19779,7 +19779,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.59
         ]
       }
     },
@@ -19806,7 +19806,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.45
         ]
       }
     },
@@ -19833,7 +19833,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.57
         ]
       }
     },
@@ -19860,7 +19860,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -19914,7 +19914,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.43
         ]
       }
     },
@@ -19952,7 +19952,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.55
         ]
       }
     },
@@ -19979,7 +19979,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -20033,7 +20033,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.59
         ]
       }
     },
@@ -20060,7 +20060,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.7
+          4.45
         ]
       }
     },
@@ -20087,7 +20087,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          4.3
+          5.4
         ]
       }
     },
@@ -20114,7 +20114,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.61
         ]
       }
     },
@@ -20141,7 +20141,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.5
         ]
       }
     },
@@ -20168,7 +20168,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.63
+          0.62
         ]
       }
     },
@@ -20249,7 +20249,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.53
         ]
       }
     },
@@ -20276,7 +20276,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.51
         ]
       }
     },
@@ -20303,7 +20303,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.38
+          0.39
         ]
       }
     },
@@ -20330,7 +20330,7 @@
         "currency": "DKK",
         "metric": "kwh",
         "rates": [
-          3.15
+          3.1
         ]
       }
     },
@@ -20357,7 +20357,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.58
+          0.59
         ]
       }
     },
@@ -20395,7 +20395,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.53
         ]
       }
     },
@@ -20422,7 +20422,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.65
+          4.4
         ]
       }
     },
@@ -20449,7 +20449,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.55
         ]
       }
     },
@@ -20476,7 +20476,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.54
         ]
       }
     },
@@ -20503,7 +20503,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.59
         ]
       }
     },
@@ -20530,7 +20530,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.55
         ]
       }
     },
@@ -20584,7 +20584,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.62
         ]
       }
     },
@@ -20611,7 +20611,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -20638,7 +20638,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.62
         ]
       }
     },
@@ -20665,7 +20665,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -20719,7 +20719,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.25
+          3.8
         ]
       }
     },
@@ -20746,7 +20746,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.42
+          0.46
         ]
       }
     },
@@ -20773,7 +20773,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.68
+          0.63
         ]
       }
     },
@@ -20800,7 +20800,7 @@
         "currency": "NOK",
         "metric": "kwh",
         "rates": [
-          3.8
+          4.6
         ]
       }
     },
@@ -20827,7 +20827,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.57
+          0.58
         ]
       }
     },
@@ -20854,7 +20854,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.52
+          0.51
         ]
       }
     },
@@ -20881,7 +20881,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.59
+          0.61
         ]
       }
     },
@@ -20935,7 +20935,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.65
+          0.62
         ]
       }
     },
@@ -20989,7 +20989,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.51
+          0.55
         ]
       }
     },
@@ -21016,7 +21016,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.5
+          0.49
         ]
       }
     },
@@ -21070,7 +21070,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.67
         ]
       }
     },
@@ -21097,7 +21097,7 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.61
+          0.62
         ]
       }
     },
@@ -21124,7 +21124,7 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.55
         ]
       }
     },
