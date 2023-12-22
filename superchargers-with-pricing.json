@@ -10845,14 +10845,14 @@
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.41
+          0.51
         ]
       },
       "user": {
         "currency": "GBP",
         "metric": "kwh",
         "rates": [
-          0.55
+          0.45
         ]
       }
     },
