@@ -13157,22 +13157,6 @@
     },
     "name": "Neuville-en-Ferrain, France",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.3
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.41
-        ]
-      }
-    },
     "stalls": 20,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -13589,22 +13573,6 @@
     },
     "name": "Mandelieu-la-Napoule, France",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.33
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.45
-        ]
-      }
-    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
