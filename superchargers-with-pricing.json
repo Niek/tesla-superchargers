@@ -8248,22 +8248,6 @@
     },
     "name": "Sondrio, Italy",
     "power": 150,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.47
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.63
-        ]
-      }
-    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -8437,22 +8421,6 @@
     },
     "name": "Antwerp, Belgium",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.39
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.53
-        ]
-      }
-    },
     "stalls": 14,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -9274,22 +9242,6 @@
     },
     "name": "Telford, UK",
     "power": 130,
-    "prices": {
-      "member": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.43
-        ]
-      },
-      "user": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.58
-        ]
-      }
-    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -9382,22 +9334,6 @@
     },
     "name": "Rennes Cleunay, France",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.32
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.43
-        ]
-      }
-    },
     "stalls": 20,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -9922,22 +9858,6 @@
     },
     "name": "Norwich Service Centre, UK",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.41
-        ]
-      },
-      "user": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.55
-        ]
-      }
-    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -10543,22 +10463,6 @@
     },
     "name": "Dundee, UK",
     "power": 150,
-    "prices": {
-      "member": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.41
-        ]
-      },
-      "user": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.55
-        ]
-      }
-    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -10732,22 +10636,6 @@
     },
     "name": "Membury, UK - Eastbound",
     "power": 150,
-    "prices": {
-      "member": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.49
-        ]
-      },
-      "user": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.66
-        ]
-      }
-    },
     "stalls": 6,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -11056,22 +10944,6 @@
     },
     "name": "Aire du Caylar, France",
     "power": 150,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.35
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.47
-        ]
-      }
-    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -11596,22 +11468,6 @@
     },
     "name": "Randers South, Denmark",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "DKK",
-        "metric": "kwh",
-        "rates": [
-          2.1
-        ]
-      },
-      "user": {
-        "currency": "DKK",
-        "metric": "kwh",
-        "rates": [
-          2.85
-        ]
-      }
-    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -13157,6 +13013,22 @@
     },
     "name": "Neuville-en-Ferrain, France",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.3
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.41
+        ]
+      }
+    },
     "stalls": 20,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -13573,6 +13445,22 @@
     },
     "name": "Mandelieu-la-Napoule, France",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.33
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.45
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
