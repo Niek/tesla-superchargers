@@ -8248,6 +8248,22 @@
     },
     "name": "Sondrio, Italy",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.47
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.63
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -8421,6 +8437,22 @@
     },
     "name": "Antwerp, Belgium",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.39
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.53
+        ]
+      }
+    },
     "stalls": 14,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -9242,6 +9274,22 @@
     },
     "name": "Telford, UK",
     "power": 130,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.43
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.58
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -9334,6 +9382,22 @@
     },
     "name": "Rennes Cleunay, France",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.32
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.43
+        ]
+      }
+    },
     "stalls": 20,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -9858,6 +9922,22 @@
     },
     "name": "Norwich Service Centre, UK",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.41
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.55
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -10463,6 +10543,22 @@
     },
     "name": "Dundee, UK",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.41
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.55
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -10636,6 +10732,22 @@
     },
     "name": "Membury, UK - Eastbound",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.49
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.66
+        ]
+      }
+    },
     "stalls": 6,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -10647,22 +10759,6 @@
     },
     "name": "Girona, Spain",
     "power": 150,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.4
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.54
-        ]
-      }
-    },
     "stalls": 4,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -10701,22 +10797,6 @@
     },
     "name": "Forte dei Marmi, Italy",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.47
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.63
-        ]
-      }
-    },
     "stalls": 20,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -10944,6 +11024,22 @@
     },
     "name": "Aire du Caylar, France",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.35
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.47
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -11144,22 +11240,6 @@
     },
     "name": "Metz, France",
     "power": 150,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.35
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.47
-        ]
-      }
-    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -11468,6 +11548,22 @@
     },
     "name": "Randers South, Denmark",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "DKK",
+        "metric": "kwh",
+        "rates": [
+          2.1
+        ]
+      },
+      "user": {
+        "currency": "DKK",
+        "metric": "kwh",
+        "rates": [
+          2.85
+        ]
+      }
+    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -12165,22 +12261,6 @@
     },
     "name": "Warwick, UK - Southbound",
     "power": 150,
-    "prices": {
-      "member": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.43
-        ]
-      },
-      "user": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.58
-        ]
-      }
-    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -12554,22 +12634,6 @@
     },
     "name": "Mondovì, Italy",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.47
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.63
-        ]
-      }
-    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -12824,22 +12888,6 @@
     },
     "name": "Lillesand, Norway",
     "power": 150,
-    "prices": {
-      "member": {
-        "currency": "NOK",
-        "metric": "kwh",
-        "rates": [
-          3.25
-        ]
-      },
-      "user": {
-        "currency": "NOK",
-        "metric": "kwh",
-        "rates": [
-          4.4
-        ]
-      }
-    },
     "stalls": 24,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -13526,22 +13574,6 @@
     },
     "name": "Birmingham, UK - St Andrews",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.41
-        ]
-      },
-      "user": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.55
-        ]
-      }
-    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -14822,22 +14854,6 @@
     },
     "name": "Nykøbing Mors, Denmark",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "DKK",
-        "metric": "kwh",
-        "rates": [
-          2.65
-        ]
-      },
-      "user": {
-        "currency": "DKK",
-        "metric": "kwh",
-        "rates": [
-          3.6
-        ]
-      }
-    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -16361,22 +16377,6 @@
     },
     "name": "Emsbüren, Germany",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.42
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.57
-        ]
-      }
-    },
     "stalls": 24,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -17020,22 +17020,6 @@
     },
     "name": "Nørre Alslev, Denmark",
     "power": 125,
-    "prices": {
-      "member": {
-        "currency": "DKK",
-        "metric": "kwh",
-        "rates": [
-          2.25
-        ]
-      },
-      "user": {
-        "currency": "DKK",
-        "metric": "kwh",
-        "rates": [
-          3.05
-        ]
-      }
-    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
