@@ -1951,6 +1951,22 @@
     },
     "name": "Kerpen, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.43
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.58
+        ]
+      }
+    },
     "stalls": 19,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3118,6 +3134,22 @@
     },
     "name": "Perugia South, Italy",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.47
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.63
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3534,6 +3566,22 @@
     },
     "name": "Hamburg - Service Center, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.42
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.57
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3734,6 +3782,22 @@
     },
     "name": "Hovden, Norway",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "NOK",
+        "metric": "kwh",
+        "rates": [
+          3.3
+        ]
+      },
+      "user": {
+        "currency": "NOK",
+        "metric": "kwh",
+        "rates": [
+          4.45
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4123,6 +4187,22 @@
     },
     "name": "Palmanova, Italy",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.47
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.63
+        ]
+      }
+    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -8465,6 +8545,22 @@
     },
     "name": "Monte Ceneri, Switzerland",
     "power": 125,
+    "prices": {
+      "member": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.48
+        ]
+      },
+      "user": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.65
+        ]
+      }
+    },
     "stalls": 6,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -8854,6 +8950,22 @@
     },
     "name": "Getafe, Spain",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.4
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.54
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -9189,6 +9301,22 @@
     },
     "name": "Barnsley, UK",
     "power": 130,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.31
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.42
+        ]
+      }
+    },
     "stalls": 2,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -9389,6 +9517,22 @@
     },
     "name": "Troyes, France - Saint-Parres-aux-Tertres",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.32
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.43
+        ]
+      }
+    },
     "stalls": 26,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -9562,22 +9706,6 @@
     },
     "name": "Bersteland, Germany",
     "power": 120,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.46
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.62
-        ]
-      }
-    },
     "stalls": 6,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
