@@ -4241,22 +4241,6 @@
     },
     "name": "Burgos, Spain",
     "power": 150,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.4
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.54
-        ]
-      }
-    },
     "stalls": 6,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4376,22 +4360,6 @@
     },
     "name": "Vélizy 2, France",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.29
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.39
-        ]
-      }
-    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -5737,22 +5705,6 @@
     },
     "name": "Jung, Sweden",
     "power": 150,
-    "prices": {
-      "member": {
-        "currency": "SEK",
-        "metric": "kwh",
-        "rates": [
-          4.25
-        ]
-      },
-      "user": {
-        "currency": "SEK",
-        "metric": "kwh",
-        "rates": [
-          5.4
-        ]
-      }
-    },
     "stalls": 6,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -6412,22 +6364,6 @@
     },
     "name": "Nürburgring, Germany",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.41
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.55
-        ]
-      }
-    },
     "stalls": 4,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -6574,22 +6510,6 @@
     },
     "name": "Beckenried, Switzerland",
     "power": 125,
-    "prices": {
-      "member": {
-        "currency": "CHF",
-        "metric": "kwh",
-        "rates": [
-          0.49
-        ]
-      },
-      "user": {
-        "currency": "CHF",
-        "metric": "kwh",
-        "rates": [
-          0.66
-        ]
-      }
-    },
     "stalls": 6,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -7411,22 +7331,6 @@
     },
     "name": "Hanau, Germany",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.43
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.58
-        ]
-      }
-    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -7897,22 +7801,6 @@
     },
     "name": "Moers, Germany",
     "power": 150,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.44
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.59
-        ]
-      }
-    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -8248,22 +8136,6 @@
     },
     "name": "Sondrio, Italy",
     "power": 150,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.47
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.63
-        ]
-      }
-    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -9085,22 +8957,6 @@
     },
     "name": "Rivesaltes, France",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.34
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.46
-        ]
-      }
-    },
     "stalls": 20,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -9409,22 +9265,6 @@
     },
     "name": "Biganos, France",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.31
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.42
-        ]
-      }
-    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -9706,6 +9546,22 @@
     },
     "name": "Bersteland, Germany",
     "power": 120,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.46
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.62
+        ]
+      }
+    },
     "stalls": 6,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -10338,22 +10194,6 @@
     },
     "name": "Eurotunnel, France - Terminal",
     "power": 125,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.4
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.54
-        ]
-      }
-    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -11013,22 +10853,6 @@
     },
     "name": "Gothenburg South, Sweden",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "SEK",
-        "metric": "kwh",
-        "rates": [
-          3.25
-        ]
-      },
-      "user": {
-        "currency": "SEK",
-        "metric": "kwh",
-        "rates": [
-          4.4
-        ]
-      }
-    },
     "stalls": 28,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -11553,22 +11377,6 @@
     },
     "name": "Nîmes, France - Carré Sud",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.33
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.45
-        ]
-      }
-    },
     "stalls": 28,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -13114,22 +12922,6 @@
     },
     "name": "Öhringen, Germany",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.43
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.58
-        ]
-      }
-    },
     "stalls": 20,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -13951,22 +13743,6 @@
     },
     "name": "Membury, UK - Westbound",
     "power": 150,
-    "prices": {
-      "member": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.47
-        ]
-      },
-      "user": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.63
-        ]
-      }
-    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -14410,22 +14186,6 @@
     },
     "name": "Le Mans, France - Saint-Saturnin",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.36
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.49
-        ]
-      }
-    },
     "stalls": 20,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -14518,22 +14278,6 @@
     },
     "name": "Beelitz, Germany",
     "power": 150,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.43
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.58
-        ]
-      }
-    },
     "stalls": 14,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -15409,22 +15153,6 @@
     },
     "name": "Liertoppen, Norway",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "NOK",
-        "metric": "kwh",
-        "rates": [
-          2.75
-        ]
-      },
-      "user": {
-        "currency": "NOK",
-        "metric": "kwh",
-        "rates": [
-          3.8
-        ]
-      }
-    },
     "stalls": 40,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
