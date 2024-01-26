@@ -14917,14 +14917,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.4
+          0.38
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.54
+          0.51
         ]
       }
     },
