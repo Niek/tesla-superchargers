@@ -14383,22 +14383,6 @@
     },
     "name": "Benavente, Spain",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.38
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.51
-        ]
-      }
-    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -15004,22 +14988,6 @@
     },
     "name": "Slagelse, Denmark",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "DKK",
-        "metric": "kwh",
-        "rates": [
-          2.2
-        ]
-      },
-      "user": {
-        "currency": "DKK",
-        "metric": "kwh",
-        "rates": [
-          2.95
-        ]
-      }
-    },
     "stalls": 26,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -15625,22 +15593,6 @@
     },
     "name": "Kirchheim, Germany",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.41
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.55
-        ]
-      }
-    },
     "stalls": 20,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
