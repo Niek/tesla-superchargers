@@ -20977,22 +20977,6 @@
     },
     "name": "Dartford, UK",
     "power": 130,
-    "prices": {
-      "member": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.39
-        ]
-      },
-      "user": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.53
-        ]
-      }
-    },
     "stalls": 17,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
