@@ -3809,6 +3809,22 @@
     },
     "name": "Burtonwood, UK",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.44
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.59
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -3955,6 +3971,22 @@
     },
     "name": "Arezzo, Italy",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.46
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.62
+        ]
+      }
+    },
     "stalls": 24,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4155,6 +4187,22 @@
     },
     "name": "Palmanova, Italy",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.46
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.62
+        ]
+      }
+    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4517,6 +4565,22 @@
     },
     "name": "Zella-Mehlis, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.41
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.55
+        ]
+      }
+    },
     "stalls": 20,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -4798,6 +4862,22 @@
     },
     "name": "Stord, Norway",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "NOK",
+        "metric": "kwh",
+        "rates": [
+          3.75
+        ]
+      },
+      "user": {
+        "currency": "NOK",
+        "metric": "kwh",
+        "rates": [
+          5.05
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -5630,6 +5710,22 @@
     },
     "name": "Busdorf, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.43
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.58
+        ]
+      }
+    },
     "stalls": 28,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -5857,6 +5953,22 @@
     },
     "name": "Avignon, France - Le Pontet",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.39
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.51
+        ]
+      }
+    },
     "stalls": 28,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -6057,6 +6169,22 @@
     },
     "name": "Chelmsford, UK",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.39
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.53
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -6149,6 +6277,22 @@
     },
     "name": "Urmond, Netherlands",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.37
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.5
+        ]
+      }
+    },
     "stalls": 20,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
