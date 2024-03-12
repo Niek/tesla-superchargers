@@ -14453,6 +14453,22 @@
     },
     "name": "Liege, Belgium",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.37
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.5
+        ]
+      }
+    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -14572,6 +14588,22 @@
     },
     "name": "Montélimar, France",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.35
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.47
+        ]
+      }
+    },
     "stalls": 28,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -14691,6 +14723,22 @@
     },
     "name": "Wuppertal, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.42
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.57
+        ]
+      }
+    },
     "stalls": 20,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -14837,6 +14885,22 @@
     },
     "name": "San Giuliano Milanese, Italy",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.46
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.62
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -15064,6 +15128,22 @@
     },
     "name": "Northampton, UK - Grange Park",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.39
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.53
+        ]
+      }
+    },
     "stalls": 6,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -15210,6 +15290,22 @@
     },
     "name": "London, UK - Park Royal",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.53
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.72
+        ]
+      }
+    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -15275,6 +15371,22 @@
     },
     "name": "Middelburg, Netherlands",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.38
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.51
+        ]
+      }
+    },
     "stalls": 10,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -15934,6 +16046,22 @@
     },
     "name": "Bernau am Chiemsee, Germany",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.43
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.58
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -16107,6 +16235,22 @@
     },
     "name": "Aberdeen, UK - Service Centre",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.39
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.53
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -16831,6 +16975,22 @@
     },
     "name": "Reinfeld, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.41
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.55
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -19515,6 +19675,22 @@
     },
     "name": "Oosterhout, Netherlands",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.37
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.5
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -19526,6 +19702,22 @@
     },
     "name": "Ödeshög, Sweden",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "SEK",
+        "metric": "kwh",
+        "rates": [
+          4.9
+        ]
+      },
+      "user": {
+        "currency": "SEK",
+        "metric": "kwh",
+        "rates": [
+          6
+        ]
+      }
+    },
     "stalls": 14,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
