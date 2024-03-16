@@ -19648,22 +19648,6 @@
     },
     "name": "Obfelden, Switzerland",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "CHF",
-        "metric": "kwh",
-        "rates": [
-          0.41
-        ]
-      },
-      "user": {
-        "currency": "CHF",
-        "metric": "kwh",
-        "rates": [
-          0.55
-        ]
-      }
-    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
