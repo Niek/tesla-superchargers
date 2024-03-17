@@ -12860,22 +12860,6 @@
     },
     "name": "Hasselt, Belgium",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.37
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.5
-        ]
-      }
-    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -12995,22 +12979,6 @@
     },
     "name": "Évry-Courcouronnes, France",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.43
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.58
-        ]
-      }
-    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -13643,22 +13611,6 @@
     },
     "name": "Wavre, Belgium",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.38
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.51
-        ]
-      }
-    },
     "stalls": 24,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -13751,22 +13703,6 @@
     },
     "name": "Maribo, Denmark",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "DKK",
-        "metric": "kwh",
-        "rates": [
-          2.75
-        ]
-      },
-      "user": {
-        "currency": "DKK",
-        "metric": "kwh",
-        "rates": [
-          3.7
-        ]
-      }
-    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -14129,22 +14065,6 @@
     },
     "name": "Knetzgau, Germany",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.44
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.59
-        ]
-      }
-    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -19648,6 +19568,22 @@
     },
     "name": "Obfelden, Switzerland",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.41
+        ]
+      },
+      "user": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.55
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
