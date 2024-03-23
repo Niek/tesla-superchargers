@@ -196,22 +196,6 @@
     },
     "name": "Caen, France",
     "power": 150,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.32
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.4
-        ]
-      }
-    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -547,22 +531,6 @@
     },
     "name": "Rosenheim, Germany",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.43
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.56
-        ]
-      }
-    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -655,22 +623,6 @@
     },
     "name": "Aberystwyth, UK",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.38
-        ]
-      },
-      "user": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.46
-        ]
-      }
-    },
     "stalls": 6,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -709,22 +661,6 @@
     },
     "name": "Wittenburg, Germany",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.46
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.62
-        ]
-      }
-    },
     "stalls": 10,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -844,22 +780,6 @@
     },
     "name": "Nivelles-Sud, Belgium",
     "power": 150,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.39
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.5
-        ]
-      }
-    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -1816,22 +1736,6 @@
     },
     "name": "Pfäffikon, Switzerland - Seedamm-Center",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "CHF",
-        "metric": "kwh",
-        "rates": [
-          0.41
-        ]
-      },
-      "user": {
-        "currency": "CHF",
-        "metric": "kwh",
-        "rates": [
-          0.54
-        ]
-      }
-    },
     "stalls": 15,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -2599,22 +2503,6 @@
     },
     "name": "Blyth, UK",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.43
-        ]
-      },
-      "user": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.58
-        ]
-      }
-    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -2918,22 +2806,6 @@
     },
     "name": "Aviemore, UK",
     "power": 150,
-    "prices": {
-      "member": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.4
-        ]
-      },
-      "user": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.5
-        ]
-      }
-    },
     "stalls": 4,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -8032,22 +7904,6 @@
     },
     "name": "Ferrybridge, UK",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.41
-        ]
-      },
-      "user": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.55
-        ]
-      }
-    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -9652,22 +9508,6 @@
     },
     "name": "Poitiers Sud, France",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.31
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.4
-        ]
-      }
-    },
     "stalls": 28,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -11823,22 +11663,6 @@
     },
     "name": "Troisdorf, Germany",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.43
-        ]
-      },
-      "user": {
-        "currency": "EUR",
-        "metric": "kwh",
-        "rates": [
-          0.55
-        ]
-      }
-    },
     "stalls": 20,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -14507,22 +14331,6 @@
     },
     "name": "Hjørring, Denmark",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "DKK",
-        "metric": "kwh",
-        "rates": [
-          2.05
-        ]
-      },
-      "user": {
-        "currency": "DKK",
-        "metric": "kwh",
-        "rates": [
-          2.65
-        ]
-      }
-    },
     "stalls": 28,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
