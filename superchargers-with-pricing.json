@@ -11299,6 +11299,22 @@
     },
     "name": "Rygge, Norway",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "NOK",
+        "metric": "kwh",
+        "rates": [
+          3.5
+        ]
+      },
+      "user": {
+        "currency": "NOK",
+        "metric": "kwh",
+        "rates": [
+          4.7
+        ]
+      }
+    },
     "stalls": 42,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -12817,6 +12833,22 @@
     },
     "name": "Aosta, Italy - A5 dir. Torino",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.48
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.65
+        ]
+      }
+    },
     "stalls": 4,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -13098,6 +13130,22 @@
     },
     "name": "Öhringen, Germany",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.43
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.56
+        ]
+      }
+    },
     "stalls": 20,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -13622,6 +13670,22 @@
     },
     "name": "Birmingham, UK - St Andrews",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.36
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.44
+        ]
+      }
+    },
     "stalls": 16,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -13768,6 +13832,22 @@
     },
     "name": "Barbastro, Spain",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.41
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.55
+        ]
+      }
+    },
     "stalls": 4,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -13941,6 +14021,22 @@
     },
     "name": "Flint Mountain, UK",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.36
+        ]
+      },
+      "user": {
+        "currency": "GBP",
+        "metric": "kwh",
+        "rates": [
+          0.44
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
