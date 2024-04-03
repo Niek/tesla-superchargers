@@ -19189,6 +19189,22 @@
     },
     "name": "Emmen, Netherlands",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.32
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.4
+        ]
+      }
+    },
     "stalls": 12,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
