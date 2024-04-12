@@ -2761,6 +2761,22 @@
     },
     "name": "Plzeň, Czech Republic",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "CZK",
+        "metric": "kwh",
+        "rates": [
+          10
+        ]
+      },
+      "user": {
+        "currency": "CZK",
+        "metric": "kwh",
+        "rates": [
+          13.5
+        ]
+      }
+    },
     "stalls": 6,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -2772,6 +2788,22 @@
     },
     "name": "Senj, Croatia",
     "power": 90,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.42
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.57
+        ]
+      }
+    },
     "stalls": 4,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -5375,6 +5407,22 @@
     },
     "name": "Ljubljana, Slovenia",
     "power": 125,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.4
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.54
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -11812,6 +11860,22 @@
     },
     "name": "Vestec, Czech Republic",
     "power": 125,
+    "prices": {
+      "member": {
+        "currency": "CZK",
+        "metric": "kwh",
+        "rates": [
+          10
+        ]
+      },
+      "user": {
+        "currency": "CZK",
+        "metric": "kwh",
+        "rates": [
+          13.5
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -12498,6 +12562,22 @@
     },
     "name": "Lovosice, Czech Republic",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "CZK",
+        "metric": "kwh",
+        "rates": [
+          10
+        ]
+      },
+      "user": {
+        "currency": "CZK",
+        "metric": "kwh",
+        "rates": [
+          13.5
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -16829,6 +16909,22 @@
     },
     "name": "Žirovnica, Slovenia",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.4
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.54
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -19729,6 +19825,22 @@
     },
     "name": "Schaan, Liechtenstein",
     "power": 125,
+    "prices": {
+      "member": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.38
+        ]
+      },
+      "user": {
+        "currency": "CHF",
+        "metric": "kwh",
+        "rates": [
+          0.5
+        ]
+      }
+    },
     "stalls": 10,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -19929,6 +20041,22 @@
     },
     "name": "Kamenný Újezd, Czech Republic",
     "power": 250,
+    "prices": {
+      "member": {
+        "currency": "CZK",
+        "metric": "kwh",
+        "rates": [
+          10
+        ]
+      },
+      "user": {
+        "currency": "CZK",
+        "metric": "kwh",
+        "rates": [
+          13.5
+        ]
+      }
+    },
     "stalls": 8,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -20372,6 +20500,22 @@
     },
     "name": "Kozina, Slovenia",
     "power": 150,
+    "prices": {
+      "member": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.4
+        ]
+      },
+      "user": {
+        "currency": "EUR",
+        "metric": "kwh",
+        "rates": [
+          0.52
+        ]
+      }
+    },
     "stalls": 6,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
