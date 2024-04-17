@@ -1065,14 +1065,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.35
+          0.32
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.44
+          0.41
         ]
       }
     },
@@ -8593,22 +8593,6 @@
     },
     "name": "Monte Ceneri, Switzerland",
     "power": 125,
-    "prices": {
-      "member": {
-        "currency": "CHF",
-        "metric": "kwh",
-        "rates": [
-          0.41
-        ]
-      },
-      "user": {
-        "currency": "CHF",
-        "metric": "kwh",
-        "rates": [
-          0.55
-        ]
-      }
-    },
     "stalls": 6,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
@@ -15024,14 +15008,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.46
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.63
+          0.61
         ]
       }
     },
@@ -20289,14 +20273,14 @@
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.49
+          0.46
         ]
       },
       "user": {
         "currency": "EUR",
         "metric": "kwh",
         "rates": [
-          0.64
+          0.61
         ]
       }
     },
