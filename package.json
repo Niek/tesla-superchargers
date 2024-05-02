@@ -10,7 +10,7 @@
     "license": "ISC",
     "dependencies": {
         "commander": "^11.1.0",
-        "ejs": "^3.1.8",
+        "ejs": "^3.1.10",
         "got": "^13.0.0",
         "hpagent": "^1.2.0"
     },
