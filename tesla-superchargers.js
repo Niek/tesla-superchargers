@@ -12,6 +12,8 @@ const apiCall = async (url, json, token) => {
   try {
     return await got.post(url, {
       headers: {
+        'User-Agent': 'Mozilla/5.0 (Linux)',
+        'Content-Type': 'application/json; charset=utf-8',
         Authorization: `Bearer ${token}`
       },
       retry: {
