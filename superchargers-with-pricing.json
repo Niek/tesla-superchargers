@@ -12751,22 +12751,6 @@
     },
     "name": "Newark, UK",
     "power": 250,
-    "prices": {
-      "member": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.35
-        ]
-      },
-      "user": {
-        "currency": "GBP",
-        "metric": "kwh",
-        "rates": [
-          0.43
-        ]
-      }
-    },
     "stalls": 10,
     "type": "SITE_TYPE_SUPERCHARGER"
   },
